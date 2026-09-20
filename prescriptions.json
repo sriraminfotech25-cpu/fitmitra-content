@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "sources": [
+    "ACSM Position Stand on Resistance Training (2026): strength ~80% 1RM 2-3 sets; hypertrophy any load taken to 2-3 reps in reserve, ~10 sets/muscle/week; endurance <50% 1RM 15-25 reps",
+    "Strength Level beginner standards (195M lifts): bench 0.5, squat 0.75, deadlift 1.0 x bodyweight; women ~0.8 lower body / ~0.65 upper body",
+    "Compendium of Physical Activities 2024: resistance training moderate 5.0 MET"
+  ],
+  "goals": {
+    "fat_loss":    { "sets": 3, "repsMin": 12, "repsMax": 15, "restSec": 60,  "intensity": 0.65, "holdSec": 30, "cardioMin": 30 },
+    "maintain":    { "sets": 3, "repsMin": 8,  "repsMax": 12, "restSec": 90,  "intensity": 0.75, "holdSec": 45, "cardioMin": 20 },
+    "muscle_gain": { "sets": 4, "repsMin": 6,  "repsMax": 10, "restSec": 120, "intensity": 0.80, "holdSec": 45, "cardioMin": 15 }
+  },
+  "sexFactor": {
+    "woman": { "lower": 0.8, "upper": 0.65 },
+    "man":   { "lower": 1.0, "upper": 1.0 }
+  },
+  "liftRatios": {
+    "bench press":            { "ratio": 0.50, "region": "upper" },
+    "incline bench press":    { "ratio": 0.40, "region": "upper" },
+    "squat":                  { "ratio": 0.75, "region": "lower" },
+    "back squat":             { "ratio": 0.75, "region": "lower" },
+    "front squat":            { "ratio": 0.60, "region": "lower" },
+    "deadlift":               { "ratio": 1.00, "region": "lower" },
+    "romanian deadlift":      { "ratio": 0.75, "region": "lower" },
+    "overhead press":         { "ratio": 0.35, "region": "upper" },
+    "shoulder press":         { "ratio": 0.35, "region": "upper" },
+    "barbell row":            { "ratio": 0.60, "region": "upper" },
+    "bent over row":          { "ratio": 0.60, "region": "upper" },
+    "hip thrust":             { "ratio": 1.00, "region": "lower" },
+    "leg press":              { "ratio": 1.50, "region": "lower" },
+    "lat pulldown":           { "ratio": 0.50, "region": "upper" }
+  },
+  "categoryRatios": {
+    "chest":     { "ratio": 0.25, "region": "upper" },
+    "back":      { "ratio": 0.30, "region": "upper" },
+    "legs":      { "ratio": 0.50, "region": "lower" },
+    "shoulders": { "ratio": 0.15, "region": "upper" },
+    "arms":      { "ratio": 0.10, "region": "upper" },
+    "core":      { "ratio": 0.00, "region": "upper" }
+  },
+  "dumbbellShare": 0.5,
+  "roundKg": 2.5,
+  "minKg": 2.5,
+  "secondsPerRep": 3,
+  "metResistance": 5.0,
+  "progression": { "weightKg": 2.5, "cardioMin": 5 }
+}

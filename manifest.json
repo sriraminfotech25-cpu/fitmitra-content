@@ -168,6 +168,10 @@
    "bytes": 81680,
    "sha256": "ec16a03dd1a72009004d286c6788734823639284a67b450382cc81ab5b19a6c4"
   },
+  "images/cycling.webp": {
+   "bytes": 42542,
+   "sha256": "fc1f3d03d5e9572e86e9faeceb6bd9c0ce2327c9ba4e155feeb877ef923b6e9f"
+  },
   "images/dead_bug.webp": {
    "bytes": 96660,
    "sha256": "8c9a2b9797ec5a8ffdb8a68312d8f6c7c827de4a17bdc0dd9aeaf6b8f2ce6837"
@@ -231,6 +235,10 @@
   "images/flutter_kick.webp": {
    "bytes": 73076,
    "sha256": "6647d220dc67f52779a9b32e3696faee72885987fb9d5618b7dd4e9bce42e0aa"
+  },
+  "images/forearm_stretch.webp": {
+   "bytes": 32282,
+   "sha256": "af4197561380cce5fd8e7acf1b30e54097d44644287a084b247be4092d2e340f"
   },
   "images/front_raise.webp": {
    "bytes": 101184,
@@ -460,6 +468,10 @@
    "bytes": 115622,
    "sha256": "8eda2e969858dd3c9c5b75b0d44c26482dfccc861c3376be2904ffddaf73d813"
   },
+  "images/reverse_fly.webp": {
+   "bytes": 39642,
+   "sha256": "abe9466a5b49cbf09d056e7ceccf719754fee9e140d792001e03f711b6e8dda8"
+  },
   "images/reverse_lunge.webp": {
    "bytes": 42374,
    "sha256": "fe960f98f89db2e230d382f5009dc98ed0db8586f98f4eaa3c125808f7e560db"
@@ -479,6 +491,10 @@
   "images/rowing_erg_sprint.webp": {
    "bytes": 82584,
    "sha256": "434a6205c0e76c6d99510500954e76364a111890f1392efdd97a3a8a554379ce"
+  },
+  "images/running.webp": {
+   "bytes": 34214,
+   "sha256": "5b61a3710354224b029ffc7b9419c4975732a6580e421ac5db249483b4976342"
   },
   "images/russian_twist.webp": {
    "bytes": 153254,
@@ -535,6 +551,10 @@
   "images/skater_jump.webp": {
    "bytes": 58218,
    "sha256": "f3ccc6fbaadc2f75ad4160a49521691df896bf97cb7ac9853532359289933347"
+  },
+  "images/skipping.webp": {
+   "bytes": 45380,
+   "sha256": "849a59f60921efa4b654dbf27bb17ca9dbda3d2c9e55b25a9b654762cf03864d"
   },
   "images/skull_crusher.webp": {
    "bytes": 186654,
@@ -616,6 +636,10 @@
    "bytes": 53864,
    "sha256": "5a8cdcfda3be7bb0213c4480c317447b1abaee90e8fdcbc9e9e8eeb592a71d0a"
   },
+  "images/walking.webp": {
+   "bytes": 35696,
+   "sha256": "026ee3be720c7b57831b2fe553d445744c416c2b8a04d185a2ab4747c56db12e"
+  },
   "images/walking_burpee.webp": {
    "bytes": 108974,
    "sha256": "26bb28bee746215714b3638fbcb9fc1b7156d25c4160fbdc4068891d787696bf"
@@ -648,6 +672,10 @@
    "bytes": 45112,
    "sha256": "9fb6895ec6234bc2aefb2ed1dc6005a14b33fcde5d61cb5ea92e468c05d5345a"
   },
+  "images/wrist_circle.webp": {
+   "bytes": 38260,
+   "sha256": "dcb989242071bb67f74acabbda0d85fac7efe19179f3905932014400d3ebdb8d"
+  },
   "images/y_raise.webp": {
    "bytes": 90374,
    "sha256": "ca60b327adc63ffc893d5555ad113158280b22f1ed7b042f539c7333c1544ee2"
@@ -655,7 +683,11 @@
   "images/z_press.webp": {
    "bytes": 43790,
    "sha256": "ea9e74d9de54e9a1000b5428401d3ce5a49f996b5d9b71893943775ddfd81a00"
+  },
+  "prescriptions.json": {
+   "bytes": 2467,
+   "sha256": "b1a32fec1381897a9ff09fca8404ec410402dfe3410dec4d1c986aacd6a36369"
   }
  },
- "version": 1
+ "version": 2
 }
