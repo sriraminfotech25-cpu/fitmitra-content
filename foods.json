@@ -13,7 +13,8 @@
     },
     "unitGrams": 45,
     "name_hi": "इडली",
-    "name_te": "ఇడ్లీ"
+    "name_te": "ఇడ్లీ",
+    "diet": "veg"
   },
   "dosa": {
     "name": "Dosa",
@@ -29,7 +30,8 @@
     },
     "unitGrams": 90,
     "name_hi": "डोसा",
-    "name_te": "దోస"
+    "name_te": "దోస",
+    "diet": "veg"
   },
   "chapati": {
     "name": "Chapati",
@@ -46,7 +48,8 @@
     },
     "unitGrams": 35,
     "name_hi": "चपाती",
-    "name_te": "చపాతీ"
+    "name_te": "చపాతీ",
+    "diet": "veg"
   },
   "rice_cooked": {
     "name": "Cooked Rice",
@@ -62,7 +65,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका चावल",
-    "name_te": "అన్నం"
+    "name_te": "అన్నం",
+    "diet": "veg"
   },
   "egg_boiled": {
     "name": "Boiled Egg",
@@ -78,7 +82,8 @@
     },
     "unitGrams": 50,
     "name_hi": "उबला अंडा",
-    "name_te": "ఉడికించిన గుడ్డు"
+    "name_te": "ఉడికించిన గుడ్డు",
+    "diet": "egg"
   },
   "banana": {
     "name": "Banana",
@@ -92,7 +97,8 @@
     },
     "unitGrams": 120,
     "name_hi": "केला",
-    "name_te": "అరటిపండు"
+    "name_te": "అరటిపండు",
+    "diet": "veg"
   },
   "oats_raw": {
     "name": "Oats (Raw)",
@@ -109,7 +115,8 @@
     },
     "unitGrams": 40,
     "name_hi": "ओट्स",
-    "name_te": "ఓట్స్"
+    "name_te": "ఓట్స్",
+    "diet": "veg"
   },
   "lentils_cooked": {
     "name": "Lentils (Cooked)",
@@ -127,7 +134,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पकी दाल",
-    "name_te": "ఉడికించిన పప్పు"
+    "name_te": "ఉడికించిన పప్పు",
+    "diet": "veg"
   },
   "chickpeas_cooked": {
     "name": "Chickpeas (Cooked)",
@@ -144,7 +152,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पके छोले",
-    "name_te": "ఉడికించిన శనగలు"
+    "name_te": "ఉడికించిన శనగలు",
+    "diet": "veg"
   },
   "apple_raw": {
     "name": "Apple (Raw)",
@@ -160,7 +169,8 @@
     },
     "unitGrams": 180,
     "name_hi": "सेब",
-    "name_te": "ఆపిల్"
+    "name_te": "ఆపిల్",
+    "diet": "veg"
   },
   "spinach_raw": {
     "name": "Spinach (Raw)",
@@ -177,7 +187,8 @@
     },
     "unitGrams": 30,
     "name_hi": "पालक",
-    "name_te": "పాలకూర"
+    "name_te": "పాలకూర",
+    "diet": "veg"
   },
   "milk_whole": {
     "name": "Milk (Whole)",
@@ -194,7 +205,8 @@
     },
     "unitGrams": 240,
     "name_hi": "दूध",
-    "name_te": "పాలు"
+    "name_te": "పాలు",
+    "diet": "veg"
   },
   "yogurt_plain_whole": {
     "name": "Yogurt (Plain, Whole Milk)",
@@ -212,7 +224,8 @@
     },
     "unitGrams": 150,
     "name_hi": "दही",
-    "name_te": "పెరుగు"
+    "name_te": "పెరుగు",
+    "diet": "veg"
   },
   "chicken_breast_roasted": {
     "name": "Chicken Breast (Roasted)",
@@ -228,7 +241,8 @@
     },
     "unitGrams": 100,
     "name_hi": "भुना चिकन ब्रेस्ट",
-    "name_te": "కాల్చిన చికెన్ బ్రెస్ట్"
+    "name_te": "కాల్చిన చికెన్ బ్రెస్ట్",
+    "diet": "nonveg"
   },
   "tofu_regular_raw": {
     "name": "Tofu (Regular, Raw)",
@@ -244,7 +258,8 @@
     },
     "unitGrams": 85,
     "name_hi": "टोफू",
-    "name_te": "టోఫు"
+    "name_te": "టోఫు",
+    "diet": "veg"
   },
   "almonds_raw": {
     "name": "Almonds",
@@ -261,7 +276,8 @@
     },
     "unitGrams": 28,
     "name_hi": "बादाम",
-    "name_te": "బాదం"
+    "name_te": "బాదం",
+    "diet": "veg"
   },
   "salmon_atlantic_cooked": {
     "name": "Salmon (Atlantic, Cooked)",
@@ -277,7 +293,8 @@
     },
     "unitGrams": 100,
     "name_hi": "पका सैल्मन",
-    "name_te": "ఉడికించిన సాల్మన్"
+    "name_te": "ఉడికించిన సాల్మన్",
+    "diet": "nonveg"
   },
   "besan": {
     "name": "Besan (Chickpea Flour)",
@@ -294,7 +311,8 @@
     },
     "unitGrams": 30,
     "name_hi": "बेसन",
-    "name_te": "శనగపిండి"
+    "name_te": "శనగపిండి",
+    "diet": "veg"
   },
   "toor_dal_cooked": {
     "name": "Toor Dal (Cooked)",
@@ -312,7 +330,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पकी तूर दाल",
-    "name_te": "ఉడికించిన కందిపప్పు"
+    "name_te": "ఉడికించిన కందిపప్పు",
+    "diet": "veg"
   },
   "moong_sprouts_raw": {
     "name": "Moong Sprouts (Raw)",
@@ -329,7 +348,8 @@
     },
     "unitGrams": 75,
     "name_hi": "मूंग अंकुरित",
-    "name_te": "మొలకెత్తిన పెసలు"
+    "name_te": "మొలకెత్తిన పెసలు",
+    "diet": "veg"
   },
   "millet_cooked": {
     "name": "Millet (Cooked)",
@@ -346,7 +366,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका बाजरा",
-    "name_te": "ఉడికించిన సజ్జలు"
+    "name_te": "ఉడికించిన సజ్జలు",
+    "diet": "veg"
   },
   "jowar_raw": {
     "name": "Jowar (Sorghum Grain, Raw)",
@@ -363,7 +384,8 @@
     },
     "unitGrams": 35,
     "name_hi": "ज्वार",
-    "name_te": "జొన్నలు"
+    "name_te": "జొన్నలు",
+    "diet": "veg"
   },
   "okra_raw": {
     "name": "Okra (Raw)",
@@ -380,7 +402,8 @@
     },
     "unitGrams": 100,
     "name_hi": "भिंडी",
-    "name_te": "బెండకాయ"
+    "name_te": "బెండకాయ",
+    "diet": "veg"
   },
   "eggplant_raw": {
     "name": "Eggplant (Raw)",
@@ -397,7 +420,8 @@
     },
     "unitGrams": 100,
     "name_hi": "बैंगन",
-    "name_te": "వంకాయ"
+    "name_te": "వంకాయ",
+    "diet": "veg"
   },
   "cauliflower_raw": {
     "name": "Cauliflower (Raw)",
@@ -413,7 +437,8 @@
     },
     "unitGrams": 100,
     "name_hi": "फूलगोभी",
-    "name_te": "కాలీఫ్లవర్"
+    "name_te": "కాలీఫ్లవర్",
+    "diet": "veg"
   },
   "cabbage_raw": {
     "name": "Cabbage (Raw)",
@@ -429,7 +454,8 @@
     },
     "unitGrams": 100,
     "name_hi": "पत्ता गोभी",
-    "name_te": "క్యాబేజీ"
+    "name_te": "క్యాబేజీ",
+    "diet": "veg"
   },
   "potato_boiled": {
     "name": "Potato (Boiled)",
@@ -446,7 +472,8 @@
     },
     "unitGrams": 100,
     "name_hi": "उबला आलू",
-    "name_te": "ఉడికించిన బంగాళాదుంప"
+    "name_te": "ఉడికించిన బంగాళాదుంప",
+    "diet": "veg"
   },
   "tomato_raw": {
     "name": "Tomato (Raw)",
@@ -462,7 +489,8 @@
     },
     "unitGrams": 100,
     "name_hi": "टमाटर",
-    "name_te": "టమాటా"
+    "name_te": "టమాటా",
+    "diet": "veg"
   },
   "onion_raw": {
     "name": "Onion (Raw)",
@@ -478,7 +506,8 @@
     },
     "unitGrams": 100,
     "name_hi": "प्याज",
-    "name_te": "ఉల్లిపాయ"
+    "name_te": "ఉల్లిపాయ",
+    "diet": "veg"
   },
   "green_peas_cooked": {
     "name": "Green Peas (Cooked)",
@@ -495,7 +524,8 @@
     },
     "unitGrams": 100,
     "name_hi": "पकी हरी मटर",
-    "name_te": "ఉడికించిన బఠానీలు"
+    "name_te": "ఉడికించిన బఠానీలు",
+    "diet": "veg"
   },
   "rajma_cooked": {
     "name": "Rajma (Kidney Beans, Cooked)",
@@ -512,7 +542,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका राजमा",
-    "name_te": "ఉడికించిన రాజ్మా"
+    "name_te": "ఉడికించిన రాజ్మా",
+    "diet": "veg"
   },
   "atta_whole_wheat_flour": {
     "name": "Atta (Whole Wheat Flour)",
@@ -529,7 +560,8 @@
     },
     "unitGrams": 35,
     "name_hi": "गेहूं का आटा",
-    "name_te": "గోధుమ పిండి"
+    "name_te": "గోధుమ పిండి",
+    "diet": "veg"
   },
   "moong_dal_cooked": {
     "name": "Moong Dal (Cooked)",
@@ -546,7 +578,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पकी मूंग दाल",
-    "name_te": "ఉడికించిన పెసరపప్పు"
+    "name_te": "ఉడికించిన పెసరపప్పు",
+    "diet": "veg"
   },
   "lobia_cooked": {
     "name": "Lobia (Black-eyed Peas, Cooked)",
@@ -564,7 +597,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका लोबिया",
-    "name_te": "ఉడికించిన బొబ్బర్లు"
+    "name_te": "ఉడికించిన బొబ్బర్లు",
+    "diet": "veg"
   },
   "peanuts_raw": {
     "name": "Peanuts (Raw)",
@@ -582,7 +616,8 @@
     },
     "unitGrams": 28,
     "name_hi": "मूंगफली",
-    "name_te": "వేరుశనగ"
+    "name_te": "వేరుశనగ",
+    "diet": "veg"
   },
   "sesame_seeds": {
     "name": "Sesame Seeds",
@@ -599,7 +634,8 @@
     },
     "unitGrams": 9,
     "name_hi": "तिल",
-    "name_te": "నువ్వులు"
+    "name_te": "నువ్వులు",
+    "diet": "veg"
   },
   "flaxseeds": {
     "name": "Flaxseeds",
@@ -616,7 +652,8 @@
     },
     "unitGrams": 10,
     "name_hi": "अलसी",
-    "name_te": "అవిసె గింజలు"
+    "name_te": "అవిసె గింజలు",
+    "diet": "veg"
   },
   "buttermilk_whole": {
     "name": "Buttermilk (Whole)",
@@ -633,7 +670,8 @@
     },
     "unitGrams": 240,
     "name_hi": "छाछ",
-    "name_te": "మజ్జిగ"
+    "name_te": "మజ్జిగ",
+    "diet": "veg"
   },
   "ghee": {
     "name": "Ghee",
@@ -649,7 +687,8 @@
     },
     "unitGrams": 14,
     "name_hi": "घी",
-    "name_te": "నెయ్యి"
+    "name_te": "నెయ్యి",
+    "diet": "veg"
   },
   "sardine_canned": {
     "name": "Sardine (Canned in Oil, Drained)",
@@ -665,7 +704,8 @@
     },
     "unitGrams": 90,
     "name_hi": "सार्डिन",
-    "name_te": "సార్డిన్"
+    "name_te": "సార్డిన్",
+    "diet": "nonveg"
   },
   "guava_raw": {
     "name": "Guava (Raw)",
@@ -682,7 +722,8 @@
     },
     "unitGrams": 100,
     "name_hi": "अमरूद",
-    "name_te": "జామకాయ"
+    "name_te": "జామకాయ",
+    "diet": "veg"
   },
   "papaya_raw": {
     "name": "Papaya (Raw)",
@@ -699,7 +740,8 @@
     },
     "unitGrams": 140,
     "name_hi": "पपीता",
-    "name_te": "బొప్పాయి"
+    "name_te": "బొప్పాయి",
+    "diet": "veg"
   },
   "mango_raw": {
     "name": "Mango (Raw)",
@@ -716,7 +758,8 @@
     },
     "unitGrams": 165,
     "name_hi": "आम",
-    "name_te": "మామిడి"
+    "name_te": "మామిడి",
+    "diet": "veg"
   },
   "spinach_cooked": {
     "name": "Spinach (Cooked)",
@@ -733,7 +776,8 @@
     },
     "unitGrams": 90,
     "name_hi": "पकी पालक",
-    "name_te": "ఉడికించిన పాలకూర"
+    "name_te": "ఉడికించిన పాలకూర",
+    "diet": "veg"
   },
   "mustard_greens_cooked": {
     "name": "Mustard Greens (Cooked)",
@@ -750,7 +794,8 @@
     },
     "unitGrams": 100,
     "name_hi": "पकी सरसों",
-    "name_te": "ఉడికించిన ఆవాలకూర"
+    "name_te": "ఉడికించిన ఆవాలకూర",
+    "diet": "veg"
   },
   "coriander_leaves_raw": {
     "name": "Coriander Leaves (Raw)",
@@ -767,7 +812,8 @@
     },
     "unitGrams": 10,
     "name_hi": "धनिया पत्ती",
-    "name_te": "కొత్తిమీర"
+    "name_te": "కొత్తిమీర",
+    "diet": "veg"
   },
   "cumin_seed": {
     "name": "Cumin Seed",
@@ -784,7 +830,8 @@
     },
     "unitGrams": 2,
     "name_hi": "जीरा",
-    "name_te": "జీలకర్ర"
+    "name_te": "జీలకర్ర",
+    "diet": "veg"
   },
   "turmeric_powder": {
     "name": "Turmeric Powder",
@@ -801,7 +848,8 @@
     },
     "unitGrams": 3,
     "name_hi": "हल्दी पाउडर",
-    "name_te": "పసుపు"
+    "name_te": "పసుపు",
+    "diet": "veg"
   },
   "brown_rice_cooked": {
     "name": "Brown Rice (Cooked)",
@@ -817,7 +865,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका ब्राउन राइस",
-    "name_te": "ఉడికించిన బ్రౌన్ రైస్"
+    "name_te": "ఉడికించిన బ్రౌన్ రైస్",
+    "diet": "veg"
   },
   "orange_raw": {
     "name": "Orange (Raw)",
@@ -834,7 +883,8 @@
     },
     "unitGrams": 130,
     "name_hi": "संतरा",
-    "name_te": "నారింజ"
+    "name_te": "నారింజ",
+    "diet": "veg"
   },
   "grapes_raw": {
     "name": "Grapes (Raw)",
@@ -851,7 +901,8 @@
     },
     "unitGrams": 100,
     "name_hi": "अंगूर",
-    "name_te": "ద్రాక్ష"
+    "name_te": "ద్రాక్ష",
+    "diet": "veg"
   },
   "pomegranate_raw": {
     "name": "Pomegranate (Raw)",
@@ -868,7 +919,8 @@
     },
     "unitGrams": 150,
     "name_hi": "अनार",
-    "name_te": "దానిమ్మ"
+    "name_te": "దానిమ్మ",
+    "diet": "veg"
   },
   "watermelon_raw": {
     "name": "Watermelon (Raw)",
@@ -885,7 +937,8 @@
     },
     "unitGrams": 280,
     "name_hi": "तरबूज",
-    "name_te": "పుచ్చకాయ"
+    "name_te": "పుచ్చకాయ",
+    "diet": "veg"
   },
   "pineapple_raw": {
     "name": "Pineapple (Raw)",
@@ -902,7 +955,8 @@
     },
     "unitGrams": 165,
     "name_hi": "अनानास",
-    "name_te": "అనాసపండు"
+    "name_te": "అనాసపండు",
+    "diet": "veg"
   },
   "pear_raw": {
     "name": "Pear (Raw)",
@@ -919,7 +973,8 @@
     },
     "unitGrams": 178,
     "name_hi": "नाशपाती",
-    "name_te": "బేరి పండు"
+    "name_te": "బేరి పండు",
+    "diet": "veg"
   },
   "strawberry_raw": {
     "name": "Strawberry (Raw)",
@@ -935,7 +990,8 @@
     },
     "unitGrams": 100,
     "name_hi": "स्ट्रॉबेरी",
-    "name_te": "స్ట్రాబెర్రీ"
+    "name_te": "స్ట్రాబెర్రీ",
+    "diet": "veg"
   },
   "blueberry_raw": {
     "name": "Blueberries (Raw)",
@@ -952,7 +1008,8 @@
     },
     "unitGrams": 100,
     "name_hi": "ब्लूबेरी",
-    "name_te": "బ్లూబెర్రీ"
+    "name_te": "బ్లూబెర్రీ",
+    "diet": "veg"
   },
   "kiwi_raw": {
     "name": "Kiwi (Raw)",
@@ -969,7 +1026,8 @@
     },
     "unitGrams": 90,
     "name_hi": "कीवी",
-    "name_te": "కివీ"
+    "name_te": "కివీ",
+    "diet": "veg"
   },
   "lemon_raw": {
     "name": "Lemon (Raw)",
@@ -986,7 +1044,8 @@
     },
     "unitGrams": 58,
     "name_hi": "नींबू",
-    "name_te": "నిమ్మకాయ"
+    "name_te": "నిమ్మకాయ",
+    "diet": "veg"
   },
   "muskmelon_raw": {
     "name": "Muskmelon (Cantaloupe, Raw)",
@@ -1004,7 +1063,8 @@
     },
     "unitGrams": 160,
     "name_hi": "खरबूजा",
-    "name_te": "ఖర్బూజా"
+    "name_te": "ఖర్బూజా",
+    "diet": "veg"
   },
   "cucumber_raw": {
     "name": "Cucumber (Raw)",
@@ -1021,7 +1081,8 @@
     },
     "unitGrams": 100,
     "name_hi": "खीरा",
-    "name_te": "దోసకాయ"
+    "name_te": "దోసకాయ",
+    "diet": "veg"
   },
   "carrot_raw": {
     "name": "Carrot (Raw)",
@@ -1038,7 +1099,8 @@
     },
     "unitGrams": 100,
     "name_hi": "गाजर",
-    "name_te": "క్యారెట్"
+    "name_te": "క్యారెట్",
+    "diet": "veg"
   },
   "beetroot_raw": {
     "name": "Beetroot (Raw)",
@@ -1056,7 +1118,8 @@
     },
     "unitGrams": 100,
     "name_hi": "चुकंदर",
-    "name_te": "బీట్‌రూట్"
+    "name_te": "బీట్‌రూట్",
+    "diet": "veg"
   },
   "broccoli_raw": {
     "name": "Broccoli (Raw)",
@@ -1072,7 +1135,8 @@
     },
     "unitGrams": 100,
     "name_hi": "ब्रोकली",
-    "name_te": "బ్రోకలీ"
+    "name_te": "బ్రోకలీ",
+    "diet": "veg"
   },
   "capsicum_green_raw": {
     "name": "Capsicum (Green, Raw)",
@@ -1090,7 +1154,8 @@
     },
     "unitGrams": 100,
     "name_hi": "हरी शिमला मिर्च",
-    "name_te": "పచ్చి క్యాప్సికం"
+    "name_te": "పచ్చి క్యాప్సికం",
+    "diet": "veg"
   },
   "bell_pepper_red_raw": {
     "name": "Bell Pepper (Red, Raw)",
@@ -1107,7 +1172,8 @@
     },
     "unitGrams": 100,
     "name_hi": "लाल शिमला मिर्च",
-    "name_te": "ఎర్ర క్యాప్సికం"
+    "name_te": "ఎర్ర క్యాప్సికం",
+    "diet": "veg"
   },
   "lettuce_raw": {
     "name": "Lettuce (Green Leaf, Raw)",
@@ -1123,7 +1189,8 @@
     },
     "unitGrams": 45,
     "name_hi": "सलाद पत्ता",
-    "name_te": "లెట్యూస్"
+    "name_te": "లెట్యూస్",
+    "diet": "veg"
   },
   "pumpkin_raw": {
     "name": "Pumpkin (Raw)",
@@ -1140,7 +1207,8 @@
     },
     "unitGrams": 100,
     "name_hi": "कद्दू",
-    "name_te": "గుమ్మడికాయ"
+    "name_te": "గుమ్మడికాయ",
+    "diet": "veg"
   },
   "zucchini_raw": {
     "name": "Zucchini (Raw)",
@@ -1156,7 +1224,8 @@
     },
     "unitGrams": 100,
     "name_hi": "तोरी",
-    "name_te": "జుకినీ"
+    "name_te": "జుకినీ",
+    "diet": "veg"
   },
   "radish_raw": {
     "name": "Radish (Raw)",
@@ -1173,7 +1242,8 @@
     },
     "unitGrams": 100,
     "name_hi": "मूली",
-    "name_te": "ముల్లంగి"
+    "name_te": "ముల్లంగి",
+    "diet": "veg"
   },
   "green_beans_raw": {
     "name": "Green Beans (Raw)",
@@ -1190,7 +1260,8 @@
     },
     "unitGrams": 100,
     "name_hi": "हरी फलियां",
-    "name_te": "చిక్కుడుకాయ"
+    "name_te": "చిక్కుడుకాయ",
+    "diet": "veg"
   },
   "green_peas_raw": {
     "name": "Green Peas (Raw)",
@@ -1207,7 +1278,8 @@
     },
     "unitGrams": 100,
     "name_hi": "हरी मटर",
-    "name_te": "పచ్చి బఠానీలు"
+    "name_te": "పచ్చి బఠానీలు",
+    "diet": "veg"
   },
   "bottle_gourd_raw": {
     "name": "Bottle Gourd (Calabash, Raw)",
@@ -1225,7 +1297,8 @@
     },
     "unitGrams": 100,
     "name_hi": "लौकी",
-    "name_te": "సొరకాయ"
+    "name_te": "సొరకాయ",
+    "diet": "veg"
   },
   "bitter_gourd_raw": {
     "name": "Bitter Gourd (Raw)",
@@ -1242,7 +1315,8 @@
     },
     "unitGrams": 100,
     "name_hi": "करेला",
-    "name_te": "కాకరకాయ"
+    "name_te": "కాకరకాయ",
+    "diet": "veg"
   },
   "paneer": {
     "name": "Paneer",
@@ -1259,7 +1333,8 @@
     },
     "unitGrams": 30,
     "name_hi": "पनीर",
-    "name_te": "పనీర్"
+    "name_te": "పనీర్",
+    "diet": "veg"
   },
   "poha": {
     "name": "Poha",
@@ -1276,7 +1351,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पोहा",
-    "name_te": "అటుకులు"
+    "name_te": "అటుకులు",
+    "diet": "veg"
   },
   "upma": {
     "name": "Upma",
@@ -1293,7 +1369,8 @@
     },
     "unitGrams": 150,
     "name_hi": "उपमा",
-    "name_te": "ఉప్మా"
+    "name_te": "ఉప్మా",
+    "diet": "veg"
   },
   "sambar": {
     "name": "Sambar",
@@ -1309,7 +1386,8 @@
     },
     "unitGrams": 200,
     "name_hi": "सांबर",
-    "name_te": "సాంబార్"
+    "name_te": "సాంబార్",
+    "diet": "veg"
   },
   "rasam": {
     "name": "Rasam",
@@ -1325,7 +1403,8 @@
     },
     "unitGrams": 200,
     "name_hi": "रसम",
-    "name_te": "రసం"
+    "name_te": "రసం",
+    "diet": "veg"
   },
   "sweet_potato_boiled": {
     "name": "Sweet Potato (Boiled)",
@@ -1341,7 +1420,8 @@
     },
     "unitGrams": 130,
     "name_hi": "उबला शकरकंद",
-    "name_te": "ఉడికించిన చిలగడదుంప"
+    "name_te": "ఉడికించిన చిలగడదుంప",
+    "diet": "veg"
   },
   "jaggery": {
     "name": "Jaggery",
@@ -1357,7 +1437,8 @@
     },
     "unitGrams": 20,
     "name_hi": "गुड़",
-    "name_te": "బెల్లం"
+    "name_te": "బెల్లం",
+    "diet": "veg"
   },
   "coconut_fresh": {
     "name": "Coconut (Fresh)",
@@ -1373,7 +1454,8 @@
     },
     "unitGrams": 30,
     "name_hi": "ताजा नारियल",
-    "name_te": "కొబ్బరి"
+    "name_te": "కొబ్బరి",
+    "diet": "veg"
   },
   "cashew_raw": {
     "name": "Cashew (Raw)",
@@ -1389,7 +1471,8 @@
     },
     "unitGrams": 30,
     "name_hi": "काजू",
-    "name_te": "జీడిపప్పు"
+    "name_te": "జీడిపప్పు",
+    "diet": "veg"
   },
   "walnut_raw": {
     "name": "Walnut (Raw)",
@@ -1405,7 +1488,8 @@
     },
     "unitGrams": 30,
     "name_hi": "अखरोट",
-    "name_te": "వాల్‌నట్"
+    "name_te": "వాల్‌నట్",
+    "diet": "veg"
   },
   "pistachio_raw": {
     "name": "Pistachio (Raw)",
@@ -1421,7 +1505,8 @@
     },
     "unitGrams": 30,
     "name_hi": "पिस्ता",
-    "name_te": "పిస్తా"
+    "name_te": "పిస్తా",
+    "diet": "veg"
   },
   "urad_dal_cooked": {
     "name": "Urad Dal (Cooked)",
@@ -1437,7 +1522,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पकी उड़द दाल",
-    "name_te": "ఉడికించిన మినపప్పు"
+    "name_te": "ఉడికించిన మినపప్పు",
+    "diet": "veg"
   },
   "soybean_cooked": {
     "name": "Soybean (Cooked)",
@@ -1453,7 +1539,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका सोयाबीन",
-    "name_te": "ఉడికించిన సోయాబీన్"
+    "name_te": "ఉడికించిన సోయాబీన్",
+    "diet": "veg"
   },
   "quinoa_cooked": {
     "name": "Quinoa (Cooked)",
@@ -1467,7 +1554,8 @@
     },
     "unitGrams": 150,
     "name_hi": "पका क्विनोआ",
-    "name_te": "ఉడికించిన క్వినోవా"
+    "name_te": "ఉడికించిన క్వినోవా",
+    "diet": "veg"
   },
   "paratha_plain": {
     "name": "Paratha (Plain)",
@@ -1481,7 +1569,8 @@
     },
     "unitGrams": 60,
     "name_hi": "सादा पराठा",
-    "name_te": "సాదా పరాఠా"
+    "name_te": "సాదా పరాఠా",
+    "diet": "veg"
   },
   "khichdi": {
     "name": "Khichdi",
@@ -1497,7 +1586,8 @@
     },
     "unitGrams": 200,
     "name_hi": "खिचड़ी",
-    "name_te": "కిచిడీ"
+    "name_te": "కిచిడీ",
+    "diet": "veg"
   },
   "dhokla": {
     "name": "Dhokla",
@@ -1511,7 +1601,8 @@
     },
     "unitGrams": 80,
     "name_hi": "ढोकला",
-    "name_te": "ధోక్లా"
+    "name_te": "ధోక్లా",
+    "diet": "veg"
   },
   "sprouts_chaat": {
     "name": "Sprouts Chaat",
@@ -1527,6 +1618,3066 @@
     },
     "unitGrams": 150,
     "name_hi": "अंकुरित चाट",
-    "name_te": "మొలకల చాట్"
+    "name_te": "మొలకల చాట్",
+    "diet": "veg"
+  },
+  "dal_tadka": {
+    "name": "Dal Tadka",
+    "name_hi": "दाल तड़का",
+    "name_te": "పప్పు తాలింపు",
+    "aliases": [
+      "dal fry",
+      "dal"
+    ],
+    "per100g": {
+      "kcal": 105,
+      "protein": 5.5,
+      "fiber": 3.0,
+      "carbs": 14,
+      "fat": 3.5
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "dal_makhani": {
+    "name": "Dal Makhani",
+    "name_hi": "दाल मखनी",
+    "name_te": "దాల్ మఖనీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 150,
+      "protein": 6,
+      "fiber": 4,
+      "carbs": 15,
+      "fat": 7
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "chana_dal_cooked": {
+    "name": "Chana Dal",
+    "name_hi": "चना दाल",
+    "name_te": "శనగ పప్పు",
+    "aliases": [
+      "bengal gram dal"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein": 7,
+      "fiber": 4,
+      "carbs": 18,
+      "fat": 2
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "masoor_dal_cooked": {
+    "name": "Masoor Dal",
+    "name_hi": "मसूर दाल",
+    "name_te": "ఎర్ర పప్పు",
+    "aliases": [
+      "red lentil dal"
+    ],
+    "per100g": {
+      "kcal": 105,
+      "protein": 7,
+      "fiber": 3.5,
+      "carbs": 15,
+      "fat": 1.5
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "chana_masala": {
+    "name": "Chana Masala",
+    "name_hi": "छोले",
+    "name_te": "శనగల కూర",
+    "aliases": [
+      "chole",
+      "chickpea curry"
+    ],
+    "per100g": {
+      "kcal": 130,
+      "protein": 6.5,
+      "fiber": 5,
+      "carbs": 18,
+      "fat": 4
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "rajma_masala": {
+    "name": "Rajma Masala",
+    "name_hi": "राजमा मसाला",
+    "name_te": "రాజ్మా కూర",
+    "aliases": [
+      "kidney bean curry"
+    ],
+    "per100g": {
+      "kcal": 125,
+      "protein": 6,
+      "fiber": 5.5,
+      "carbs": 18,
+      "fat": 3
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "palak_paneer": {
+    "name": "Palak Paneer",
+    "name_hi": "पालक पनीर",
+    "name_te": "పాలకూర పనీర్",
+    "aliases": [
+      "saag paneer"
+    ],
+    "per100g": {
+      "kcal": 150,
+      "protein": 7,
+      "fiber": 2.5,
+      "carbs": 6,
+      "fat": 11
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "paneer_butter_masala": {
+    "name": "Paneer Butter Masala",
+    "name_hi": "पनीर बटर मसाला",
+    "name_te": "పనీర్ బటర్ మసాలా",
+    "aliases": [
+      "paneer makhani"
+    ],
+    "per100g": {
+      "kcal": 210,
+      "protein": 8,
+      "fiber": 1.5,
+      "carbs": 8,
+      "fat": 16
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "paneer_tikka": {
+    "name": "Paneer Tikka",
+    "name_hi": "पनीर टिक्का",
+    "name_te": "పనీర్ టిక్కా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 220,
+      "protein": 15,
+      "fiber": 1,
+      "carbs": 6,
+      "fat": 15
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "soya_chunks_cooked": {
+    "name": "Soya Chunks",
+    "name_hi": "सोया चंक्स",
+    "name_te": "సోయా చంక్స్",
+    "aliases": [
+      "meal maker",
+      "soya curry"
+    ],
+    "per100g": {
+      "kcal": 130,
+      "protein": 16,
+      "fiber": 4,
+      "carbs": 10,
+      "fat": 2.5
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "aloo_gobi": {
+    "name": "Aloo Gobi",
+    "name_hi": "आलू गोभी",
+    "name_te": "ఆలూ గోబీ",
+    "aliases": [
+      "potato cauliflower"
+    ],
+    "per100g": {
+      "kcal": 95,
+      "protein": 2.5,
+      "fiber": 2.8,
+      "carbs": 12,
+      "fat": 4.5
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "bhindi_masala": {
+    "name": "Bhindi Masala",
+    "name_hi": "भिंडी मसाला",
+    "name_te": "బెండకాయ కూర",
+    "aliases": [
+      "okra fry",
+      "bendakaya"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein": 2.5,
+      "fiber": 3.5,
+      "carbs": 9,
+      "fat": 5
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "mixed_veg_curry": {
+    "name": "Mixed Vegetable Curry",
+    "name_hi": "मिक्स वेज",
+    "name_te": "కూరగాయల కూర",
+    "aliases": [
+      "mix veg",
+      "sabzi"
+    ],
+    "per100g": {
+      "kcal": 85,
+      "protein": 2.5,
+      "fiber": 3,
+      "carbs": 10,
+      "fat": 4
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "vegetable_korma": {
+    "name": "Vegetable Korma",
+    "name_hi": "वेज कोरमा",
+    "name_te": "వెజ్ కుర్మా",
+    "aliases": [
+      "veg kurma"
+    ],
+    "per100g": {
+      "kcal": 130,
+      "protein": 3,
+      "fiber": 2.5,
+      "carbs": 10,
+      "fat": 9
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "gutti_vankaya": {
+    "name": "Stuffed Brinjal",
+    "name_hi": "भरवां बैंगन",
+    "name_te": "గుత్తి వంకాయ",
+    "aliases": [
+      "gutti vankaya",
+      "bharwa baingan"
+    ],
+    "per100g": {
+      "kcal": 130,
+      "protein": 3.5,
+      "fiber": 3,
+      "carbs": 9,
+      "fat": 9
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "gongura_pachadi": {
+    "name": "Gongura Pachadi",
+    "name_hi": "गोंगुरा चटनी",
+    "name_te": "గోంగూర పచ్చడి",
+    "aliases": [
+      "gongura chutney"
+    ],
+    "per100g": {
+      "kcal": 110,
+      "protein": 2.5,
+      "fiber": 3,
+      "carbs": 8,
+      "fat": 8
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "coconut_chutney": {
+    "name": "Coconut Chutney",
+    "name_hi": "नारियल चटनी",
+    "name_te": "కొబ్బరి పచ్చడి",
+    "aliases": [],
+    "per100g": {
+      "kcal": 140,
+      "protein": 2.5,
+      "fiber": 3,
+      "carbs": 6,
+      "fat": 12
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "vegetable_biryani": {
+    "name": "Vegetable Biryani",
+    "name_hi": "वेज बिरयानी",
+    "name_te": "వెజ్ బిర్యానీ",
+    "aliases": [
+      "veg biryani"
+    ],
+    "per100g": {
+      "kcal": 145,
+      "protein": 3.5,
+      "fiber": 2,
+      "carbs": 24,
+      "fat": 4
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "vegetable_pulao": {
+    "name": "Vegetable Pulao",
+    "name_hi": "वेज पुलाव",
+    "name_te": "వెజ్ పులావ్",
+    "aliases": [
+      "pulao",
+      "veg pulav"
+    ],
+    "per100g": {
+      "kcal": 140,
+      "protein": 3,
+      "fiber": 1.8,
+      "carbs": 23,
+      "fat": 4
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "curd_rice": {
+    "name": "Curd Rice",
+    "name_hi": "दही चावल",
+    "name_te": "పెరుగన్నం",
+    "aliases": [
+      "dahi chawal",
+      "daddojanam"
+    ],
+    "per100g": {
+      "kcal": 110,
+      "protein": 3.5,
+      "fiber": 0.8,
+      "carbs": 18,
+      "fat": 2.5
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "lemon_rice": {
+    "name": "Lemon Rice",
+    "name_hi": "नींबू चावल",
+    "name_te": "నిమ్మకాయ పులిహోర",
+    "aliases": [
+      "chitranna"
+    ],
+    "per100g": {
+      "kcal": 160,
+      "protein": 3,
+      "fiber": 1.2,
+      "carbs": 26,
+      "fat": 5
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "tamarind_rice": {
+    "name": "Tamarind Rice",
+    "name_hi": "इमली चावल",
+    "name_te": "పులిహోర",
+    "aliases": [
+      "pulihora",
+      "puliyodarai"
+    ],
+    "per100g": {
+      "kcal": 165,
+      "protein": 3,
+      "fiber": 1.5,
+      "carbs": 27,
+      "fat": 5
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "sambar_rice": {
+    "name": "Sambar Rice",
+    "name_hi": "सांबर चावल",
+    "name_te": "సాంబార్ అన్నం",
+    "aliases": [
+      "sambar sadam"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein": 3.5,
+      "fiber": 1.8,
+      "carbs": 20,
+      "fat": 3
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "ven_pongal": {
+    "name": "Pongal",
+    "name_hi": "पोंगल",
+    "name_te": "పొంగలి",
+    "aliases": [
+      "ven pongal",
+      "khara pongal"
+    ],
+    "per100g": {
+      "kcal": 140,
+      "protein": 4.5,
+      "fiber": 1.5,
+      "carbs": 20,
+      "fat": 5
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "pesarattu": {
+    "name": "Pesarattu",
+    "name_hi": "पेसरट्टू",
+    "name_te": "పెసరట్టు",
+    "aliases": [
+      "moong dosa"
+    ],
+    "per100g": {
+      "kcal": 155,
+      "protein": 7,
+      "fiber": 2.5,
+      "carbs": 22,
+      "fat": 4.5
+    },
+    "unitGrams": 90,
+    "diet": "veg"
+  },
+  "medu_vada": {
+    "name": "Medu Vada",
+    "name_hi": "मेदु वड़ा",
+    "name_te": "గారెలు",
+    "aliases": [
+      "vada",
+      "garelu",
+      "urad vada"
+    ],
+    "per100g": {
+      "kcal": 245,
+      "protein": 8,
+      "fiber": 2.5,
+      "carbs": 25,
+      "fat": 13
+    },
+    "unitGrams": 45,
+    "diet": "veg"
+  },
+  "uttapam": {
+    "name": "Uttapam",
+    "name_hi": "उत्तपम",
+    "name_te": "ఉత్తప్పం",
+    "aliases": [
+      "uthappam"
+    ],
+    "per100g": {
+      "kcal": 155,
+      "protein": 4.5,
+      "fiber": 1.5,
+      "carbs": 25,
+      "fat": 4
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "masala_dosa": {
+    "name": "Masala Dosa",
+    "name_hi": "मसाला डोसा",
+    "name_te": "మసాలా దోశ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 165,
+      "protein": 3.5,
+      "fiber": 1.8,
+      "carbs": 24,
+      "fat": 6
+    },
+    "unitGrams": 180,
+    "diet": "veg"
+  },
+  "besan_chilla": {
+    "name": "Besan Chilla",
+    "name_hi": "बेसन चीला",
+    "name_te": "శనగపిండి అట్టు",
+    "aliases": [
+      "cheela",
+      "chickpea pancake"
+    ],
+    "per100g": {
+      "kcal": 160,
+      "protein": 8,
+      "fiber": 3,
+      "carbs": 16,
+      "fat": 7
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "puri": {
+    "name": "Puri",
+    "name_hi": "पूरी",
+    "name_te": "పూరీ",
+    "aliases": [
+      "poori"
+    ],
+    "per100g": {
+      "kcal": 320,
+      "protein": 6,
+      "fiber": 2,
+      "carbs": 40,
+      "fat": 15
+    },
+    "unitGrams": 25,
+    "diet": "veg"
+  },
+  "aloo_paratha": {
+    "name": "Aloo Paratha",
+    "name_hi": "आलू पराठा",
+    "name_te": "ఆలూ పరాఠా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 230,
+      "protein": 5,
+      "fiber": 2.5,
+      "carbs": 32,
+      "fat": 9
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "naan": {
+    "name": "Naan",
+    "name_hi": "नान",
+    "name_te": "నాన్",
+    "aliases": [
+      "butter naan"
+    ],
+    "per100g": {
+      "kcal": 290,
+      "protein": 8,
+      "fiber": 2,
+      "carbs": 48,
+      "fat": 7
+    },
+    "unitGrams": 90,
+    "diet": "veg"
+  },
+  "pav_bhaji": {
+    "name": "Pav Bhaji",
+    "name_hi": "पाव भाजी",
+    "name_te": "పావ్ భాజీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 130,
+      "protein": 3.5,
+      "fiber": 2.5,
+      "carbs": 18,
+      "fat": 5
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "vada_pav": {
+    "name": "Vada Pav",
+    "name_hi": "वड़ा पाव",
+    "name_te": "వడా పావ్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 250,
+      "protein": 6,
+      "fiber": 2.5,
+      "carbs": 36,
+      "fat": 9
+    },
+    "unitGrams": 130,
+    "diet": "veg"
+  },
+  "samosa": {
+    "name": "Samosa",
+    "name_hi": "समोसा",
+    "name_te": "సమోసా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 260,
+      "protein": 5,
+      "fiber": 2.5,
+      "carbs": 30,
+      "fat": 13
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "onion_pakora": {
+    "name": "Onion Pakora",
+    "name_hi": "प्याज़ पकोड़ा",
+    "name_te": "ఉల్లి పకోడీ",
+    "aliases": [
+      "pakoda",
+      "bhaji",
+      "bajji"
+    ],
+    "per100g": {
+      "kcal": 280,
+      "protein": 7,
+      "fiber": 3,
+      "carbs": 28,
+      "fat": 16
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "gulab_jamun": {
+    "name": "Gulab Jamun",
+    "name_hi": "गुलाब जामुन",
+    "name_te": "గులాబ్ జామున్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 320,
+      "protein": 4,
+      "fiber": 0.3,
+      "carbs": 50,
+      "fat": 12
+    },
+    "unitGrams": 40,
+    "diet": "veg"
+  },
+  "kheer": {
+    "name": "Kheer",
+    "name_hi": "खीर",
+    "name_te": "పాయసం",
+    "aliases": [
+      "payasam",
+      "rice pudding"
+    ],
+    "per100g": {
+      "kcal": 145,
+      "protein": 3.5,
+      "fiber": 0.3,
+      "carbs": 22,
+      "fat": 5
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "lassi_sweet": {
+    "name": "Sweet Lassi",
+    "name_hi": "लस्सी",
+    "name_te": "లస్సీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 90,
+      "protein": 2.5,
+      "fiber": 0,
+      "carbs": 14,
+      "fat": 2.5
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "masala_chai": {
+    "name": "Masala Chai",
+    "name_hi": "मसाला चाय",
+    "name_te": "మసాలా చాయ్",
+    "aliases": [
+      "tea",
+      "chai",
+      "milk tea"
+    ],
+    "per100g": {
+      "kcal": 45,
+      "protein": 1.2,
+      "fiber": 0,
+      "carbs": 6.5,
+      "fat": 1.5
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "filter_coffee": {
+    "name": "Filter Coffee",
+    "name_hi": "फ़िल्टर कॉफ़ी",
+    "name_te": "ఫిల్టర్ కాఫీ",
+    "aliases": [
+      "coffee",
+      "milk coffee"
+    ],
+    "per100g": {
+      "kcal": 50,
+      "protein": 1.2,
+      "fiber": 0,
+      "carbs": 7,
+      "fat": 1.6
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "omelette": {
+    "name": "Omelette",
+    "name_hi": "आमलेट",
+    "name_te": "ఆమ్లెట్",
+    "aliases": [
+      "omelet",
+      "egg omelette"
+    ],
+    "per100g": {
+      "kcal": 190,
+      "protein": 12.5,
+      "fiber": 0.3,
+      "carbs": 2,
+      "fat": 15
+    },
+    "unitGrams": 120,
+    "diet": "egg"
+  },
+  "egg_curry": {
+    "name": "Egg Curry",
+    "name_hi": "अंडा करी",
+    "name_te": "గుడ్డు కూర",
+    "aliases": [
+      "anda curry",
+      "kodi guddu kura"
+    ],
+    "per100g": {
+      "kcal": 140,
+      "protein": 8,
+      "fiber": 1.5,
+      "carbs": 5,
+      "fat": 10
+    },
+    "unitGrams": 150,
+    "diet": "egg"
+  },
+  "egg_bhurji": {
+    "name": "Egg Bhurji",
+    "name_hi": "अंडा भुर्जी",
+    "name_te": "ఎగ్ బుర్జీ",
+    "aliases": [
+      "anda bhurji",
+      "scrambled egg"
+    ],
+    "per100g": {
+      "kcal": 180,
+      "protein": 11,
+      "fiber": 0.8,
+      "carbs": 3.5,
+      "fat": 14
+    },
+    "unitGrams": 100,
+    "diet": "egg"
+  },
+  "egg_fried": {
+    "name": "Fried Egg",
+    "name_hi": "तला अंडा",
+    "name_te": "వేయించిన గుడ్డు",
+    "aliases": [
+      "half fry",
+      "bullseye",
+      "sunny side up"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 13.5,
+      "fiber": 0,
+      "carbs": 0.8,
+      "fat": 15.5
+    },
+    "unitGrams": 55,
+    "diet": "egg"
+  },
+  "egg_white_boiled": {
+    "name": "Egg White",
+    "name_hi": "अंडे की सफ़ेदी",
+    "name_te": "గుడ్డు తెల్లసొన",
+    "aliases": [
+      "egg whites"
+    ],
+    "per100g": {
+      "kcal": 52,
+      "protein": 11,
+      "fiber": 0,
+      "carbs": 0.7,
+      "fat": 0.2
+    },
+    "unitGrams": 33,
+    "diet": "egg"
+  },
+  "egg_fried_rice": {
+    "name": "Egg Fried Rice",
+    "name_hi": "अंडा फ्राइड राइस",
+    "name_te": "ఎగ్ ఫ్రైడ్ రైస్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 170,
+      "protein": 6,
+      "fiber": 1,
+      "carbs": 25,
+      "fat": 5.5
+    },
+    "unitGrams": 250,
+    "diet": "egg"
+  },
+  "egg_dosa": {
+    "name": "Egg Dosa",
+    "name_hi": "अंडा डोसा",
+    "name_te": "ఎగ్ దోశ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 180,
+      "protein": 7,
+      "fiber": 1.2,
+      "carbs": 22,
+      "fat": 7
+    },
+    "unitGrams": 130,
+    "diet": "egg"
+  },
+  "egg_biryani": {
+    "name": "Egg Biryani",
+    "name_hi": "अंडा बिरयानी",
+    "name_te": "ఎగ్ బిర్యానీ",
+    "aliases": [
+      "anda biryani"
+    ],
+    "per100g": {
+      "kcal": 165,
+      "protein": 6.5,
+      "fiber": 1.2,
+      "carbs": 24,
+      "fat": 5
+    },
+    "unitGrams": 250,
+    "diet": "egg"
+  },
+  "chicken_curry": {
+    "name": "Chicken Curry",
+    "name_hi": "चिकन करी",
+    "name_te": "చికెన్ కూర",
+    "aliases": [
+      "kodi kura",
+      "chicken gravy"
+    ],
+    "per100g": {
+      "kcal": 150,
+      "protein": 14,
+      "fiber": 1,
+      "carbs": 4,
+      "fat": 9
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "chicken_biryani": {
+    "name": "Chicken Biryani",
+    "name_hi": "चिकन बिरयानी",
+    "name_te": "చికెన్ బిర్యానీ",
+    "aliases": [
+      "biryani"
+    ],
+    "per100g": {
+      "kcal": 180,
+      "protein": 10,
+      "fiber": 1,
+      "carbs": 22,
+      "fat": 6
+    },
+    "unitGrams": 250,
+    "diet": "nonveg"
+  },
+  "chicken_fry": {
+    "name": "Chicken Fry",
+    "name_hi": "चिकन फ्राई",
+    "name_te": "కోడి వేపుడు",
+    "aliases": [
+      "kodi vepudu",
+      "andhra chicken fry"
+    ],
+    "per100g": {
+      "kcal": 230,
+      "protein": 22,
+      "fiber": 1,
+      "carbs": 5,
+      "fat": 14
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "chicken_65": {
+    "name": "Chicken 65",
+    "name_hi": "चिकन 65",
+    "name_te": "చికెన్ 65",
+    "aliases": [],
+    "per100g": {
+      "kcal": 260,
+      "protein": 20,
+      "fiber": 0.8,
+      "carbs": 10,
+      "fat": 16
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "tandoori_chicken": {
+    "name": "Tandoori Chicken",
+    "name_hi": "तंदूरी चिकन",
+    "name_te": "తందూరీ చికెన్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 175,
+      "protein": 25,
+      "fiber": 0.5,
+      "carbs": 2,
+      "fat": 7.5
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "chicken_tikka": {
+    "name": "Chicken Tikka",
+    "name_hi": "चिकन टिक्का",
+    "name_te": "చికెన్ టిక్కా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 170,
+      "protein": 24,
+      "fiber": 0.5,
+      "carbs": 3,
+      "fat": 7
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "butter_chicken": {
+    "name": "Butter Chicken",
+    "name_hi": "बटर चिकन",
+    "name_te": "బటర్ చికెన్",
+    "aliases": [
+      "murgh makhani"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 14,
+      "fiber": 0.8,
+      "carbs": 6,
+      "fat": 14
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "chicken_keema": {
+    "name": "Chicken Keema",
+    "name_hi": "चिकन कीमा",
+    "name_te": "చికెన్ కీమా",
+    "aliases": [
+      "chicken mince"
+    ],
+    "per100g": {
+      "kcal": 190,
+      "protein": 17,
+      "fiber": 1,
+      "carbs": 5,
+      "fat": 12
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "seekh_kebab": {
+    "name": "Seekh Kebab",
+    "name_hi": "सीख कबाब",
+    "name_te": "సీక్ కబాబ్",
+    "aliases": [
+      "kebab",
+      "kabab"
+    ],
+    "per100g": {
+      "kcal": 210,
+      "protein": 20,
+      "fiber": 0.8,
+      "carbs": 4,
+      "fat": 13
+    },
+    "unitGrams": 60,
+    "diet": "nonveg"
+  },
+  "chicken_pakora": {
+    "name": "Chicken Pakora",
+    "name_hi": "चिकन पकोड़ा",
+    "name_te": "చికెన్ పకోడీ",
+    "aliases": [
+      "chicken pakoda"
+    ],
+    "per100g": {
+      "kcal": 270,
+      "protein": 18,
+      "fiber": 1.5,
+      "carbs": 15,
+      "fat": 16
+    },
+    "unitGrams": 40,
+    "diet": "nonveg"
+  },
+  "chicken_fried_rice": {
+    "name": "Chicken Fried Rice",
+    "name_hi": "चिकन फ्राइड राइस",
+    "name_te": "చికెన్ ఫ్రైడ్ రైస్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 175,
+      "protein": 8,
+      "fiber": 1,
+      "carbs": 24,
+      "fat": 5.5
+    },
+    "unitGrams": 250,
+    "diet": "nonveg"
+  },
+  "chicken_soup": {
+    "name": "Chicken Soup",
+    "name_hi": "चिकन सूप",
+    "name_te": "చికెన్ సూప్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 40,
+      "protein": 4,
+      "fiber": 0.3,
+      "carbs": 3,
+      "fat": 1.2
+    },
+    "unitGrams": 250,
+    "diet": "nonveg"
+  },
+  "chicken_thigh_cooked": {
+    "name": "Chicken Thigh",
+    "name_hi": "चिकन जांघ",
+    "name_te": "చికెన్ తొడ",
+    "aliases": [
+      "chicken leg",
+      "chicken drumstick"
+    ],
+    "per100g": {
+      "kcal": 215,
+      "protein": 25,
+      "fiber": 0,
+      "carbs": 0,
+      "fat": 12
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "chicken_liver_cooked": {
+    "name": "Chicken Liver",
+    "name_hi": "चिकन कलेजी",
+    "name_te": "చికెన్ లివర్",
+    "aliases": [
+      "kaleji"
+    ],
+    "per100g": {
+      "kcal": 165,
+      "protein": 24,
+      "fiber": 0,
+      "carbs": 1,
+      "fat": 6.5
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "mutton_curry": {
+    "name": "Mutton Curry",
+    "name_hi": "मटन करी",
+    "name_te": "మటన్ కూర",
+    "aliases": [
+      "goat curry",
+      "lamb curry",
+      "mamsam"
+    ],
+    "per100g": {
+      "kcal": 210,
+      "protein": 16,
+      "fiber": 1,
+      "carbs": 4,
+      "fat": 15
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "mutton_biryani": {
+    "name": "Mutton Biryani",
+    "name_hi": "मटन बिरयानी",
+    "name_te": "మటన్ బిర్యానీ",
+    "aliases": [
+      "gosht biryani"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 10,
+      "fiber": 1,
+      "carbs": 23,
+      "fat": 8
+    },
+    "unitGrams": 250,
+    "diet": "nonveg"
+  },
+  "mutton_keema": {
+    "name": "Mutton Keema",
+    "name_hi": "मटन कीमा",
+    "name_te": "మటన్ కీమా",
+    "aliases": [
+      "keema",
+      "mince"
+    ],
+    "per100g": {
+      "kcal": 230,
+      "protein": 17,
+      "fiber": 1,
+      "carbs": 4,
+      "fat": 17
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "gongura_mutton": {
+    "name": "Gongura Mutton",
+    "name_hi": "गोंगुरा मटन",
+    "name_te": "గోంగూర మటన్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 220,
+      "protein": 16,
+      "fiber": 1.5,
+      "carbs": 4,
+      "fat": 16
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "mutton_cooked": {
+    "name": "Mutton (goat), cooked",
+    "name_hi": "बकरे का मांस",
+    "name_te": "మేక మాంసం",
+    "aliases": [
+      "goat meat",
+      "lamb"
+    ],
+    "per100g": {
+      "kcal": 175,
+      "protein": 27,
+      "fiber": 0,
+      "carbs": 0,
+      "fat": 7
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "fish_curry": {
+    "name": "Fish Curry",
+    "name_hi": "मछली करी",
+    "name_te": "చేపల పులుసు",
+    "aliases": [
+      "chepala pulusu",
+      "meen kuzhambu"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein": 14,
+      "fiber": 1,
+      "carbs": 4,
+      "fat": 5.5
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "fish_fry": {
+    "name": "Fish Fry",
+    "name_hi": "तली मछली",
+    "name_te": "చేపల వేపుడు",
+    "aliases": [
+      "chepala vepudu",
+      "fried fish"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 20,
+      "fiber": 0.5,
+      "carbs": 6,
+      "fat": 11
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "rohu_cooked": {
+    "name": "Rohu / Catla, cooked",
+    "name_hi": "रोहू मछली",
+    "name_te": "రోహు చేప",
+    "aliases": [
+      "rohu",
+      "catla",
+      "carp"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein": 20,
+      "fiber": 0,
+      "carbs": 0,
+      "fat": 4
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "mackerel_cooked": {
+    "name": "Mackerel",
+    "name_hi": "बांगड़ा",
+    "name_te": "కానగర్త",
+    "aliases": [
+      "bangda"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 21,
+      "fiber": 0,
+      "carbs": 0,
+      "fat": 13
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "tuna_canned_water": {
+    "name": "Tuna (canned)",
+    "name_hi": "टूना",
+    "name_te": "ట్యూనా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 115,
+      "protein": 25,
+      "fiber": 0,
+      "carbs": 0,
+      "fat": 1
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "prawn_curry": {
+    "name": "Prawn Curry",
+    "name_hi": "झींगा करी",
+    "name_te": "రొయ్యల కూర",
+    "aliases": [
+      "shrimp curry",
+      "royyala kura"
+    ],
+    "per100g": {
+      "kcal": 125,
+      "protein": 14,
+      "fiber": 1,
+      "carbs": 5,
+      "fat": 6
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "prawns_cooked": {
+    "name": "Prawns",
+    "name_hi": "झींगा",
+    "name_te": "రొయ్యలు",
+    "aliases": [
+      "shrimp",
+      "royyalu"
+    ],
+    "per100g": {
+      "kcal": 100,
+      "protein": 21,
+      "fiber": 0,
+      "carbs": 0.5,
+      "fat": 1.2
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "crab_cooked": {
+    "name": "Crab",
+    "name_hi": "केकड़ा",
+    "name_te": "పీత",
+    "aliases": [
+      "peethala"
+    ],
+    "per100g": {
+      "kcal": 95,
+      "protein": 19,
+      "fiber": 0,
+      "carbs": 0,
+      "fat": 1.5
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "tomato_pappu": {
+    "name": "Tomato Pappu",
+    "name_hi": "टमाटर दाल",
+    "name_te": "టమాటా పప్పు",
+    "aliases": [
+      "tomato dal"
+    ],
+    "per100g": {
+      "kcal": 100,
+      "protein": 5,
+      "fiber": 3,
+      "carbs": 13,
+      "fat": 3
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "dosakaya_pappu": {
+    "name": "Dosakaya Pappu",
+    "name_hi": "ककड़ी दाल",
+    "name_te": "దోసకాయ పప్పు",
+    "aliases": [
+      "cucumber dal"
+    ],
+    "per100g": {
+      "kcal": 95,
+      "protein": 5,
+      "fiber": 2.5,
+      "carbs": 12,
+      "fat": 3
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "gongura_pappu": {
+    "name": "Gongura Pappu",
+    "name_hi": "गोंगुरा दाल",
+    "name_te": "గోంగూర పప్పు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 105,
+      "protein": 5,
+      "fiber": 3.5,
+      "carbs": 12,
+      "fat": 4
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "mudda_pappu": {
+    "name": "Mudda Pappu",
+    "name_hi": "सादी दाल",
+    "name_te": "ముద్ద పప్పు",
+    "aliases": [
+      "plain toor dal"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein": 7,
+      "fiber": 3.5,
+      "carbs": 18,
+      "fat": 2
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "pappu_charu": {
+    "name": "Pappu Charu",
+    "name_hi": "दाल रसम",
+    "name_te": "పప్పు చారు",
+    "aliases": [
+      "dal rasam"
+    ],
+    "per100g": {
+      "kcal": 45,
+      "protein": 2,
+      "fiber": 1,
+      "carbs": 6,
+      "fat": 1.5
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "ulava_charu": {
+    "name": "Ulava Charu",
+    "name_hi": "कुलथी रसम",
+    "name_te": "ఉలవ చారు",
+    "aliases": [
+      "horse gram rasam"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein": 4,
+      "fiber": 2.5,
+      "carbs": 12,
+      "fat": 3
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "pachi_pulusu": {
+    "name": "Pachi Pulusu",
+    "name_hi": "इमली का पानी",
+    "name_te": "పచ్చి పులుసు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 40,
+      "protein": 1,
+      "fiber": 1,
+      "carbs": 8,
+      "fat": 1
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "bendakaya_pulusu": {
+    "name": "Bendakaya Pulusu",
+    "name_hi": "भिंडी पुलुसु",
+    "name_te": "బెండకాయ పులుసు",
+    "aliases": [
+      "okra tamarind curry"
+    ],
+    "per100g": {
+      "kcal": 70,
+      "protein": 2,
+      "fiber": 3,
+      "carbs": 9,
+      "fat": 3
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "vankaya_kura": {
+    "name": "Vankaya Kura",
+    "name_hi": "बैंगन की सब्ज़ी",
+    "name_te": "వంకాయ కూర",
+    "aliases": [
+      "brinjal curry"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein": 2,
+      "fiber": 3,
+      "carbs": 8,
+      "fat": 6
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "avakaya": {
+    "name": "Avakaya (mango pickle)",
+    "name_hi": "आम का अचार",
+    "name_te": "ఆవకాయ",
+    "aliases": [
+      "mango pickle",
+      "aam ka achar"
+    ],
+    "per100g": {
+      "kcal": 250,
+      "protein": 2,
+      "fiber": 3,
+      "carbs": 12,
+      "fat": 22
+    },
+    "unitGrams": 15,
+    "diet": "veg"
+  },
+  "perugu_pachadi": {
+    "name": "Perugu Pachadi",
+    "name_hi": "रायता",
+    "name_te": "పెరుగు పచ్చడి",
+    "aliases": [
+      "raita",
+      "curd pachadi"
+    ],
+    "per100g": {
+      "kcal": 60,
+      "protein": 3,
+      "fiber": 0.8,
+      "carbs": 5,
+      "fat": 3
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "kandi_podi": {
+    "name": "Kandi Podi",
+    "name_hi": "दाल पोड़ी",
+    "name_te": "కంది పొడి",
+    "aliases": [
+      "dal podi",
+      "paruppu podi"
+    ],
+    "per100g": {
+      "kcal": 380,
+      "protein": 20,
+      "fiber": 10,
+      "carbs": 45,
+      "fat": 12
+    },
+    "unitGrams": 10,
+    "diet": "veg"
+  },
+  "karam_podi": {
+    "name": "Karam Podi",
+    "name_hi": "गनपाउडर",
+    "name_te": "కారం పొడి",
+    "aliases": [
+      "gunpowder",
+      "idli podi",
+      "milagai podi"
+    ],
+    "per100g": {
+      "kcal": 400,
+      "protein": 18,
+      "fiber": 12,
+      "carbs": 45,
+      "fat": 15
+    },
+    "unitGrams": 10,
+    "diet": "veg"
+  },
+  "ragi_sankati": {
+    "name": "Ragi Sankati",
+    "name_hi": "रागी मुद्दा",
+    "name_te": "రాగి సంకటి",
+    "aliases": [
+      "ragi mudde",
+      "ragi ball",
+      "ragi mudda"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein": 2,
+      "fiber": 3,
+      "carbs": 18,
+      "fat": 0.8
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "jonna_rotte": {
+    "name": "Jonna Rotte",
+    "name_hi": "ज्वार रोटी",
+    "name_te": "జొన్న రొట్టె",
+    "aliases": [
+      "jowar roti",
+      "jolada rotti",
+      "bhakri"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 6.5,
+      "fiber": 4,
+      "carbs": 40,
+      "fat": 2
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "sajja_rotte": {
+    "name": "Sajja Rotte",
+    "name_hi": "बाजरा रोटी",
+    "name_te": "సజ్జ రొట్టె",
+    "aliases": [
+      "bajra roti"
+    ],
+    "per100g": {
+      "kcal": 210,
+      "protein": 7,
+      "fiber": 4.5,
+      "carbs": 40,
+      "fat": 3
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "sarva_pindi": {
+    "name": "Sarva Pindi",
+    "name_hi": "सर्वपिंडी",
+    "name_te": "సర్వపిండి",
+    "aliases": [],
+    "per100g": {
+      "kcal": 280,
+      "protein": 8,
+      "fiber": 4,
+      "carbs": 35,
+      "fat": 12
+    },
+    "unitGrams": 80,
+    "diet": "veg"
+  },
+  "sakinalu": {
+    "name": "Sakinalu",
+    "name_hi": "सकिनालु",
+    "name_te": "సకినాలు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 450,
+      "protein": 6,
+      "fiber": 3,
+      "carbs": 55,
+      "fat": 23
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "punugulu": {
+    "name": "Punugulu",
+    "name_hi": "पुनुगुलु",
+    "name_te": "పునుగులు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 300,
+      "protein": 6,
+      "fiber": 1.5,
+      "carbs": 38,
+      "fat": 14
+    },
+    "unitGrams": 25,
+    "diet": "veg"
+  },
+  "mirchi_bajji": {
+    "name": "Mirchi Bajji",
+    "name_hi": "मिर्ची भजी",
+    "name_te": "మిర్చి బజ్జి",
+    "aliases": [
+      "mirapakaya bajji",
+      "chilli bajji"
+    ],
+    "per100g": {
+      "kcal": 250,
+      "protein": 6,
+      "fiber": 2.5,
+      "carbs": 28,
+      "fat": 13
+    },
+    "unitGrams": 50,
+    "diet": "veg"
+  },
+  "aloo_bonda": {
+    "name": "Aloo Bonda",
+    "name_hi": "आलू बोंडा",
+    "name_te": "ఆలూ బోండా",
+    "aliases": [
+      "bonda",
+      "batata vada"
+    ],
+    "per100g": {
+      "kcal": 270,
+      "protein": 5,
+      "fiber": 2.5,
+      "carbs": 32,
+      "fat": 14
+    },
+    "unitGrams": 50,
+    "diet": "veg"
+  },
+  "bobbatlu": {
+    "name": "Bobbatlu",
+    "name_hi": "पूरन पोली",
+    "name_te": "బొబ్బట్లు",
+    "aliases": [
+      "puran poli",
+      "obbattu",
+      "holige"
+    ],
+    "per100g": {
+      "kcal": 300,
+      "protein": 7,
+      "fiber": 3,
+      "carbs": 55,
+      "fat": 6
+    },
+    "unitGrams": 70,
+    "diet": "veg"
+  },
+  "ariselu": {
+    "name": "Ariselu",
+    "name_hi": "अरिसा",
+    "name_te": "అరిసెలు",
+    "aliases": [
+      "adhirasam"
+    ],
+    "per100g": {
+      "kcal": 380,
+      "protein": 4,
+      "fiber": 1,
+      "carbs": 62,
+      "fat": 13
+    },
+    "unitGrams": 50,
+    "diet": "veg"
+  },
+  "pootharekulu": {
+    "name": "Pootharekulu",
+    "name_hi": "पूतरेकुलु",
+    "name_te": "పూతరేకులు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 400,
+      "protein": 3,
+      "fiber": 0.5,
+      "carbs": 70,
+      "fat": 12
+    },
+    "unitGrams": 25,
+    "diet": "veg"
+  },
+  "sunnundalu": {
+    "name": "Sunnundalu",
+    "name_hi": "उड़द लड्डू",
+    "name_te": "సున్నుండలు",
+    "aliases": [
+      "urad ladoo"
+    ],
+    "per100g": {
+      "kcal": 430,
+      "protein": 15,
+      "fiber": 5,
+      "carbs": 50,
+      "fat": 20
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "rava_kesari": {
+    "name": "Rava Kesari",
+    "name_hi": "सूजी हलवा",
+    "name_te": "రవ్వ కేసరి",
+    "aliases": [
+      "kesari bath",
+      "sooji halwa",
+      "sheera"
+    ],
+    "per100g": {
+      "kcal": 330,
+      "protein": 4,
+      "fiber": 1,
+      "carbs": 55,
+      "fat": 11
+    },
+    "unitGrams": 80,
+    "diet": "veg"
+  },
+  "natu_kodi_kura": {
+    "name": "Natu Kodi Kura",
+    "name_hi": "देसी चिकन करी",
+    "name_te": "నాటు కోడి కూర",
+    "aliases": [
+      "country chicken curry",
+      "desi chicken"
+    ],
+    "per100g": {
+      "kcal": 160,
+      "protein": 15,
+      "fiber": 1,
+      "carbs": 4,
+      "fat": 9.5
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "royyala_vepudu": {
+    "name": "Prawn Fry",
+    "name_hi": "झींगा फ्राई",
+    "name_te": "రొయ్యల వేపుడు",
+    "aliases": [
+      "royyala vepudu",
+      "shrimp fry"
+    ],
+    "per100g": {
+      "kcal": 180,
+      "protein": 22,
+      "fiber": 0.5,
+      "carbs": 4,
+      "fat": 9
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "hyderabadi_haleem": {
+    "name": "Haleem",
+    "name_hi": "हलीम",
+    "name_te": "హలీమ్",
+    "aliases": [
+      "hyderabadi haleem"
+    ],
+    "per100g": {
+      "kcal": 190,
+      "protein": 11,
+      "fiber": 2,
+      "carbs": 16,
+      "fat": 9
+    },
+    "unitGrams": 200,
+    "diet": "nonveg"
+  },
+  "mutton_paya": {
+    "name": "Paya",
+    "name_hi": "पाया",
+    "name_te": "పాయా",
+    "aliases": [
+      "paya soup",
+      "mutton paya"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein": 8,
+      "fiber": 0.3,
+      "carbs": 3,
+      "fat": 5
+    },
+    "unitGrams": 200,
+    "diet": "nonveg"
+  },
+  "rava_dosa": {
+    "name": "Rava Dosa",
+    "name_hi": "रवा डोसा",
+    "name_te": "రవ్వ దోశ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 180,
+      "protein": 3.5,
+      "fiber": 1,
+      "carbs": 26,
+      "fat": 7
+    },
+    "unitGrams": 80,
+    "diet": "veg"
+  },
+  "rava_idli": {
+    "name": "Rava Idli",
+    "name_hi": "रवा इडली",
+    "name_te": "రవ్వ ఇడ్లీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 150,
+      "protein": 4.5,
+      "fiber": 1.5,
+      "carbs": 25,
+      "fat": 3.5
+    },
+    "unitGrams": 50,
+    "diet": "veg"
+  },
+  "set_dosa": {
+    "name": "Set Dosa",
+    "name_hi": "सेट डोसा",
+    "name_te": "సెట్ దోశ",
+    "aliases": [
+      "sponge dosa"
+    ],
+    "per100g": {
+      "kcal": 150,
+      "protein": 4,
+      "fiber": 1.2,
+      "carbs": 26,
+      "fat": 3
+    },
+    "unitGrams": 70,
+    "diet": "veg"
+  },
+  "neer_dosa": {
+    "name": "Neer Dosa",
+    "name_hi": "नीर डोसा",
+    "name_te": "నీర్ దోశ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 110,
+      "protein": 2,
+      "fiber": 0.5,
+      "carbs": 22,
+      "fat": 1.5
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "ragi_dosa": {
+    "name": "Ragi Dosa",
+    "name_hi": "रागी डोसा",
+    "name_te": "రాగి దోశ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 140,
+      "protein": 4,
+      "fiber": 3,
+      "carbs": 24,
+      "fat": 3
+    },
+    "unitGrams": 70,
+    "diet": "veg"
+  },
+  "kuzhi_paniyaram": {
+    "name": "Paniyaram",
+    "name_hi": "पनियारम",
+    "name_te": "పనియారం",
+    "aliases": [
+      "paddu",
+      "guliyappa",
+      "gunta ponganalu"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 5,
+      "fiber": 1.5,
+      "carbs": 30,
+      "fat": 7
+    },
+    "unitGrams": 20,
+    "diet": "veg"
+  },
+  "appam": {
+    "name": "Appam",
+    "name_hi": "अप्पम",
+    "name_te": "ఆప్పం",
+    "aliases": [
+      "palappam"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein": 2.5,
+      "fiber": 0.8,
+      "carbs": 24,
+      "fat": 1.5
+    },
+    "unitGrams": 50,
+    "diet": "veg"
+  },
+  "puttu": {
+    "name": "Puttu",
+    "name_hi": "पुट्टू",
+    "name_te": "పుట్టు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 150,
+      "protein": 3,
+      "fiber": 2.5,
+      "carbs": 32,
+      "fat": 1.5
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "idiyappam": {
+    "name": "Idiyappam",
+    "name_hi": "इडियप्पम",
+    "name_te": "ఇడియప్పం",
+    "aliases": [
+      "string hoppers",
+      "sevai",
+      "noolappam"
+    ],
+    "per100g": {
+      "kcal": 130,
+      "protein": 2.5,
+      "fiber": 1,
+      "carbs": 29,
+      "fat": 0.5
+    },
+    "unitGrams": 50,
+    "diet": "veg"
+  },
+  "kerala_parotta": {
+    "name": "Kerala Parotta",
+    "name_hi": "केरल पराठा",
+    "name_te": "పరోటా",
+    "aliases": [
+      "parotta",
+      "malabar paratha"
+    ],
+    "per100g": {
+      "kcal": 320,
+      "protein": 7,
+      "fiber": 1.5,
+      "carbs": 45,
+      "fat": 13
+    },
+    "unitGrams": 80,
+    "diet": "veg"
+  },
+  "bisi_bele_bath": {
+    "name": "Bisi Bele Bath",
+    "name_hi": "बिसी बेले बाथ",
+    "name_te": "బిసిబేళె బాత్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 140,
+      "protein": 4.5,
+      "fiber": 2.5,
+      "carbs": 21,
+      "fat": 4.5
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "coconut_rice": {
+    "name": "Coconut Rice",
+    "name_hi": "नारियल चावल",
+    "name_te": "కొబ్బరి అన్నం",
+    "aliases": [
+      "thengai sadam"
+    ],
+    "per100g": {
+      "kcal": 190,
+      "protein": 3,
+      "fiber": 2,
+      "carbs": 27,
+      "fat": 8
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "tomato_rice": {
+    "name": "Tomato Rice",
+    "name_hi": "टमाटर चावल",
+    "name_te": "టమాటా అన్నం",
+    "aliases": [
+      "thakkali sadam",
+      "tomato bath"
+    ],
+    "per100g": {
+      "kcal": 150,
+      "protein": 3,
+      "fiber": 1.5,
+      "carbs": 26,
+      "fat": 4
+    },
+    "unitGrams": 200,
+    "diet": "veg"
+  },
+  "avial": {
+    "name": "Avial",
+    "name_hi": "अवियल",
+    "name_te": "అవియల్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 90,
+      "protein": 2,
+      "fiber": 3,
+      "carbs": 8,
+      "fat": 5.5
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "kootu": {
+    "name": "Kootu",
+    "name_hi": "कूट्टू",
+    "name_te": "కూట్టు",
+    "aliases": [],
+    "per100g": {
+      "kcal": 95,
+      "protein": 4.5,
+      "fiber": 3,
+      "carbs": 11,
+      "fat": 3.5
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "poriyal": {
+    "name": "Poriyal",
+    "name_hi": "पोरियल",
+    "name_te": "పొరియల్",
+    "aliases": [
+      "thoran",
+      "vepudu",
+      "veg stir fry",
+      "palya"
+    ],
+    "per100g": {
+      "kcal": 80,
+      "protein": 2.5,
+      "fiber": 3.5,
+      "carbs": 8,
+      "fat": 4
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "vatha_kuzhambu": {
+    "name": "Vatha Kuzhambu",
+    "name_hi": "वत्त कुलम्बु",
+    "name_te": "వత్త కుళంబు",
+    "aliases": [
+      "kara kuzhambu"
+    ],
+    "per100g": {
+      "kcal": 80,
+      "protein": 1.5,
+      "fiber": 2,
+      "carbs": 10,
+      "fat": 4
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "mor_kuzhambu": {
+    "name": "Mor Kuzhambu",
+    "name_hi": "मोर कुलम्बु",
+    "name_te": "మజ్జిగ పులుసు",
+    "aliases": [
+      "majjiga pulusu",
+      "kadhi (south)"
+    ],
+    "per100g": {
+      "kcal": 70,
+      "protein": 2.5,
+      "fiber": 1,
+      "carbs": 6,
+      "fat": 4
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "chicken_chettinad": {
+    "name": "Chicken Chettinad",
+    "name_hi": "चिकन चेट्टिनाड",
+    "name_te": "చెట్టినాడ్ చికెన్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 180,
+      "protein": 16,
+      "fiber": 1.2,
+      "carbs": 5,
+      "fat": 11
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "fish_moilee": {
+    "name": "Fish Moilee",
+    "name_hi": "फिश मोइली",
+    "name_te": "ఫిష్ మొయిలీ",
+    "aliases": [
+      "meen moilee",
+      "kerala fish stew"
+    ],
+    "per100g": {
+      "kcal": 140,
+      "protein": 13,
+      "fiber": 0.8,
+      "carbs": 4,
+      "fat": 8
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "chicken_kothu_parotta": {
+    "name": "Kothu Parotta (chicken)",
+    "name_hi": "कोत्तु पराठा",
+    "name_te": "కొత్తు పరోటా",
+    "aliases": [
+      "kothu parotta"
+    ],
+    "per100g": {
+      "kcal": 220,
+      "protein": 12,
+      "fiber": 1.5,
+      "carbs": 25,
+      "fat": 9
+    },
+    "unitGrams": 250,
+    "diet": "nonveg"
+  },
+  "mysore_pak": {
+    "name": "Mysore Pak",
+    "name_hi": "मैसूर पाक",
+    "name_te": "మైసూర్ పాక్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 500,
+      "protein": 4,
+      "fiber": 1,
+      "carbs": 55,
+      "fat": 30
+    },
+    "unitGrams": 40,
+    "diet": "veg"
+  },
+  "murukku": {
+    "name": "Murukku",
+    "name_hi": "मुरुक्कू",
+    "name_te": "జంతికలు",
+    "aliases": [
+      "chakli",
+      "janthikalu",
+      "chakralu"
+    ],
+    "per100g": {
+      "kcal": 480,
+      "protein": 7,
+      "fiber": 2,
+      "carbs": 60,
+      "fat": 24
+    },
+    "unitGrams": 25,
+    "diet": "veg"
+  },
+  "banana_chips": {
+    "name": "Banana Chips",
+    "name_hi": "केले के चिप्स",
+    "name_te": "అరటికాయ చిప్స్",
+    "aliases": [
+      "kerala chips"
+    ],
+    "per100g": {
+      "kcal": 520,
+      "protein": 2,
+      "fiber": 2,
+      "carbs": 60,
+      "fat": 30
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "tandoori_roti": {
+    "name": "Tandoori Roti",
+    "name_hi": "तंदूरी रोटी",
+    "name_te": "తందూరీ రొట్టె",
+    "aliases": [],
+    "per100g": {
+      "kcal": 250,
+      "protein": 8,
+      "fiber": 3,
+      "carbs": 50,
+      "fat": 2
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "missi_roti": {
+    "name": "Missi Roti",
+    "name_hi": "मिस्सी रोटी",
+    "name_te": "మిస్సీ రొట్టె",
+    "aliases": [],
+    "per100g": {
+      "kcal": 280,
+      "protein": 10,
+      "fiber": 5,
+      "carbs": 45,
+      "fat": 7
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "makki_roti": {
+    "name": "Makki Ki Roti",
+    "name_hi": "मक्की की रोटी",
+    "name_te": "మొక్కజొన్న రొట్టె",
+    "aliases": [
+      "makki roti",
+      "corn roti"
+    ],
+    "per100g": {
+      "kcal": 250,
+      "protein": 6,
+      "fiber": 4,
+      "carbs": 48,
+      "fat": 4
+    },
+    "unitGrams": 70,
+    "diet": "veg"
+  },
+  "sarson_ka_saag": {
+    "name": "Sarson Ka Saag",
+    "name_hi": "सरसों का साग",
+    "name_te": "ఆవాకూర",
+    "aliases": [
+      "saag"
+    ],
+    "per100g": {
+      "kcal": 80,
+      "protein": 3.5,
+      "fiber": 3.5,
+      "carbs": 6,
+      "fat": 5
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "gobi_paratha": {
+    "name": "Gobi Paratha",
+    "name_hi": "गोभी पराठा",
+    "name_te": "గోబీ పరాఠా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 220,
+      "protein": 6,
+      "fiber": 3,
+      "carbs": 30,
+      "fat": 8
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "paneer_paratha": {
+    "name": "Paneer Paratha",
+    "name_hi": "पनीर पराठा",
+    "name_te": "పనీర్ పరాఠా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 260,
+      "protein": 10,
+      "fiber": 2.5,
+      "carbs": 30,
+      "fat": 11
+    },
+    "unitGrams": 110,
+    "diet": "veg"
+  },
+  "methi_thepla": {
+    "name": "Methi Thepla",
+    "name_hi": "मेथी थेपला",
+    "name_te": "మెంతి తేప్లా",
+    "aliases": [
+      "thepla"
+    ],
+    "per100g": {
+      "kcal": 270,
+      "protein": 7,
+      "fiber": 3.5,
+      "carbs": 38,
+      "fat": 10
+    },
+    "unitGrams": 40,
+    "diet": "veg"
+  },
+  "bhatura": {
+    "name": "Bhatura",
+    "name_hi": "भटूरा",
+    "name_te": "భటూరా",
+    "aliases": [
+      "bhature"
+    ],
+    "per100g": {
+      "kcal": 320,
+      "protein": 8,
+      "fiber": 1.5,
+      "carbs": 45,
+      "fat": 12
+    },
+    "unitGrams": 70,
+    "diet": "veg"
+  },
+  "chole_bhature": {
+    "name": "Chole Bhature",
+    "name_hi": "छोले भटूरे",
+    "name_te": "ఛోలే భటూరే",
+    "aliases": [],
+    "per100g": {
+      "kcal": 260,
+      "protein": 7,
+      "fiber": 3.5,
+      "carbs": 33,
+      "fat": 11
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "amritsari_kulcha": {
+    "name": "Amritsari Kulcha",
+    "name_hi": "अमृतसरी कुलचा",
+    "name_te": "అమృత్‌సరీ కుల్చా",
+    "aliases": [
+      "kulcha"
+    ],
+    "per100g": {
+      "kcal": 280,
+      "protein": 7,
+      "fiber": 2.5,
+      "carbs": 42,
+      "fat": 9
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "kadhi_pakora": {
+    "name": "Kadhi Pakora",
+    "name_hi": "कढ़ी पकोड़ा",
+    "name_te": "కఢీ పకోడా",
+    "aliases": [
+      "kadhi"
+    ],
+    "per100g": {
+      "kcal": 110,
+      "protein": 4,
+      "fiber": 1.5,
+      "carbs": 10,
+      "fat": 6
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "kadai_paneer": {
+    "name": "Kadai Paneer",
+    "name_hi": "कड़ाही पनीर",
+    "name_te": "కడాయి పనీర్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 190,
+      "protein": 9,
+      "fiber": 2,
+      "carbs": 8,
+      "fat": 14
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "shahi_paneer": {
+    "name": "Shahi Paneer",
+    "name_hi": "शाही पनीर",
+    "name_te": "షాహీ పనీర్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 230,
+      "protein": 8,
+      "fiber": 1.2,
+      "carbs": 9,
+      "fat": 18
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "matar_paneer": {
+    "name": "Matar Paneer",
+    "name_hi": "मटर पनीर",
+    "name_te": "మటర్ పనీర్",
+    "aliases": [
+      "mutter paneer"
+    ],
+    "per100g": {
+      "kcal": 150,
+      "protein": 7,
+      "fiber": 3,
+      "carbs": 9,
+      "fat": 10
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "malai_kofta": {
+    "name": "Malai Kofta",
+    "name_hi": "मलाई कोफ्ता",
+    "name_te": "మలై కోఫ్తా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 240,
+      "protein": 6,
+      "fiber": 2,
+      "carbs": 14,
+      "fat": 18
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "aloo_matar": {
+    "name": "Aloo Matar",
+    "name_hi": "आलू मटर",
+    "name_te": "ఆలూ మటర్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 100,
+      "protein": 3,
+      "fiber": 3,
+      "carbs": 14,
+      "fat": 4
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "jeera_aloo": {
+    "name": "Jeera Aloo",
+    "name_hi": "जीरा आलू",
+    "name_te": "జీరా ఆలూ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 130,
+      "protein": 2.5,
+      "fiber": 2.5,
+      "carbs": 18,
+      "fat": 6
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "dum_aloo": {
+    "name": "Dum Aloo",
+    "name_hi": "दम आलू",
+    "name_te": "దమ్ ఆలూ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 140,
+      "protein": 2.5,
+      "fiber": 2,
+      "carbs": 16,
+      "fat": 8
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "baingan_bharta": {
+    "name": "Baingan Bharta",
+    "name_hi": "बैंगन भरता",
+    "name_te": "వంకాయ భర్తా",
+    "aliases": [
+      "bharta"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein": 2,
+      "fiber": 3.5,
+      "carbs": 8,
+      "fat": 6
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "rajma_chawal": {
+    "name": "Rajma Chawal",
+    "name_hi": "राजमा चावल",
+    "name_te": "రాజ్మా అన్నం",
+    "aliases": [],
+    "per100g": {
+      "kcal": 140,
+      "protein": 5,
+      "fiber": 3.5,
+      "carbs": 24,
+      "fat": 2.5
+    },
+    "unitGrams": 300,
+    "diet": "veg"
+  },
+  "sabudana_khichdi": {
+    "name": "Sabudana Khichdi",
+    "name_hi": "साबूदाना खिचड़ी",
+    "name_te": "సగ్గుబియ్యం ఖిచ్డీ",
+    "aliases": [
+      "sago khichdi"
+    ],
+    "per100g": {
+      "kcal": 240,
+      "protein": 3,
+      "fiber": 1.5,
+      "carbs": 40,
+      "fat": 8
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "litti_chokha": {
+    "name": "Litti Chokha",
+    "name_hi": "लिट्टी चोखा",
+    "name_te": "లిట్టీ చోఖా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 220,
+      "protein": 7,
+      "fiber": 5,
+      "carbs": 32,
+      "fat": 8
+    },
+    "unitGrams": 150,
+    "diet": "veg"
+  },
+  "khandvi": {
+    "name": "Khandvi",
+    "name_hi": "खांडवी",
+    "name_te": "ఖాండ్వీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 150,
+      "protein": 6,
+      "fiber": 2,
+      "carbs": 15,
+      "fat": 7
+    },
+    "unitGrams": 80,
+    "diet": "veg"
+  },
+  "pani_puri": {
+    "name": "Pani Puri",
+    "name_hi": "पानी पूरी",
+    "name_te": "పానీ పూరీ",
+    "aliases": [
+      "golgappa",
+      "puchka"
+    ],
+    "per100g": {
+      "kcal": 190,
+      "protein": 4,
+      "fiber": 2,
+      "carbs": 32,
+      "fat": 5
+    },
+    "unitGrams": 20,
+    "diet": "veg"
+  },
+  "bhel_puri": {
+    "name": "Bhel Puri",
+    "name_hi": "भेल पूरी",
+    "name_te": "భేల్ పూరీ",
+    "aliases": [
+      "bhel"
+    ],
+    "per100g": {
+      "kcal": 180,
+      "protein": 5,
+      "fiber": 3,
+      "carbs": 32,
+      "fat": 4
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "papdi_chaat": {
+    "name": "Papdi Chaat",
+    "name_hi": "पापड़ी चाट",
+    "name_te": "పాప్డీ చాట్",
+    "aliases": [
+      "dahi papdi",
+      "chaat"
+    ],
+    "per100g": {
+      "kcal": 220,
+      "protein": 5,
+      "fiber": 2.5,
+      "carbs": 30,
+      "fat": 9
+    },
+    "unitGrams": 120,
+    "diet": "veg"
+  },
+  "aloo_tikki": {
+    "name": "Aloo Tikki",
+    "name_hi": "आलू टिक्की",
+    "name_te": "ఆలూ టిక్కీ",
+    "aliases": [
+      "tikki"
+    ],
+    "per100g": {
+      "kcal": 200,
+      "protein": 3.5,
+      "fiber": 2.5,
+      "carbs": 26,
+      "fat": 9
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "kachori": {
+    "name": "Kachori",
+    "name_hi": "कचौड़ी",
+    "name_te": "కచోరీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 330,
+      "protein": 7,
+      "fiber": 3,
+      "carbs": 38,
+      "fat": 17
+    },
+    "unitGrams": 60,
+    "diet": "veg"
+  },
+  "veg_momos": {
+    "name": "Veg Momos",
+    "name_hi": "वेज मोमो",
+    "name_te": "వెజ్ మోమోస్",
+    "aliases": [
+      "momo",
+      "dumpling"
+    ],
+    "per100g": {
+      "kcal": 150,
+      "protein": 5,
+      "fiber": 1.5,
+      "carbs": 25,
+      "fat": 3.5
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "chicken_momos": {
+    "name": "Chicken Momos",
+    "name_hi": "चिकन मोमो",
+    "name_te": "చికెన్ మోమోస్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 170,
+      "protein": 9,
+      "fiber": 1,
+      "carbs": 22,
+      "fat": 5
+    },
+    "unitGrams": 30,
+    "diet": "nonveg"
+  },
+  "paneer_roll": {
+    "name": "Paneer Roll",
+    "name_hi": "पनीर रोल",
+    "name_te": "పనీర్ రోల్",
+    "aliases": [
+      "paneer kathi roll",
+      "paneer wrap"
+    ],
+    "per100g": {
+      "kcal": 240,
+      "protein": 10,
+      "fiber": 2,
+      "carbs": 28,
+      "fat": 10
+    },
+    "unitGrams": 180,
+    "diet": "veg"
+  },
+  "egg_paratha": {
+    "name": "Egg Paratha",
+    "name_hi": "अंडा पराठा",
+    "name_te": "ఎగ్ పరాఠా",
+    "aliases": [
+      "anda paratha"
+    ],
+    "per100g": {
+      "kcal": 250,
+      "protein": 9,
+      "fiber": 2,
+      "carbs": 30,
+      "fat": 11
+    },
+    "unitGrams": 120,
+    "diet": "egg"
+  },
+  "egg_roll": {
+    "name": "Egg Roll",
+    "name_hi": "अंडा रोल",
+    "name_te": "ఎగ్ రోల్",
+    "aliases": [
+      "anda roll"
+    ],
+    "per100g": {
+      "kcal": 240,
+      "protein": 9,
+      "fiber": 1.5,
+      "carbs": 30,
+      "fat": 10
+    },
+    "unitGrams": 150,
+    "diet": "egg"
+  },
+  "chicken_roll": {
+    "name": "Chicken Roll",
+    "name_hi": "चिकन रोल",
+    "name_te": "చికెన్ రోల్",
+    "aliases": [
+      "kathi roll",
+      "chicken wrap",
+      "frankie"
+    ],
+    "per100g": {
+      "kcal": 230,
+      "protein": 12,
+      "fiber": 1.5,
+      "carbs": 26,
+      "fat": 9
+    },
+    "unitGrams": 180,
+    "diet": "nonveg"
+  },
+  "rogan_josh": {
+    "name": "Rogan Josh",
+    "name_hi": "रोगन जोश",
+    "name_te": "రోగన్ జోష్",
+    "aliases": [
+      "mutton rogan josh"
+    ],
+    "per100g": {
+      "kcal": 210,
+      "protein": 17,
+      "fiber": 0.8,
+      "carbs": 4,
+      "fat": 14
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "chicken_korma": {
+    "name": "Chicken Korma",
+    "name_hi": "चिकन कोरमा",
+    "name_te": "చికెన్ కుర్మా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 200,
+      "protein": 14,
+      "fiber": 0.8,
+      "carbs": 6,
+      "fat": 14
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "kadai_chicken": {
+    "name": "Kadai Chicken",
+    "name_hi": "कड़ाही चिकन",
+    "name_te": "కడాయి చికెన్",
+    "aliases": [],
+    "per100g": {
+      "kcal": 180,
+      "protein": 16,
+      "fiber": 1,
+      "carbs": 5,
+      "fat": 11
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "chicken_do_pyaza": {
+    "name": "Chicken Do Pyaza",
+    "name_hi": "चिकन दो प्याज़ा",
+    "name_te": "చికెన్ దో ప్యాజా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 170,
+      "protein": 15,
+      "fiber": 1.2,
+      "carbs": 6,
+      "fat": 10
+    },
+    "unitGrams": 150,
+    "diet": "nonveg"
+  },
+  "nihari": {
+    "name": "Nihari",
+    "name_hi": "निहारी",
+    "name_te": "నిహారీ",
+    "aliases": [
+      "mutton nihari"
+    ],
+    "per100g": {
+      "kcal": 220,
+      "protein": 15,
+      "fiber": 0.5,
+      "carbs": 4,
+      "fat": 16
+    },
+    "unitGrams": 200,
+    "diet": "nonveg"
+  },
+  "fish_tikka": {
+    "name": "Fish Tikka",
+    "name_hi": "फिश टिक्का",
+    "name_te": "ఫిష్ టిక్కా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 160,
+      "protein": 22,
+      "fiber": 0.3,
+      "carbs": 3,
+      "fat": 7
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "amritsari_fish": {
+    "name": "Amritsari Fish",
+    "name_hi": "अमृतसरी मछली",
+    "name_te": "అమృత్‌సరీ ఫిష్",
+    "aliases": [
+      "fish pakora"
+    ],
+    "per100g": {
+      "kcal": 240,
+      "protein": 18,
+      "fiber": 0.8,
+      "carbs": 12,
+      "fat": 14
+    },
+    "unitGrams": 100,
+    "diet": "nonveg"
+  },
+  "rasgulla": {
+    "name": "Rasgulla",
+    "name_hi": "रसगुल्ला",
+    "name_te": "రసగుల్లా",
+    "aliases": [],
+    "per100g": {
+      "kcal": 190,
+      "protein": 4,
+      "fiber": 0,
+      "carbs": 40,
+      "fat": 1.5
+    },
+    "unitGrams": 40,
+    "diet": "veg"
+  },
+  "rasmalai": {
+    "name": "Rasmalai",
+    "name_hi": "रसमलाई",
+    "name_te": "రసమలై",
+    "aliases": [],
+    "per100g": {
+      "kcal": 210,
+      "protein": 6,
+      "fiber": 0,
+      "carbs": 25,
+      "fat": 10
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "jalebi": {
+    "name": "Jalebi",
+    "name_hi": "जलेबी",
+    "name_te": "జిలేబీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 400,
+      "protein": 2,
+      "fiber": 0.2,
+      "carbs": 60,
+      "fat": 17
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "gajar_halwa": {
+    "name": "Gajar Ka Halwa",
+    "name_hi": "गाजर का हलवा",
+    "name_te": "క్యారెట్ హల్వా",
+    "aliases": [
+      "carrot halwa"
+    ],
+    "per100g": {
+      "kcal": 250,
+      "protein": 4,
+      "fiber": 2,
+      "carbs": 35,
+      "fat": 11
+    },
+    "unitGrams": 100,
+    "diet": "veg"
+  },
+  "besan_ladoo": {
+    "name": "Besan Ladoo",
+    "name_hi": "बेसन लड्डू",
+    "name_te": "శనగపిండి లడ్డు",
+    "aliases": [
+      "laddu"
+    ],
+    "per100g": {
+      "kcal": 450,
+      "protein": 10,
+      "fiber": 3.5,
+      "carbs": 55,
+      "fat": 22
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "motichoor_ladoo": {
+    "name": "Motichoor Ladoo",
+    "name_hi": "मोतीचूर लड्डू",
+    "name_te": "బూందీ లడ్డు",
+    "aliases": [
+      "boondi ladoo",
+      "boondi laddu"
+    ],
+    "per100g": {
+      "kcal": 420,
+      "protein": 5,
+      "fiber": 1,
+      "carbs": 60,
+      "fat": 18
+    },
+    "unitGrams": 40,
+    "diet": "veg"
+  },
+  "kaju_katli": {
+    "name": "Kaju Katli",
+    "name_hi": "काजू कतली",
+    "name_te": "కాజు కత్లీ",
+    "aliases": [
+      "kaju barfi",
+      "barfi"
+    ],
+    "per100g": {
+      "kcal": 450,
+      "protein": 10,
+      "fiber": 1.5,
+      "carbs": 55,
+      "fat": 22
+    },
+    "unitGrams": 20,
+    "diet": "veg"
+  },
+  "kulfi": {
+    "name": "Kulfi",
+    "name_hi": "कुल्फी",
+    "name_te": "కుల్ఫీ",
+    "aliases": [],
+    "per100g": {
+      "kcal": 220,
+      "protein": 5,
+      "fiber": 0,
+      "carbs": 25,
+      "fat": 11
+    },
+    "unitGrams": 80,
+    "diet": "veg"
+  },
+  "nimbu_pani": {
+    "name": "Nimbu Pani",
+    "name_hi": "नींबू पानी",
+    "name_te": "నిమ్మరసం",
+    "aliases": [
+      "lemonade",
+      "shikanji",
+      "lime juice"
+    ],
+    "per100g": {
+      "kcal": 30,
+      "protein": 0,
+      "fiber": 0,
+      "carbs": 8,
+      "fat": 0
+    },
+    "unitGrams": 250,
+    "diet": "veg"
+  },
+  "makhana_roasted": {
+    "name": "Makhana (roasted)",
+    "name_hi": "मखाना",
+    "name_te": "మఖానా",
+    "aliases": [
+      "fox nuts",
+      "lotus seeds"
+    ],
+    "per100g": {
+      "kcal": 350,
+      "protein": 9.5,
+      "fiber": 14,
+      "carbs": 65,
+      "fat": 1
+    },
+    "unitGrams": 30,
+    "diet": "veg"
+  },
+  "peanut_chikki": {
+    "name": "Peanut Chikki",
+    "name_hi": "मूंगफली चिक्की",
+    "name_te": "పల్లీ పట్టీ",
+    "aliases": [
+      "chikki",
+      "palli patti",
+      "peanut brittle"
+    ],
+    "per100g": {
+      "kcal": 480,
+      "protein": 12,
+      "fiber": 3,
+      "carbs": 60,
+      "fat": 22
+    },
+    "unitGrams": 30,
+    "diet": "veg"
   }
 }
