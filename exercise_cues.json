@@ -1,0 +1,2564 @@
+{
+ "Walking": {
+  "en": {
+   "findIt": "Outside, a track, or the treadmill row",
+   "setUp": "Brisk pace, arms swinging, look ahead not down"
+  },
+  "hi": {
+   "findIt": "बाहर, ट्रैक, या ट्रेडमिल की लाइन",
+   "setUp": "तेज़ चाल, हाथ हिलाएँ, नज़र आगे रखें"
+  },
+  "te": {
+   "findIt": "బయట, ట్రాక్, లేదా ట్రెడ్‌మిల్ వరుస",
+   "setUp": "వేగంగా నడవండి, చేతులు ఊపండి, ముందు చూడండి"
+  }
+ },
+ "Running": {
+  "en": {
+   "findIt": "Outside, a track, or the treadmill row",
+   "setUp": "Short quick steps, land softly, shoulders loose"
+  },
+  "hi": {
+   "findIt": "बाहर, ट्रैक, या ट्रेडमिल की लाइन",
+   "setUp": "छोटे तेज़ कदम, हल्के उतरें, कंधे ढीले"
+  },
+  "te": {
+   "findIt": "బయట, ట్రాక్, లేదా ట్రెడ్‌మిల్ వరుస",
+   "setUp": "చిన్న వేగ అడుగులు, మెల్లగా దిగండి, భుజాలు వదులు"
+  }
+ },
+ "Cycling": {
+  "en": {
+   "findIt": "The bike row, usually near the treadmills",
+   "setUp": "Seat at hip height, steady pace you can talk at"
+  },
+  "hi": {
+   "findIt": "साइकिल की लाइन, अक्सर ट्रेडमिल के पास",
+   "setUp": "सीट कूल्हे की ऊँचाई पर, बात करने लायक रफ़्तार"
+  },
+  "te": {
+   "findIt": "సైకిల్ వరుస, సాధారణంగా ట్రెడ్‌మిల్ దగ్గర",
+   "setUp": "సీటు తుంటి ఎత్తులో, మాట్లాడగలిగే వేగం"
+  }
+ },
+ "Skipping": {
+  "en": {
+   "findIt": "Any open floor space, rope from the rack",
+   "setUp": "Rope handles at hips, small hops, land on toes"
+  },
+  "hi": {
+   "findIt": "खुली जगह, रैक से रस्सी लें",
+   "setUp": "हैंडल कूल्हों पर, छोटी उछाल, पंजों पर उतरें"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల, రాక్ నుండి తాడు తీసుకోండి",
+   "setUp": "హ్యాండిల్స్ తుంటి దగ్గర, చిన్న దూకులు, కాలివేళ్లపై దిగండి"
+  }
+ },
+ "Push-up": {
+  "en": {
+   "findIt": "Any open floor space or a mat",
+   "setUp": "Hands under shoulders, body straight, chest to floor"
+  },
+  "hi": {
+   "findIt": "खुली जगह या मैट",
+   "setUp": "हाथ कंधों के नीचे, शरीर सीधा, छाती ज़मीन तक"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల లేదా మ్యాట్",
+   "setUp": "చేతులు భుజాల కింద, శరీరం నిటారుగా, ఛాతీ నేల వరకు"
+  }
+ },
+ "Incline Push-up": {
+  "en": {
+   "findIt": "A flat bench or a sturdy railing",
+   "setUp": "Hands on the bench, body straight, chest to bench"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच या मज़बूत रेलिंग",
+   "setUp": "हाथ बेंच पर, शरीर सीधा, छाती बेंच तक"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్ లేదా గట్టి రెయిలింగ్",
+   "setUp": "చేతులు బెంచ్‌పై, శరీరం నిటారుగా, ఛాతీ బెంచ్ వరకు"
+  }
+ },
+ "Decline Push-up": {
+  "en": {
+   "findIt": "A flat bench and floor space in front",
+   "setUp": "Feet on the bench, hands on floor, body straight"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच और उसके आगे जगह",
+   "setUp": "पैर बेंच पर, हाथ ज़मीन पर, शरीर सीधा"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్, ముందు ఖాళీ నేల",
+   "setUp": "కాళ్లు బెంచ్‌పై, చేతులు నేలపై, శరీరం నిటారుగా"
+  }
+ },
+ "Bench Press": {
+  "en": {
+   "findIt": "Flat bench with a bar rack above it",
+   "setUp": "Eyes under the bar, grip wider than shoulders, feet flat"
+  },
+  "hi": {
+   "findIt": "बेंच जिसके ऊपर बार का रैक हो",
+   "setUp": "आँखें बार के नीचे, पकड़ कंधों से चौड़ी, पैर ज़मीन पर"
+  },
+  "te": {
+   "findIt": "పైన బార్ రాక్ ఉన్న ఫ్లాట్ బెంచ్",
+   "setUp": "కళ్లు బార్ కింద, పట్టు భుజాల కంటే వెడల్పు, పాదాలు నేలపై"
+  }
+ },
+ "Incline Dumbbell Press": {
+  "en": {
+   "findIt": "Adjustable bench near the dumbbell rack",
+   "setUp": "Bench at 30 degrees, dumbbells at chest, press up"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास झुकने वाली बेंच",
+   "setUp": "बेंच 30 डिग्री, डंबल छाती पर, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర వంచే బెంచ్",
+   "setUp": "బెంచ్ 30 డిగ్రీలు, డంబెల్స్ ఛాతీ దగ్గర, పైకి నెట్టండి"
+  }
+ },
+ "Chest Fly": {
+  "en": {
+   "findIt": "Flat bench near the dumbbell rack",
+   "setUp": "Lie back, arms wide, slight bend, bring dumbbells together"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास फ्लैट बेंच",
+   "setUp": "लेटें, हाथ फैलाएँ, हल्का मोड़, डंबल ऊपर मिलाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర ఫ్లాట్ బెంచ్",
+   "setUp": "పడుకోండి, చేతులు వెడల్పు, కొంచెం వంపు, డంబెల్స్ కలపండి"
+  }
+ },
+ "Cable Crossover": {
+  "en": {
+   "findIt": "Two cable towers facing each other",
+   "setUp": "Pulleys high, one handle each hand, bring hands together"
+  },
+  "hi": {
+   "findIt": "आमने-सामने दो केबल टावर",
+   "setUp": "पुली ऊपर, हर हाथ में हैंडल, हाथ आगे मिलाएँ"
+  },
+  "te": {
+   "findIt": "ఎదురెదురుగా రెండు కేబుల్ టవర్లు",
+   "setUp": "పుల్లీలు పైన, చేతికో హ్యాండిల్, చేతులు ముందు కలపండి"
+  }
+ },
+ "Dumbbell Floor Press": {
+  "en": {
+   "findIt": "Floor space near the dumbbell rack",
+   "setUp": "Lie on the floor, knees bent, press dumbbells up"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास ज़मीन",
+   "setUp": "ज़मीन पर लेटें, घुटने मुड़े, डंबल ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నేల",
+   "setUp": "నేలపై పడుకోండి, మోకాళ్లు వంచి, డంబెల్స్ పైకి నెట్టండి"
+  }
+ },
+ "Machine Chest Press": {
+  "en": {
+   "findIt": "Seated machine with two handles at chest height",
+   "setUp": "Seat so handles meet your chest, push forward"
+  },
+  "hi": {
+   "findIt": "बैठने वाली मशीन, छाती की ऊँचाई पर दो हैंडल",
+   "setUp": "सीट ऐसे कि हैंडल छाती पर हों, आगे धकेलें"
+  },
+  "te": {
+   "findIt": "ఛాతీ ఎత్తులో రెండు హ్యాండిల్స్ ఉన్న కూర్చునే మెషీన్",
+   "setUp": "హ్యాండిల్స్ ఛాతీ దగ్గర వచ్చేలా సీటు, ముందుకు నెట్టండి"
+  }
+ },
+ "Dip": {
+  "en": {
+   "findIt": "Two parallel bars at chest height",
+   "setUp": "Arms straight on the bars, lean forward, lower and push"
+  },
+  "hi": {
+   "findIt": "छाती की ऊँचाई पर दो समानांतर बार",
+   "setUp": "हाथ सीधे बार पर, आगे झुकें, नीचे जाकर ऊपर आएँ"
+  },
+  "te": {
+   "findIt": "ఛాతీ ఎత్తులో రెండు సమాంతర బార్లు",
+   "setUp": "చేతులు బార్లపై నిటారుగా, ముందుకు వంగి, దిగి పైకి రండి"
+  }
+ },
+ "Svend Press": {
+  "en": {
+   "findIt": "Any spot, two small plates",
+   "setUp": "Squeeze plates between palms at chest, push straight out"
+  },
+  "hi": {
+   "findIt": "कहीं भी, दो छोटी प्लेट",
+   "setUp": "छाती पर हथेलियों में प्लेट दबाएँ, सीधे आगे धकेलें"
+  },
+  "te": {
+   "findIt": "ఎక్కడైనా, రెండు చిన్న ప్లేట్లు",
+   "setUp": "ఛాతీ దగ్గర అరచేతుల మధ్య ప్లేట్లు నొక్కి, ముందుకు నెట్టండి"
+  }
+ },
+ "Deficit Push-up": {
+  "en": {
+   "findIt": "Two low blocks or plates on the floor",
+   "setUp": "Hands on the blocks, chest goes lower than hands"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर दो नीची प्लेट या ब्लॉक",
+   "setUp": "हाथ ब्लॉक पर, छाती हाथों से नीचे ले जाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై రెండు తక్కువ ఎత్తు ప్లేట్లు",
+   "setUp": "చేతులు ప్లేట్లపై, ఛాతీ చేతుల కంటే కిందకు"
+  }
+ },
+ "Decline Bench Press": {
+  "en": {
+   "findIt": "Bench that tilts head-down, with a bar rack",
+   "setUp": "Hook feet in, grip wider than shoulders, press"
+  },
+  "hi": {
+   "findIt": "सिर नीचे झुकने वाली बेंच, बार रैक के साथ",
+   "setUp": "पैर फँसाएँ, पकड़ कंधों से चौड़ी, दबाएँ"
+  },
+  "te": {
+   "findIt": "తల కిందకు వంగే బెంచ్, బార్ రాక్‌తో",
+   "setUp": "పాదాలు బిగించి, పట్టు భుజాల కంటే వెడల్పు, నెట్టండి"
+  }
+ },
+ "Push-up Plus": {
+  "en": {
+   "findIt": "Any open floor space or a mat",
+   "setUp": "At the top, push the floor away and round the upper back"
+  },
+  "hi": {
+   "findIt": "खुली जगह या मैट",
+   "setUp": "ऊपर आकर ज़मीन को और धकेलें, ऊपरी पीठ गोल करें"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల లేదా మ్యాట్",
+   "setUp": "పైన నేలను ఇంకా నెట్టి, పై వీపు గుండ్రంగా చేయండి"
+  }
+ },
+ "Single Arm Chest Press": {
+  "en": {
+   "findIt": "Flat bench near the dumbbell rack",
+   "setUp": "One dumbbell, other hand on your stomach, press up"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास फ्लैट बेंच",
+   "setUp": "एक डंबल, दूसरा हाथ पेट पर, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర ఫ్లాట్ బెంచ్",
+   "setUp": "ఒక డంబెల్, రెండో చేయి కడుపుపై, పైకి నెట్టండి"
+  }
+ },
+ "Pec Deck Fly": {
+  "en": {
+   "findIt": "Seated machine with two arm pads at chest height",
+   "setUp": "Seat so pads sit at chest, squeeze them together"
+  },
+  "hi": {
+   "findIt": "बैठने वाली मशीन, छाती पर दो बाँह-पैड",
+   "setUp": "सीट ऐसे कि पैड छाती पर हों, दोनों को मिलाएँ"
+  },
+  "te": {
+   "findIt": "ఛాతీ ఎత్తులో రెండు ఆర్మ్ ప్యాడ్‌ల కూర్చునే మెషీన్",
+   "setUp": "ప్యాడ్‌లు ఛాతీ దగ్గర వచ్చేలా సీటు, రెండింటినీ కలపండి"
+  }
+ },
+ "Ring Push-up": {
+  "en": {
+   "findIt": "Gym rings hanging low from a frame",
+   "setUp": "Rings at knee height, hands in rings, body straight"
+  },
+  "hi": {
+   "findIt": "फ्रेम से नीचे लटकते रिंग",
+   "setUp": "रिंग घुटने की ऊँचाई पर, हाथ रिंग में, शरीर सीधा"
+  },
+  "te": {
+   "findIt": "ఫ్రేమ్ నుండి కిందకు వేలాడే రింగులు",
+   "setUp": "రింగులు మోకాలి ఎత్తులో, చేతులు రింగుల్లో, శరీరం నిటారుగా"
+  }
+ },
+ "Arm Circle": {
+  "en": {
+   "findIt": "Any open space",
+   "setUp": "Arms straight out to the sides, small circles, then bigger"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "हाथ बगल में सीधे, छोटे गोले, फिर बड़े"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ స్థలం",
+   "setUp": "చేతులు పక్కలకు నిటారుగా, చిన్న వృత్తాలు, తర్వాత పెద్దవి"
+  }
+ },
+ "Band Chest Opener": {
+  "en": {
+   "findIt": "Any spot, a light band from the rack",
+   "setUp": "Hold band at chest, pull hands apart, squeeze shoulder blades"
+  },
+  "hi": {
+   "findIt": "कहीं भी, रैक से हल्का बैंड",
+   "setUp": "बैंड छाती पर पकड़ें, हाथ अलग खींचें, कंधे पीछे"
+  },
+  "te": {
+   "findIt": "ఎక్కడైనా, రాక్ నుండి తేలిక బ్యాండ్",
+   "setUp": "బ్యాండ్ ఛాతీ దగ్గర పట్టి, చేతులు విడదీయండి, భుజాలు వెనక్కి"
+  }
+ },
+ "Lat Pulldown": {
+  "en": {
+   "findIt": "Seat with a wide bar hanging above, near the cables",
+   "setUp": "Knees under the pad, grip wide, pull bar to chest"
+  },
+  "hi": {
+   "findIt": "सीट जिसके ऊपर चौड़ा बार लटका हो, केबल के पास",
+   "setUp": "घुटने पैड के नीचे, पकड़ चौड़ी, बार छाती तक खींचें"
+  },
+  "te": {
+   "findIt": "పైన వెడల్పాటి బార్ వేలాడే సీటు, కేబుల్స్ దగ్గర",
+   "setUp": "మోకాళ్లు ప్యాడ్ కింద, పట్టు వెడల్పు, బార్ ఛాతీ వరకు లాగండి"
+  }
+ },
+ "Pull-up": {
+  "en": {
+   "findIt": "High bar you can hang from",
+   "setUp": "Grip wider than shoulders, hang, pull chin over the bar"
+  },
+  "hi": {
+   "findIt": "ऊँचा बार जिससे लटक सकें",
+   "setUp": "पकड़ कंधों से चौड़ी, लटकें, ठुड्डी बार के ऊपर लाएँ"
+  },
+  "te": {
+   "findIt": "వేలాడగలిగే ఎత్తైన బార్",
+   "setUp": "పట్టు భుజాల కంటే వెడల్పు, వేలాడి, గడ్డం బార్ పైకి లాగండి"
+  }
+ },
+ "Chin-up": {
+  "en": {
+   "findIt": "High bar you can hang from",
+   "setUp": "Palms facing you, hands shoulder width, pull chin over"
+  },
+  "hi": {
+   "findIt": "ऊँचा बार जिससे लटक सकें",
+   "setUp": "हथेलियाँ अपनी ओर, हाथ कंधे जितने, ठुड्डी ऊपर लाएँ"
+  },
+  "te": {
+   "findIt": "వేలాడగలిగే ఎత్తైన బార్",
+   "setUp": "అరచేతులు మీ వైపు, చేతులు భుజాల వెడల్పు, గడ్డం పైకి లాగండి"
+  }
+ },
+ "Inverted Row": {
+  "en": {
+   "findIt": "A bar set at hip height in a rack",
+   "setUp": "Hang under the bar, body straight, pull chest to bar"
+  },
+  "hi": {
+   "findIt": "रैक में कूल्हे की ऊँचाई पर बार",
+   "setUp": "बार के नीचे लटकें, शरीर सीधा, छाती बार तक खींचें"
+  },
+  "te": {
+   "findIt": "రాక్‌లో తుంటి ఎత్తులో బార్",
+   "setUp": "బార్ కింద వేలాడి, శరీరం నిటారుగా, ఛాతీ బార్ వరకు లాగండి"
+  }
+ },
+ "Bent Over Row": {
+  "en": {
+   "findIt": "Barbell on the floor, open space",
+   "setUp": "Hinge at hips, back flat, pull bar to your stomach"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर बारबेल, खुली जगह",
+   "setUp": "कूल्हों से झुकें, पीठ सीधी, बार पेट तक खींचें"
+  },
+  "te": {
+   "findIt": "నేలపై బార్‌బెల్, ఖాళీ స్థలం",
+   "setUp": "తుంటి నుండి వంగి, వీపు నిటారుగా, బార్ కడుపు వరకు లాగండి"
+  }
+ },
+ "Seated Cable Row": {
+  "en": {
+   "findIt": "Low cable with a seat and a foot plate",
+   "setUp": "Feet on plate, sit tall, pull handle to your stomach"
+  },
+  "hi": {
+   "findIt": "नीची केबल, सीट और पैर की प्लेट के साथ",
+   "setUp": "पैर प्लेट पर, सीधे बैठें, हैंडल पेट तक खींचें"
+  },
+  "te": {
+   "findIt": "సీటు, పాద ప్లేట్ ఉన్న తక్కువ కేబుల్",
+   "setUp": "పాదాలు ప్లేట్‌పై, నిటారుగా కూర్చుని, హ్యాండిల్ కడుపు వరకు లాగండి"
+  }
+ },
+ "Single Arm Dumbbell Row": {
+  "en": {
+   "findIt": "Flat bench near the dumbbell rack",
+   "setUp": "One knee and hand on bench, pull dumbbell to hip"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास फ्लैट बेंच",
+   "setUp": "एक घुटना और हाथ बेंच पर, डंबल कूल्हे तक खींचें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర ఫ్లాట్ బెంచ్",
+   "setUp": "ఒక మోకాలు, చేయి బెంచ్‌పై, డంబెల్ తుంటి వరకు లాగండి"
+  }
+ },
+ "Deadlift": {
+  "en": {
+   "findIt": "Barbell on the floor, in a rack or platform",
+   "setUp": "Bar over mid-foot, back flat, stand up with it"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर बारबेल, रैक या प्लेटफ़ॉर्म पर",
+   "setUp": "बार पैर के बीच पर, पीठ सीधी, उठकर खड़े हों"
+  },
+  "te": {
+   "findIt": "నేలపై బార్‌బెల్, రాక్ లేదా ప్లాట్‌ఫారమ్‌పై",
+   "setUp": "బార్ పాదం మధ్యలో, వీపు నిటారుగా, దానితో లేచి నిలబడండి"
+  }
+ },
+ "Romanian Deadlift": {
+  "en": {
+   "findIt": "Barbell or dumbbells, open space",
+   "setUp": "Soft knees, push hips back, bar slides down the legs"
+  },
+  "hi": {
+   "findIt": "बारबेल या डंबल, खुली जगह",
+   "setUp": "घुटने हल्के मुड़े, कूल्हे पीछे, बार टाँगों से नीचे"
+  },
+  "te": {
+   "findIt": "బార్‌బెల్ లేదా డంబెల్స్, ఖాళీ స్థలం",
+   "setUp": "మోకాళ్లు కొంచెం వంచి, తుంటి వెనక్కి, బార్ కాళ్లపై కిందకు"
+  }
+ },
+ "Superman Hold": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Lie face down, lift arms and legs, hold"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पेट के बल लेटें, हाथ-पैर उठाएँ, रोकें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "బోర్లా పడుకుని, చేతులు కాళ్లు ఎత్తి, పట్టుకోండి"
+  }
+ },
+ "Chest Supported Row": {
+  "en": {
+   "findIt": "Bench tilted up, dumbbells or a row machine",
+   "setUp": "Chest on the pad, pull weights to your hips"
+  },
+  "hi": {
+   "findIt": "झुकी बेंच, डंबल या रो मशीन",
+   "setUp": "छाती पैड पर, वज़न कूल्हों तक खींचें"
+  },
+  "te": {
+   "findIt": "పైకి వంచిన బెంచ్, డంబెల్స్ లేదా రో మెషీన్",
+   "setUp": "ఛాతీ ప్యాడ్‌పై, బరువులు తుంటి వరకు లాగండి"
+  }
+ },
+ "T-Bar Row": {
+  "en": {
+   "findIt": "Bar fixed at one end with a handle at the other",
+   "setUp": "Straddle the bar, back flat, pull handle to chest"
+  },
+  "hi": {
+   "findIt": "एक सिरे पर जकड़ा बार, दूसरे पर हैंडल",
+   "setUp": "बार के ऊपर खड़े हों, पीठ सीधी, हैंडल छाती तक"
+  },
+  "te": {
+   "findIt": "ఒక వైపు బిగించిన బార్, మరో వైపు హ్యాండిల్",
+   "setUp": "బార్‌పై నిలబడి, వీపు నిటారుగా, హ్యాండిల్ ఛాతీ వరకు లాగండి"
+  }
+ },
+ "Straight Arm Pulldown": {
+  "en": {
+   "findIt": "Cable tower with a straight bar, pulley high",
+   "setUp": "Arms straight, pull bar down to your thighs"
+  },
+  "hi": {
+   "findIt": "केबल टावर, सीधा बार, पुली ऊपर",
+   "setUp": "हाथ सीधे, बार जाँघों तक नीचे खींचें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, నిటారు బార్, పుల్లీ పైన",
+   "setUp": "చేతులు నిటారుగా, బార్ తొడల వరకు కిందకు లాగండి"
+  }
+ },
+ "Meadows Row": {
+  "en": {
+   "findIt": "Barbell with one end fixed in a corner or landmine",
+   "setUp": "Stand beside the bar, one hand, row to your hip"
+  },
+  "hi": {
+   "findIt": "बारबेल, एक सिरा कोने या लैंडमाइन में",
+   "setUp": "बार के बगल में खड़े हों, एक हाथ, कूल्हे तक खींचें"
+  },
+  "te": {
+   "findIt": "ఒక వైపు మూలలో బిగించిన బార్‌బెల్",
+   "setUp": "బార్ పక్కన నిలబడి, ఒక చేయి, తుంటి వరకు లాగండి"
+  }
+ },
+ "Back Extension": {
+  "en": {
+   "findIt": "Angled bench with pads for your hips and feet",
+   "setUp": "Hips on pad, hook feet, lower and lift your torso"
+  },
+  "hi": {
+   "findIt": "झुकी बेंच, कूल्हे और पैरों के पैड",
+   "setUp": "कूल्हे पैड पर, पैर फँसाएँ, धड़ नीचे-ऊपर करें"
+  },
+  "te": {
+   "findIt": "తుంటి, పాదాలకు ప్యాడ్‌లున్న వాలు బెంచ్",
+   "setUp": "తుంటి ప్యాడ్‌పై, పాదాలు బిగించి, శరీరం దించి ఎత్తండి"
+  }
+ },
+ "Assisted Pull-up": {
+  "en": {
+   "findIt": "Machine with a high bar and a kneeling pad",
+   "setUp": "More weight on the pin means easier, kneel, pull up"
+  },
+  "hi": {
+   "findIt": "ऊँचे बार और घुटने के पैड वाली मशीन",
+   "setUp": "पिन पर ज़्यादा वज़न मतलब आसान, घुटने टेकें, खींचें"
+  },
+  "te": {
+   "findIt": "ఎత్తైన బార్, మోకాలి ప్యాడ్ ఉన్న మెషీన్",
+   "setUp": "పిన్‌పై ఎక్కువ బరువు అంటే సులభం, మోకాళ్లపై, పైకి లాగండి"
+  }
+ },
+ "Cable Pullover": {
+  "en": {
+   "findIt": "Cable tower with a rope or bar, pulley high",
+   "setUp": "Face the tower, arms straight overhead, pull bar to thighs"
+  },
+  "hi": {
+   "findIt": "केबल टावर, रस्सी या बार, पुली ऊपर",
+   "setUp": "टावर की ओर मुँह, हाथ सीधे ऊपर, बार जाँघों तक खींचें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, తాడు లేదా బార్, పుల్లీ పైన",
+   "setUp": "టవర్ వైపు నిలబడి, చేతులు నిటారుగా పైకి, బార్ తొడల వరకు లాగండి"
+  }
+ },
+ "Renegade Row": {
+  "en": {
+   "findIt": "Two dumbbells on the floor, open space",
+   "setUp": "Plank on the dumbbells, row one to your hip"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर दो डंबल, खुली जगह",
+   "setUp": "डंबल पर प्लैंक, एक डंबल कूल्हे तक खींचें"
+  },
+  "te": {
+   "findIt": "నేలపై రెండు డంబెల్స్, ఖాళీ స్థలం",
+   "setUp": "డంబెల్స్‌పై ప్లాంక్, ఒకటి తుంటి వరకు లాగండి"
+  }
+ },
+ "Machine Row": {
+  "en": {
+   "findIt": "Seated machine with a chest pad and two handles",
+   "setUp": "Chest on the pad, pull handles to your ribs"
+  },
+  "hi": {
+   "findIt": "छाती के पैड और दो हैंडल वाली बैठने की मशीन",
+   "setUp": "छाती पैड पर, हैंडल पसलियों तक खींचें"
+  },
+  "te": {
+   "findIt": "ఛాతీ ప్యాడ్, రెండు హ్యాండిల్స్ ఉన్న కూర్చునే మెషీన్",
+   "setUp": "ఛాతీ ప్యాడ్‌పై, హ్యాండిల్స్ పక్కటెముకల వరకు లాగండి"
+  }
+ },
+ "Band Row": {
+  "en": {
+   "findIt": "A band looped around a post at chest height",
+   "setUp": "Step back until tight, pull handles to your ribs"
+  },
+  "hi": {
+   "findIt": "छाती की ऊँचाई पर खंभे से बँधा बैंड",
+   "setUp": "पीछे हटें जब तक कसे, हैंडल पसलियों तक खींचें"
+  },
+  "te": {
+   "findIt": "ఛాతీ ఎత్తులో స్తంభానికి కట్టిన బ్యాండ్",
+   "setUp": "బిగుసుకునే వరకు వెనక్కి, హ్యాండిల్స్ పక్కటెముకల వరకు లాగండి"
+  }
+ },
+ "Cat-Cow": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On hands and knees, arch the back up, then dip it down"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "हाथ-घुटनों पर, पीठ ऊपर उठाएँ, फिर नीचे झुकाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "చేతులు మోకాళ్లపై, వీపు పైకి, తర్వాత కిందకు వంచండి"
+  }
+ },
+ "Thoracic Rotation": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On hands and knees, one hand behind head, turn and open"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "हाथ-घुटनों पर, एक हाथ सिर पीछे, मुड़कर खोलें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "చేతులు మోకాళ్లపై, ఒక చేయి తల వెనుక, తిప్పి తెరవండి"
+  }
+ },
+ "Squat": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Feet shoulder width, sit back and down, chest up"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "पैर कंधे जितने, पीछे-नीचे बैठें, छाती ऊपर"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "పాదాలు భుజాల వెడల్పు, వెనక్కి కిందకు కూర్చుని, ఛాతీ పైకి"
+  }
+ },
+ "Jump Squat": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Squat down, jump up, land softly and squat again"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "नीचे बैठें, ऊपर उछलें, हल्के उतरें, फिर बैठें"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "కిందకు కూర్చుని, పైకి దూకి, మెల్లగా దిగి మళ్లీ కూర్చోండి"
+  }
+ },
+ "Goblet Squat": {
+  "en": {
+   "findIt": "Dumbbell or kettlebell rack, open space",
+   "setUp": "Hold weight at chest, squat between your knees"
+  },
+  "hi": {
+   "findIt": "डंबल या केटलबेल रैक, खुली जगह",
+   "setUp": "वज़न छाती पर पकड़ें, घुटनों के बीच बैठें"
+  },
+  "te": {
+   "findIt": "డంబెల్ లేదా కెటిల్‌బెల్ రాక్, ఖాళీ స్థలం",
+   "setUp": "బరువు ఛాతీ దగ్గర పట్టి, మోకాళ్ల మధ్య కూర్చోండి"
+  }
+ },
+ "Front Squat": {
+  "en": {
+   "findIt": "Squat rack with the bar at shoulder height",
+   "setUp": "Bar on front of shoulders, elbows high, squat"
+  },
+  "hi": {
+   "findIt": "स्क्वाट रैक, बार कंधे की ऊँचाई पर",
+   "setUp": "बार कंधों के आगे, कोहनी ऊपर, बैठें"
+  },
+  "te": {
+   "findIt": "భుజాల ఎత్తులో బార్ ఉన్న స్క్వాట్ రాక్",
+   "setUp": "బార్ భుజాల ముందు, మోచేతులు పైకి, కూర్చోండి"
+  }
+ },
+ "Lunge": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Step forward, back knee toward floor, push back up"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "आगे कदम, पिछला घुटना ज़मीन की ओर, वापस उठें"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "ముందుకు అడుగు, వెనుక మోకాలు నేల వైపు, వెనక్కి లేవండి"
+  }
+ },
+ "Reverse Lunge": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Step backward, back knee toward floor, return"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "पीछे कदम, पिछला घुटना ज़मीन की ओर, वापस आएँ"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "వెనక్కి అడుగు, వెనుక మోకాలు నేల వైపు, తిరిగి రండి"
+  }
+ },
+ "Walking Lunge": {
+  "en": {
+   "findIt": "A clear strip of floor, 10 steps long",
+   "setUp": "Lunge forward, step through, keep going"
+  },
+  "hi": {
+   "findIt": "10 कदम लंबी खाली जगह",
+   "setUp": "आगे लंज, अगला पैर आगे बढ़ाएँ, चलते रहें"
+  },
+  "te": {
+   "findIt": "10 అడుగుల ఖాళీ నేల",
+   "setUp": "ముందుకు లంజ్, తర్వాతి అడుగు ముందుకు, కొనసాగండి"
+  }
+ },
+ "Step-up": {
+  "en": {
+   "findIt": "A box or bench at knee height",
+   "setUp": "Whole foot on the box, stand up tall, step down"
+  },
+  "hi": {
+   "findIt": "घुटने की ऊँचाई का बॉक्स या बेंच",
+   "setUp": "पूरा पैर बॉक्स पर, सीधे खड़े हों, नीचे उतरें"
+  },
+  "te": {
+   "findIt": "మోకాలి ఎత్తు బాక్స్ లేదా బెంచ్",
+   "setUp": "పాదం పూర్తిగా బాక్స్‌పై, నిటారుగా లేచి, కిందకు దిగండి"
+  }
+ },
+ "Leg Press": {
+  "en": {
+   "findIt": "Big reclined seat you push a plate away from",
+   "setUp": "Feet shoulder width on plate, lower slowly, push"
+  },
+  "hi": {
+   "findIt": "बड़ी झुकी सीट, प्लेट को पैरों से दूर धकेलें",
+   "setUp": "पैर प्लेट पर कंधे जितने, धीरे नीचे, धकेलें"
+  },
+  "te": {
+   "findIt": "కాళ్లతో ప్లేట్‌ను నెట్టే పెద్ద వాలు సీటు",
+   "setUp": "పాదాలు ప్లేట్‌పై భుజాల వెడల్పు, మెల్లగా దించి, నెట్టండి"
+  }
+ },
+ "Leg Extension": {
+  "en": {
+   "findIt": "Seat with a padded bar across the shins",
+   "setUp": "Pad on lower shins, straighten legs, lower slowly"
+  },
+  "hi": {
+   "findIt": "सीट, पिंडलियों पर पैड वाला बार",
+   "setUp": "पैड पिंडलियों पर, टाँगें सीधी करें, धीरे नीचे"
+  },
+  "te": {
+   "findIt": "పిక్కలపై ప్యాడ్ బార్ ఉన్న సీటు",
+   "setUp": "ప్యాడ్ పిక్కల కింద, కాళ్లు నిటారు చేసి, మెల్లగా దించండి"
+  }
+ },
+ "Hamstring Curl": {
+  "en": {
+   "findIt": "Machine you lie or sit on, pad behind the ankles",
+   "setUp": "Pad on lower calves, curl heels toward you"
+  },
+  "hi": {
+   "findIt": "लेटने या बैठने की मशीन, पैड टखनों के पीछे",
+   "setUp": "पैड पिंडलियों के नीचे, एड़ियाँ अपनी ओर मोड़ें"
+  },
+  "te": {
+   "findIt": "పడుకునే లేదా కూర్చునే మెషీన్, ప్యాడ్ చీలమండల వెనుక",
+   "setUp": "ప్యాడ్ పిక్కల కింద, మడమలు మీ వైపు మడవండి"
+  }
+ },
+ "Glute Bridge": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Lie on back, knees bent, lift hips, squeeze at top"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, घुटने मुड़े, कूल्हे उठाएँ, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, మోకాళ్లు వంచి, తుంటి ఎత్తి, పైన బిగించండి"
+  }
+ },
+ "Hip Thrust": {
+  "en": {
+   "findIt": "Flat bench, back against its edge",
+   "setUp": "Shoulders on bench, bar on hips, drive hips up"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच, पीठ किनारे से लगी",
+   "setUp": "कंधे बेंच पर, बार कूल्हों पर, कूल्हे ऊपर उठाएँ"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్, వీపు దాని అంచుకు",
+   "setUp": "భుజాలు బెంచ్‌పై, బార్ తుంటిపై, తుంటి పైకి నెట్టండి"
+  }
+ },
+ "Calf Raise": {
+  "en": {
+   "findIt": "A step or plate to stand on the edge of",
+   "setUp": "Toes on the edge, rise up high, lower slowly"
+  },
+  "hi": {
+   "findIt": "सीढ़ी या प्लेट जिसके किनारे पर खड़े हों",
+   "setUp": "पंजे किनारे पर, ऊँचा उठें, धीरे नीचे"
+  },
+  "te": {
+   "findIt": "అంచుపై నిలబడగల మెట్టు లేదా ప్లేట్",
+   "setUp": "కాలివేళ్లు అంచుపై, పైకి లేచి, మెల్లగా దించండి"
+  }
+ },
+ "Bulgarian Split Squat": {
+  "en": {
+   "findIt": "Flat bench with floor space in front",
+   "setUp": "Back foot on bench, front foot forward, lower down"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच, आगे खुली जगह",
+   "setUp": "पिछला पैर बेंच पर, अगला आगे, नीचे जाएँ"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్, ముందు ఖాళీ నేల",
+   "setUp": "వెనుక పాదం బెంచ్‌పై, ముందు పాదం ముందు, కిందకు దిగండి"
+  }
+ },
+ "Hack Squat": {
+  "en": {
+   "findIt": "Angled machine with shoulder pads and a foot plate",
+   "setUp": "Shoulders under pads, feet mid-plate, squat down"
+  },
+  "hi": {
+   "findIt": "झुकी मशीन, कंधे के पैड और पैर की प्लेट",
+   "setUp": "कंधे पैड के नीचे, पैर प्लेट के बीच, नीचे बैठें"
+  },
+  "te": {
+   "findIt": "భుజ ప్యాడ్‌లు, పాద ప్లేట్ ఉన్న వాలు మెషీన్",
+   "setUp": "భుజాలు ప్యాడ్‌ల కింద, పాదాలు ప్లేట్ మధ్య, కూర్చోండి"
+  }
+ },
+ "Trap Bar Deadlift": {
+  "en": {
+   "findIt": "Six-sided bar you stand inside",
+   "setUp": "Stand in the middle, grip handles, stand up tall"
+  },
+  "hi": {
+   "findIt": "छह कोनों वाला बार जिसके अंदर खड़े हों",
+   "setUp": "बीच में खड़े हों, हैंडल पकड़ें, सीधे उठें"
+  },
+  "te": {
+   "findIt": "లోపల నిలబడే ఆరు మూలల బార్",
+   "setUp": "మధ్యలో నిలబడి, హ్యాండిల్స్ పట్టి, నిటారుగా లేవండి"
+  }
+ },
+ "Single Leg Romanian Deadlift": {
+  "en": {
+   "findIt": "Open space, one dumbbell",
+   "setUp": "One leg, hinge forward, other leg goes back"
+  },
+  "hi": {
+   "findIt": "खुली जगह, एक डंबल",
+   "setUp": "एक पैर पर, आगे झुकें, दूसरा पैर पीछे"
+  },
+  "te": {
+   "findIt": "ఖాళీ స్థలం, ఒక డంబెల్",
+   "setUp": "ఒక కాలిపై, ముందుకు వంగి, రెండో కాలు వెనక్కి"
+  }
+ },
+ "Wall Sit": {
+  "en": {
+   "findIt": "Any clear wall",
+   "setUp": "Back flat on wall, thighs level, hold"
+  },
+  "hi": {
+   "findIt": "कोई भी खाली दीवार",
+   "setUp": "पीठ दीवार से लगी, जाँघें सीध में, रोकें"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ గోడ",
+   "setUp": "వీపు గోడకు, తొడలు సమాంతరం, పట్టుకోండి"
+  }
+ },
+ "Box Jump": {
+  "en": {
+   "findIt": "A sturdy box at knee height",
+   "setUp": "Jump onto the box, land soft, step down"
+  },
+  "hi": {
+   "findIt": "घुटने की ऊँचाई का मज़बूत बॉक्स",
+   "setUp": "बॉक्स पर उछलें, हल्के उतरें, नीचे कदम रखें"
+  },
+  "te": {
+   "findIt": "మోకాలి ఎత్తు గట్టి బాక్స్",
+   "setUp": "బాక్స్‌పైకి దూకి, మెల్లగా దిగి, కిందకు అడుగు"
+  }
+ },
+ "Seated Calf Raise": {
+  "en": {
+   "findIt": "Seated machine with a pad over the knees",
+   "setUp": "Pad on thighs, toes on the step, rise and lower"
+  },
+  "hi": {
+   "findIt": "बैठने की मशीन, घुटनों पर पैड",
+   "setUp": "पैड जाँघों पर, पंजे सीढ़ी पर, उठें और नीचे"
+  },
+  "te": {
+   "findIt": "మోకాళ్లపై ప్యాడ్ ఉన్న కూర్చునే మెషీన్",
+   "setUp": "ప్యాడ్ తొడలపై, కాలివేళ్లు మెట్టుపై, లేచి దించండి"
+  }
+ },
+ "Curtsy Lunge": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Step one leg behind and across, lower, return"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "एक पैर पीछे तिरछा रखें, नीचे जाएँ, वापस"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "ఒక కాలు వెనుక అడ్డంగా, కిందకు దిగి, తిరిగి రండి"
+  }
+ },
+ "Cossack Squat": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Feet wide, sit to one side, other leg straight"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "पैर चौड़े, एक तरफ़ बैठें, दूसरी टाँग सीधी"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "పాదాలు వెడల్పు, ఒక వైపు కూర్చుని, రెండో కాలు నిటారు"
+  }
+ },
+ "Smith Machine Squat": {
+  "en": {
+   "findIt": "Bar fixed on vertical rails, hooks at the sides",
+   "setUp": "Bar on upper back, twist to unhook, squat"
+  },
+  "hi": {
+   "findIt": "खड़ी रेलों पर जकड़ा बार, बगल में हुक",
+   "setUp": "बार ऊपरी पीठ पर, घुमाकर खोलें, बैठें"
+  },
+  "te": {
+   "findIt": "నిలువు రెయిల్స్‌పై బిగించిన బార్, పక్కన హుక్స్",
+   "setUp": "బార్ పై వీపుపై, తిప్పి విడదీసి, కూర్చోండి"
+  }
+ },
+ "Walking Step-up": {
+  "en": {
+   "findIt": "A box or bench at knee height",
+   "setUp": "Step up, step down the other side, turn, repeat"
+  },
+  "hi": {
+   "findIt": "घुटने की ऊँचाई का बॉक्स या बेंच",
+   "setUp": "ऊपर चढ़ें, दूसरी तरफ़ उतरें, मुड़ें, दोहराएँ"
+  },
+  "te": {
+   "findIt": "మోకాలి ఎత్తు బాక్స్ లేదా బెంచ్",
+   "setUp": "పైకి ఎక్కి, అటు వైపు దిగి, తిరిగి, మళ్లీ"
+  }
+ },
+ "Nordic Curl": {
+  "en": {
+   "findIt": "A mat and something to hook your heels under",
+   "setUp": "Kneel, heels held, lower forward slowly"
+  },
+  "hi": {
+   "findIt": "मैट और एड़ियाँ फँसाने की जगह",
+   "setUp": "घुटनों पर, एड़ियाँ फँसी, धीरे आगे झुकें"
+  },
+  "te": {
+   "findIt": "మ్యాట్, మడమలు బిగించే చోటు",
+   "setUp": "మోకాళ్లపై, మడమలు బిగించి, మెల్లగా ముందుకు వంగండి"
+  }
+ },
+ "Sled Push": {
+  "en": {
+   "findIt": "Weighted sled on the turf strip",
+   "setUp": "Hands on the posts, lean in, drive with your legs"
+  },
+  "hi": {
+   "findIt": "टर्फ़ पट्टी पर वज़न वाली स्लेज",
+   "setUp": "हाथ खंभों पर, आगे झुकें, टाँगों से धकेलें"
+  },
+  "te": {
+   "findIt": "టర్ఫ్ స్ట్రిప్‌పై బరువున్న స్లెడ్",
+   "setUp": "చేతులు స్తంభాలపై, ముందుకు వంగి, కాళ్లతో నెట్టండి"
+  }
+ },
+ "Leg Swing": {
+  "en": {
+   "findIt": "Any wall or post to hold",
+   "setUp": "Hold on, swing one leg forward and back"
+  },
+  "hi": {
+   "findIt": "पकड़ने के लिए दीवार या खंभा",
+   "setUp": "पकड़ें, एक टाँग आगे-पीछे झुलाएँ"
+  },
+  "te": {
+   "findIt": "పట్టుకోవడానికి గోడ లేదా స్తంభం",
+   "setUp": "పట్టుకుని, ఒక కాలు ముందుకు వెనక్కి ఊపండి"
+  }
+ },
+ "Hip Flexor Stretch": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "One knee down, other foot forward, push hips forward"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "एक घुटना नीचे, दूसरा पैर आगे, कूल्हे आगे धकेलें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "ఒక మోకాలు కింద, రెండో పాదం ముందు, తుంటి ముందుకు"
+  }
+ },
+ "Ankle Rocker": {
+  "en": {
+   "findIt": "Any wall",
+   "setUp": "Foot near wall, rock knee toward wall, heel stays down"
+  },
+  "hi": {
+   "findIt": "कोई भी दीवार",
+   "setUp": "पैर दीवार के पास, घुटना दीवार की ओर, एड़ी ज़मीन पर"
+  },
+  "te": {
+   "findIt": "ఏదైనా గోడ",
+   "setUp": "పాదం గోడ దగ్గర, మోకాలు గోడ వైపు, మడమ నేలపై"
+  }
+ },
+ "Pike Push-up": {
+  "en": {
+   "findIt": "Any open floor space or a mat",
+   "setUp": "Hips high like a tent, lower head toward floor"
+  },
+  "hi": {
+   "findIt": "खुली जगह या मैट",
+   "setUp": "कूल्हे ऊपर तंबू जैसे, सिर ज़मीन की ओर"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల లేదా మ్యాట్",
+   "setUp": "తుంటి పైకి గుడారంలా, తల నేల వైపు దించండి"
+  }
+ },
+ "Overhead Press": {
+  "en": {
+   "findIt": "Squat rack with the bar at shoulder height",
+   "setUp": "Bar at collarbone, feet hip width, press overhead"
+  },
+  "hi": {
+   "findIt": "स्क्वाट रैक, बार कंधे की ऊँचाई पर",
+   "setUp": "बार गले की हड्डी पर, पैर कूल्हे जितने, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "భుజాల ఎత్తులో బార్ ఉన్న స్క్వాట్ రాక్",
+   "setUp": "బార్ మెడ ఎముక దగ్గర, పాదాలు తుంటి వెడల్పు, తలపైకి నెట్టండి"
+  }
+ },
+ "Dumbbell Shoulder Press": {
+  "en": {
+   "findIt": "Bench with an upright back, near the dumbbells",
+   "setUp": "Dumbbells at ears, press up until arms straight"
+  },
+  "hi": {
+   "findIt": "सीधी पीठ वाली बेंच, डंबल के पास",
+   "setUp": "डंबल कानों के पास, हाथ सीधे होने तक ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "నిటారు వీపు బెంచ్, డంబెల్స్ దగ్గర",
+   "setUp": "డంబెల్స్ చెవుల దగ్గర, చేతులు నిటారయ్యే వరకు నెట్టండి"
+  }
+ },
+ "Arnold Press": {
+  "en": {
+   "findIt": "Bench with an upright back, near the dumbbells",
+   "setUp": "Palms face you at chest, turn and press up"
+  },
+  "hi": {
+   "findIt": "सीधी पीठ वाली बेंच, डंबल के पास",
+   "setUp": "हथेलियाँ छाती पर अपनी ओर, घुमाकर ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "నిటారు వీపు బెంచ్, డంబెల్స్ దగ్గర",
+   "setUp": "అరచేతులు ఛాతీ దగ్గర మీ వైపు, తిప్పి పైకి నెట్టండి"
+  }
+ },
+ "Lateral Raise": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Light dumbbells, raise arms out to the sides to shoulder height"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "हल्के डंबल, हाथ बगल में कंधे की ऊँचाई तक उठाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "తేలిక డంబెల్స్, చేతులు పక్కలకు భుజాల ఎత్తు వరకు ఎత్తండి"
+  }
+ },
+ "Front Raise": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Light dumbbells, raise arms in front to shoulder height"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "हल्के डंबल, हाथ आगे कंधे की ऊँचाई तक उठाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "తేలిక డంబెల్స్, చేతులు ముందుకు భుజాల ఎత్తు వరకు ఎత్తండి"
+  }
+ },
+ "Rear Delt Fly": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack, or the pec deck reversed",
+   "setUp": "Bend forward, arms wide, lift dumbbells out to sides"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास, या उल्टी पेक डेक",
+   "setUp": "आगे झुकें, हाथ फैलाएँ, डंबल बगल में उठाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర, లేదా తిరిగిన పెక్ డెక్",
+   "setUp": "ముందుకు వంగి, చేతులు వెడల్పు, డంబెల్స్ పక్కలకు ఎత్తండి"
+  }
+ },
+ "Face Pull": {
+  "en": {
+   "findIt": "Cable tower with a rope, pulley at face height",
+   "setUp": "Pull rope to your face, elbows high and wide"
+  },
+  "hi": {
+   "findIt": "केबल टावर, रस्सी, पुली चेहरे की ऊँचाई पर",
+   "setUp": "रस्सी चेहरे तक खींचें, कोहनी ऊँची और चौड़ी"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, తాడు, పుల్లీ ముఖం ఎత్తులో",
+   "setUp": "తాడు ముఖం వరకు లాగండి, మోచేతులు పైకి, వెడల్పుగా"
+  }
+ },
+ "Upright Row": {
+  "en": {
+   "findIt": "Barbell or dumbbells, open space",
+   "setUp": "Hands close, pull weight up along your body to chest"
+  },
+  "hi": {
+   "findIt": "बारबेल या डंबल, खुली जगह",
+   "setUp": "हाथ पास, वज़न शरीर के साथ छाती तक ऊपर खींचें"
+  },
+  "te": {
+   "findIt": "బార్‌బెల్ లేదా డంబెల్స్, ఖాళీ స్థలం",
+   "setUp": "చేతులు దగ్గరగా, బరువు శరీరం వెంట ఛాతీ వరకు లాగండి"
+  }
+ },
+ "Cable Lateral Raise": {
+  "en": {
+   "findIt": "Cable tower, pulley at the bottom",
+   "setUp": "Stand side-on, raise the far arm out to shoulder height"
+  },
+  "hi": {
+   "findIt": "केबल टावर, पुली नीचे",
+   "setUp": "बगल से खड़े हों, दूर वाला हाथ कंधे तक उठाएँ"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, పుల్లీ కింద",
+   "setUp": "పక్కకు నిలబడి, దూర చేయి భుజాల ఎత్తు వరకు ఎత్తండి"
+  }
+ },
+ "Landmine Press": {
+  "en": {
+   "findIt": "Barbell with one end fixed in a corner sleeve",
+   "setUp": "Hold the free end at your shoulder, press up and forward"
+  },
+  "hi": {
+   "findIt": "बारबेल, एक सिरा कोने की आस्तीन में",
+   "setUp": "खुला सिरा कंधे पर, ऊपर और आगे दबाएँ"
+  },
+  "te": {
+   "findIt": "ఒక వైపు మూలలో బిగించిన బార్‌బెల్",
+   "setUp": "ఖాళీ చివర భుజం దగ్గర, పైకి ముందుకు నెట్టండి"
+  }
+ },
+ "Handstand Hold": {
+  "en": {
+   "findIt": "A clear wall",
+   "setUp": "Kick up to the wall, arms straight, hold"
+  },
+  "hi": {
+   "findIt": "खाली दीवार",
+   "setUp": "दीवार पर उल्टे खड़े हों, हाथ सीधे, रोकें"
+  },
+  "te": {
+   "findIt": "ఖాళీ గోడ",
+   "setUp": "గోడకు తలకిందులుగా, చేతులు నిటారుగా, పట్టుకోండి"
+  }
+ },
+ "Handstand Push-up": {
+  "en": {
+   "findIt": "A clear wall and a mat",
+   "setUp": "Against the wall, lower head to mat, push back up"
+  },
+  "hi": {
+   "findIt": "खाली दीवार और मैट",
+   "setUp": "दीवार के सहारे, सिर मैट तक, वापस ऊपर"
+  },
+  "te": {
+   "findIt": "ఖాళీ గోడ, మ్యాట్",
+   "setUp": "గోడకు ఆనుకుని, తల మ్యాట్ వరకు, వెనక్కి పైకి"
+  }
+ },
+ "Machine Shoulder Press": {
+  "en": {
+   "findIt": "Seated machine with handles above your shoulders",
+   "setUp": "Seat so handles start at ear height, press up"
+  },
+  "hi": {
+   "findIt": "बैठने की मशीन, हैंडल कंधों के ऊपर",
+   "setUp": "सीट ऐसे कि हैंडल कानों की ऊँचाई पर हों, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "భుజాలపైన హ్యాండిల్స్ ఉన్న కూర్చునే మెషీన్",
+   "setUp": "హ్యాండిల్స్ చెవుల ఎత్తులో ఉండేలా సీటు, పైకి నెట్టండి"
+  }
+ },
+ "Cable Face Pull External Rotation": {
+  "en": {
+   "findIt": "Cable tower with a rope, pulley at face height",
+   "setUp": "Pull to face, then rotate hands up and back"
+  },
+  "hi": {
+   "findIt": "केबल टावर, रस्सी, पुली चेहरे पर",
+   "setUp": "चेहरे तक खींचें, फिर हाथ ऊपर-पीछे घुमाएँ"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, తాడు, పుల్లీ ముఖం ఎత్తులో",
+   "setUp": "ముఖం వరకు లాగి, చేతులు పైకి వెనక్కి తిప్పండి"
+  }
+ },
+ "Scaption Raise": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Light dumbbells, raise arms at a slight angle forward"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "हल्के डंबल, हाथ थोड़ा तिरछा आगे उठाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "తేలిక డంబెల్స్, చేతులు కొంచెం ముందుకు వాలుగా ఎత్తండి"
+  }
+ },
+ "Band Pull-Apart": {
+  "en": {
+   "findIt": "Any spot, a light band from the rack",
+   "setUp": "Band at shoulder height, pull it apart, squeeze back"
+  },
+  "hi": {
+   "findIt": "कहीं भी, रैक से हल्का बैंड",
+   "setUp": "बैंड कंधे की ऊँचाई पर, अलग खींचें, पीठ दबाएँ"
+  },
+  "te": {
+   "findIt": "ఎక్కడైనా, రాక్ నుండి తేలిక బ్యాండ్",
+   "setUp": "బ్యాండ్ భుజాల ఎత్తులో, విడదీయండి, వీపు బిగించండి"
+  }
+ },
+ "Wall Slide": {
+  "en": {
+   "findIt": "A clear wall",
+   "setUp": "Back and arms on the wall, slide arms up and down"
+  },
+  "hi": {
+   "findIt": "खाली दीवार",
+   "setUp": "पीठ और हाथ दीवार पर, हाथ ऊपर-नीचे सरकाएँ"
+  },
+  "te": {
+   "findIt": "ఖాళీ గోడ",
+   "setUp": "వీపు, చేతులు గోడపై, చేతులు పైకి కిందకు జరపండి"
+  }
+ },
+ "Bench Dip": {
+  "en": {
+   "findIt": "A flat bench, floor space in front",
+   "setUp": "Hands on bench behind you, lower hips, push up"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच, आगे जगह",
+   "setUp": "हाथ पीछे बेंच पर, कूल्हे नीचे, ऊपर धकेलें"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్, ముందు ఖాళీ నేల",
+   "setUp": "చేతులు వెనుక బెంచ్‌పై, తుంటి దించి, పైకి నెట్టండి"
+  }
+ },
+ "Triceps Dip": {
+  "en": {
+   "findIt": "Two parallel bars at chest height",
+   "setUp": "Stay upright, lower until elbows bend, push up"
+  },
+  "hi": {
+   "findIt": "छाती की ऊँचाई पर दो समानांतर बार",
+   "setUp": "सीधे रहें, कोहनी मुड़ने तक नीचे, ऊपर धकेलें"
+  },
+  "te": {
+   "findIt": "ఛాతీ ఎత్తులో రెండు సమాంతర బార్లు",
+   "setUp": "నిటారుగా ఉండి, మోచేతులు వంగే వరకు దిగి, పైకి నెట్టండి"
+  }
+ },
+ "Close Grip Push-up": {
+  "en": {
+   "findIt": "Any open floor space or a mat",
+   "setUp": "Hands under chest, elbows close to body, push up"
+  },
+  "hi": {
+   "findIt": "खुली जगह या मैट",
+   "setUp": "हाथ छाती के नीचे, कोहनी शरीर से सटी, ऊपर धकेलें"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల లేదా మ్యాట్",
+   "setUp": "చేతులు ఛాతీ కింద, మోచేతులు శరీరానికి దగ్గరగా, పైకి నెట్టండి"
+  }
+ },
+ "Biceps Curl": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Elbows at your sides, curl dumbbells to shoulders"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "कोहनी बगल में, डंबल कंधों तक मोड़ें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "మోచేతులు పక్కన, డంబెల్స్ భుజాల వరకు మడవండి"
+  }
+ },
+ "Hammer Curl": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Palms facing each other, curl to shoulders"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "हथेलियाँ आमने-सामने, कंधों तक मोड़ें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "అరచేతులు ఎదురెదురుగా, భుజాల వరకు మడవండి"
+  }
+ },
+ "Triceps Pushdown": {
+  "en": {
+   "findIt": "Cable tower with a bar or rope, pulley high",
+   "setUp": "Elbows at sides, push the bar down to your thighs"
+  },
+  "hi": {
+   "findIt": "केबल टावर, बार या रस्सी, पुली ऊपर",
+   "setUp": "कोहनी बगल में, बार जाँघों तक नीचे धकेलें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, బార్ లేదా తాడు, పుల్లీ పైన",
+   "setUp": "మోచేతులు పక్కన, బార్ తొడల వరకు కిందకు నెట్టండి"
+  }
+ },
+ "Overhead Triceps Extension": {
+  "en": {
+   "findIt": "Standing or seated with one dumbbell",
+   "setUp": "Dumbbell behind head, elbows up, straighten arms"
+  },
+  "hi": {
+   "findIt": "खड़े या बैठे, एक डंबल",
+   "setUp": "डंबल सिर के पीछे, कोहनी ऊपर, हाथ सीधे करें"
+  },
+  "te": {
+   "findIt": "నిలబడి లేదా కూర్చుని, ఒక డంబెల్",
+   "setUp": "డంబెల్ తల వెనుక, మోచేతులు పైకి, చేతులు నిటారు చేయండి"
+  }
+ },
+ "Skull Crusher": {
+  "en": {
+   "findIt": "Flat bench with a bar or dumbbells",
+   "setUp": "Lie back, lower weight toward forehead, straighten"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच, बार या डंबल",
+   "setUp": "लेटें, वज़न माथे की ओर नीचे, हाथ सीधे करें"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్, బార్ లేదా డంబెల్స్",
+   "setUp": "పడుకుని, బరువు నుదుటి వైపు దించి, నిటారు చేయండి"
+  }
+ },
+ "Cable Curl": {
+  "en": {
+   "findIt": "Cable tower with a bar, pulley at the bottom",
+   "setUp": "Elbows at sides, curl the bar to your shoulders"
+  },
+  "hi": {
+   "findIt": "केबल टावर, बार, पुली नीचे",
+   "setUp": "कोहनी बगल में, बार कंधों तक मोड़ें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, బార్, పుల్లీ కింద",
+   "setUp": "మోచేతులు పక్కన, బార్ భుజాల వరకు మడవండి"
+  }
+ },
+ "Concentration Curl": {
+  "en": {
+   "findIt": "Flat bench near the dumbbell rack",
+   "setUp": "Sit, elbow on inner thigh, curl one dumbbell"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास फ्लैट बेंच",
+   "setUp": "बैठें, कोहनी जाँघ के अंदर, एक डंबल मोड़ें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర ఫ్లాట్ బెంచ్",
+   "setUp": "కూర్చుని, మోచేయి తొడ లోపల, ఒక డంబెల్ మడవండి"
+  }
+ },
+ "Diamond Push-up": {
+  "en": {
+   "findIt": "Any open floor space or a mat",
+   "setUp": "Hands together under chest, thumbs touching, push up"
+  },
+  "hi": {
+   "findIt": "खुली जगह या मैट",
+   "setUp": "हाथ छाती के नीचे मिले, अँगूठे सटे, ऊपर धकेलें"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల లేదా మ్యాట్",
+   "setUp": "చేతులు ఛాతీ కింద కలిపి, బొటనవేళ్లు తగిలి, పైకి నెట్టండి"
+  }
+ },
+ "Kickback": {
+  "en": {
+   "findIt": "Flat bench near the dumbbell rack",
+   "setUp": "Lean on bench, elbow high, straighten arm behind you"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास फ्लैट बेंच",
+   "setUp": "बेंच पर टिकें, कोहनी ऊपर, हाथ पीछे सीधा करें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర ఫ్లాట్ బెంచ్",
+   "setUp": "బెంచ్‌పై ఆని, మోచేయి పైకి, చేయి వెనక్కి నిటారు చేయండి"
+  }
+ },
+ "EZ Bar Curl": {
+  "en": {
+   "findIt": "Wavy short bar on the bar rack",
+   "setUp": "Grip the angled parts, elbows at sides, curl up"
+  },
+  "hi": {
+   "findIt": "बार रैक पर लहरदार छोटा बार",
+   "setUp": "तिरछे हिस्से पकड़ें, कोहनी बगल में, ऊपर मोड़ें"
+  },
+  "te": {
+   "findIt": "బార్ రాక్‌పై వంపుల చిన్న బార్",
+   "setUp": "వాలు భాగాలు పట్టి, మోచేతులు పక్కన, పైకి మడవండి"
+  }
+ },
+ "Cable Overhead Triceps Extension": {
+  "en": {
+   "findIt": "Cable tower with a rope, pulley low, face away",
+   "setUp": "Rope behind head, elbows up, straighten arms forward"
+  },
+  "hi": {
+   "findIt": "केबल टावर, रस्सी, पुली नीचे, पीठ टावर की ओर",
+   "setUp": "रस्सी सिर के पीछे, कोहनी ऊपर, हाथ आगे सीधे"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, తాడు, పుల్లీ కింద, వీపు టవర్ వైపు",
+   "setUp": "తాడు తల వెనుక, మోచేతులు పైకి, చేతులు ముందుకు నిటారు"
+  }
+ },
+ "Reverse Curl": {
+  "en": {
+   "findIt": "Standing by the bar or dumbbell rack",
+   "setUp": "Palms facing down, curl the weight to your shoulders"
+  },
+  "hi": {
+   "findIt": "बार या डंबल रैक के पास",
+   "setUp": "हथेलियाँ नीचे, वज़न कंधों तक मोड़ें"
+  },
+  "te": {
+   "findIt": "బార్ లేదా డంబెల్ రాక్ దగ్గర",
+   "setUp": "అరచేతులు కిందకు, బరువు భుజాల వరకు మడవండి"
+  }
+ },
+ "Spider Curl": {
+  "en": {
+   "findIt": "Bench tilted up, lean your chest on it",
+   "setUp": "Chest on the pad, arms hanging, curl up"
+  },
+  "hi": {
+   "findIt": "झुकी बेंच, छाती उस पर टिकाएँ",
+   "setUp": "छाती पैड पर, हाथ लटके, ऊपर मोड़ें"
+  },
+  "te": {
+   "findIt": "పైకి వంచిన బెంచ్, ఛాతీ దానిపై",
+   "setUp": "ఛాతీ ప్యాడ్‌పై, చేతులు వేలాడి, పైకి మడవండి"
+  }
+ },
+ "Rope Hammer Curl": {
+  "en": {
+   "findIt": "Cable tower with a rope, pulley at the bottom",
+   "setUp": "Palms facing each other, curl rope to shoulders"
+  },
+  "hi": {
+   "findIt": "केबल टावर, रस्सी, पुली नीचे",
+   "setUp": "हथेलियाँ आमने-सामने, रस्सी कंधों तक मोड़ें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, తాడు, పుల్లీ కింద",
+   "setUp": "అరచేతులు ఎదురెదురుగా, తాడు భుజాల వరకు మడవండి"
+  }
+ },
+ "Close Grip Bench Press": {
+  "en": {
+   "findIt": "Flat bench with a bar rack above it",
+   "setUp": "Hands shoulder width, elbows close, lower and press"
+  },
+  "hi": {
+   "findIt": "बेंच जिसके ऊपर बार का रैक हो",
+   "setUp": "हाथ कंधे जितने, कोहनी पास, नीचे लाकर दबाएँ"
+  },
+  "te": {
+   "findIt": "పైన బార్ రాక్ ఉన్న ఫ్లాట్ బెంచ్",
+   "setUp": "చేతులు భుజాల వెడల్పు, మోచేతులు దగ్గరగా, దించి నెట్టండి"
+  }
+ },
+ "Wrist Circle": {
+  "en": {
+   "findIt": "Any spot",
+   "setUp": "Arms out, turn wrists in slow circles both ways"
+  },
+  "hi": {
+   "findIt": "कहीं भी",
+   "setUp": "हाथ आगे, कलाइयाँ धीरे दोनों तरफ़ घुमाएँ"
+  },
+  "te": {
+   "findIt": "ఎక్కడైనా",
+   "setUp": "చేతులు ముందుకు, మణికట్టు రెండు వైపులా మెల్లగా తిప్పండి"
+  }
+ },
+ "Forearm Stretch": {
+  "en": {
+   "findIt": "Any spot",
+   "setUp": "Arm straight, pull fingers back gently with the other hand"
+  },
+  "hi": {
+   "findIt": "कहीं भी",
+   "setUp": "हाथ सीधा, दूसरे हाथ से उँगलियाँ धीरे पीछे खींचें"
+  },
+  "te": {
+   "findIt": "ఎక్కడైనా",
+   "setUp": "చేయి నిటారుగా, రెండో చేతితో వేళ్లు మెల్లగా వెనక్కి లాగండి"
+  }
+ },
+ "Plank": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Forearms down, body straight from head to heels, hold"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "कोहनियाँ ज़मीन पर, सिर से एड़ी तक सीधा, रोकें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "మోచేతులు కింద, తల నుండి మడమల వరకు నిటారుగా, పట్టుకోండి"
+  }
+ },
+ "Side Plank": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On one forearm, hips up, body in a line, hold"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "एक कोहनी पर, कूल्हे ऊपर, शरीर एक सीध में, रोकें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "ఒక మోచేతిపై, తుంటి పైకి, శరీరం ఒకే గీతలో, పట్టుకోండి"
+  }
+ },
+ "Dead Bug": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, arms up, lower opposite arm and leg"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, हाथ ऊपर, विपरीत हाथ-पैर नीचे लाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, చేతులు పైకి, వ్యతిరేక చేయి కాలు దించండి"
+  }
+ },
+ "Bird Dog": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On hands and knees, reach opposite arm and leg out"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "हाथ-घुटनों पर, विपरीत हाथ और पैर बाहर फैलाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "చేతులు మోకాళ్లపై, వ్యతిరేక చేయి కాలు బయటకు చాపండి"
+  }
+ },
+ "Crunch": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, knees bent, lift shoulders off the floor"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, घुटने मुड़े, कंधे ज़मीन से उठाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, మోకాళ్లు వంచి, భుజాలు నేల నుండి ఎత్తండి"
+  }
+ },
+ "Bicycle Crunch": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, pedal legs, elbow to opposite knee"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, पैर साइकिल जैसे, कोहनी विपरीत घुटने तक"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, కాళ్లు సైకిల్‌లా, మోచేయి వ్యతిరేక మోకాలికి"
+  }
+ },
+ "Leg Raise": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, legs straight, lift them up and lower slowly"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, टाँगें सीधी, ऊपर उठाएँ, धीरे नीचे"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, కాళ్లు నిటారుగా, పైకి ఎత్తి, మెల్లగా దించండి"
+  }
+ },
+ "Mountain Climber": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Push-up position, run knees toward chest one at a time"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "पुश-अप की स्थिति, घुटने बारी-बारी छाती की ओर"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "పుష్-అప్ స్థితి, మోకాళ్లు ఒకటొకటిగా ఛాతీ వైపు"
+  }
+ },
+ "Russian Twist": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Sit, lean back a little, turn side to side"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "बैठें, थोड़ा पीछे झुकें, इधर-उधर घुमें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "కూర్చుని, కొంచెం వెనక్కి వాలి, అటూ ఇటూ తిప్పండి"
+  }
+ },
+ "Hanging Knee Raise": {
+  "en": {
+   "findIt": "High bar you can hang from",
+   "setUp": "Hang, pull knees up toward your chest, lower slowly"
+  },
+  "hi": {
+   "findIt": "ऊँचा बार जिससे लटक सकें",
+   "setUp": "लटकें, घुटने छाती की ओर ऊपर, धीरे नीचे"
+  },
+  "te": {
+   "findIt": "వేలాడగలిగే ఎత్తైన బార్",
+   "setUp": "వేలాడి, మోకాళ్లు ఛాతీ వైపు ఎత్తి, మెల్లగా దించండి"
+  }
+ },
+ "Hanging Leg Raise": {
+  "en": {
+   "findIt": "High bar you can hang from",
+   "setUp": "Hang, legs straight, lift them to hip height"
+  },
+  "hi": {
+   "findIt": "ऊँचा बार जिससे लटक सकें",
+   "setUp": "लटकें, टाँगें सीधी, कूल्हे की ऊँचाई तक उठाएँ"
+  },
+  "te": {
+   "findIt": "వేలాడగలిగే ఎత్తైన బార్",
+   "setUp": "వేలాడి, కాళ్లు నిటారుగా, తుంటి ఎత్తు వరకు ఎత్తండి"
+  }
+ },
+ "Ab Wheel Rollout": {
+  "en": {
+   "findIt": "A mat and the wheel with handles",
+   "setUp": "Kneel, roll the wheel forward, pull it back"
+  },
+  "hi": {
+   "findIt": "मैट और हैंडल वाला पहिया",
+   "setUp": "घुटनों पर, पहिया आगे ले जाएँ, वापस खींचें"
+  },
+  "te": {
+   "findIt": "మ్యాట్, హ్యాండిల్స్ ఉన్న చక్రం",
+   "setUp": "మోకాళ్లపై, చక్రం ముందుకు తిప్పి, వెనక్కి లాగండి"
+  }
+ },
+ "Toe Touch Crunch": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, legs up, reach hands to your toes"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, टाँगें ऊपर, हाथ पंजों तक पहुँचाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, కాళ్లు పైకి, చేతులు కాలివేళ్ల వరకు చాపండి"
+  }
+ },
+ "Flutter Kick": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, legs low, small quick kicks"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, टाँगें नीची, छोटी तेज़ किक"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, కాళ్లు తక్కువ ఎత్తులో, చిన్న వేగ కిక్‌లు"
+  }
+ },
+ "Pallof Press": {
+  "en": {
+   "findIt": "Cable tower, pulley at chest height",
+   "setUp": "Stand side-on, hold handle at chest, press straight out"
+  },
+  "hi": {
+   "findIt": "केबल टावर, पुली छाती की ऊँचाई पर",
+   "setUp": "बगल से खड़े हों, हैंडल छाती पर, सीधे आगे धकेलें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, పుల్లీ ఛాతీ ఎత్తులో",
+   "setUp": "పక్కకు నిలబడి, హ్యాండిల్ ఛాతీ దగ్గర, ముందుకు నెట్టండి"
+  }
+ },
+ "Reverse Crunch": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, knees bent, curl hips off the floor"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, घुटने मुड़े, कूल्हे ज़मीन से उठाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, మోకాళ్లు వంచి, తుంటి నేల నుండి ఎత్తండి"
+  }
+ },
+ "V-Up": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Lie flat, lift legs and torso together, touch toes"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "सीधे लेटें, टाँगें और धड़ साथ उठाएँ, पंजे छुएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "పడుకుని, కాళ్లు శరీరం కలిపి ఎత్తి, కాలివేళ్లు తాకండి"
+  }
+ },
+ "Side Plank Reach Through": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Side plank, reach top arm under your body, back up"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "साइड प्लैंक, ऊपर वाला हाथ शरीर के नीचे, वापस ऊपर"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "సైడ్ ప్లాంక్, పై చేయి శరీరం కింద, తిరిగి పైకి"
+  }
+ },
+ "Cable Wood Chop": {
+  "en": {
+   "findIt": "Cable tower, pulley high",
+   "setUp": "Stand side-on, pull handle down across your body"
+  },
+  "hi": {
+   "findIt": "केबल टावर, पुली ऊपर",
+   "setUp": "बगल से खड़े हों, हैंडल शरीर के आर-पार नीचे खींचें"
+  },
+  "te": {
+   "findIt": "కేబుల్ టవర్, పుల్లీ పైన",
+   "setUp": "పక్కకు నిలబడి, హ్యాండిల్ శరీరం అడ్డంగా కిందకు లాగండి"
+  }
+ },
+ "Hollow Hold": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, arms and legs up a little, hold"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, हाथ-पैर थोड़े ऊपर, रोकें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, చేతులు కాళ్లు కొంచెం పైకి, పట్టుకోండి"
+  }
+ },
+ "90-90 Breathing": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, feet on a bench, slow deep breaths"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, पैर बेंच पर, धीरे गहरी साँसें"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, పాదాలు బెంచ్‌పై, మెల్లగా లోతైన శ్వాసలు"
+  }
+ },
+ "Pelvic Tilt": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, knees bent, press lower back into the mat"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, घुटने मुड़े, निचली पीठ मैट में दबाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, మోకాళ్లు వంచి, కింది వీపు మ్యాట్‌లోకి నొక్కండి"
+  }
+ },
+ "Burpee": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Squat, hands down, jump feet back, push-up, jump up"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "बैठें, हाथ नीचे, पैर पीछे, पुश-अप, ऊपर उछलें"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "కూర్చుని, చేతులు కింద, కాళ్లు వెనక్కి, పుష్-అప్, పైకి దూకండి"
+  }
+ },
+ "Thruster": {
+  "en": {
+   "findIt": "Dumbbells or a bar, open space",
+   "setUp": "Weight at shoulders, squat, stand and press overhead"
+  },
+  "hi": {
+   "findIt": "डंबल या बार, खुली जगह",
+   "setUp": "वज़न कंधों पर, बैठें, खड़े होकर ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్స్ లేదా బార్, ఖాళీ స్థలం",
+   "setUp": "బరువు భుజాల దగ్గర, కూర్చుని, లేచి తలపైకి నెట్టండి"
+  }
+ },
+ "Kettlebell Swing": {
+  "en": {
+   "findIt": "Kettlebell rack, open space in front",
+   "setUp": "Hinge at hips, swing the bell to chest height"
+  },
+  "hi": {
+   "findIt": "केटलबेल रैक, आगे खुली जगह",
+   "setUp": "कूल्हों से झुकें, बेल छाती की ऊँचाई तक झुलाएँ"
+  },
+  "te": {
+   "findIt": "కెటిల్‌బెల్ రాక్, ముందు ఖాళీ స్థలం",
+   "setUp": "తుంటి నుండి వంగి, బెల్ ఛాతీ ఎత్తు వరకు ఊపండి"
+  }
+ },
+ "Clean and Press": {
+  "en": {
+   "findIt": "Barbell or dumbbells, open space",
+   "setUp": "Lift to shoulders in one move, then press overhead"
+  },
+  "hi": {
+   "findIt": "बारबेल या डंबल, खुली जगह",
+   "setUp": "एक झटके में कंधों तक उठाएँ, फिर ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "బార్‌బెల్ లేదా డంబెల్స్, ఖాళీ స్థలం",
+   "setUp": "ఒకే కదలికలో భుజాల వరకు ఎత్తి, తలపైకి నెట్టండి"
+  }
+ },
+ "Man Maker": {
+  "en": {
+   "findIt": "Two dumbbells, open space",
+   "setUp": "Push-up, row each side, stand, press overhead"
+  },
+  "hi": {
+   "findIt": "दो डंबल, खुली जगह",
+   "setUp": "पुश-अप, हर तरफ़ रो, खड़े हों, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "రెండు డంబెల్స్, ఖాళీ స్థలం",
+   "setUp": "పుష్-అప్, ప్రతి వైపు రో, లేచి, తలపైకి నెట్టండి"
+  }
+ },
+ "Bear Crawl": {
+  "en": {
+   "findIt": "A clear strip of floor",
+   "setUp": "Hands and feet down, knees just off the floor, crawl"
+  },
+  "hi": {
+   "findIt": "खाली फ़र्श की पट्टी",
+   "setUp": "हाथ-पैर ज़मीन पर, घुटने थोड़े ऊपर, रेंगें"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల స్ట్రిప్",
+   "setUp": "చేతులు కాళ్లు కింద, మోకాళ్లు కొంచెం పైకి, పాకండి"
+  }
+ },
+ "Farmer Carry": {
+  "en": {
+   "findIt": "Heavy dumbbells, a clear walkway",
+   "setUp": "One in each hand, stand tall, walk steadily"
+  },
+  "hi": {
+   "findIt": "भारी डंबल, खाली रास्ता",
+   "setUp": "हर हाथ में एक, सीधे खड़े, स्थिर चलें"
+  },
+  "te": {
+   "findIt": "బరువైన డంబెల్స్, ఖాళీ నడక దారి",
+   "setUp": "చేతికొకటి, నిటారుగా నిలబడి, స్థిరంగా నడవండి"
+  }
+ },
+ "Walking Farmer Carry": {
+  "en": {
+   "findIt": "Heavy dumbbells, a clear walkway",
+   "setUp": "Carry both, walk the strip, turn and return"
+  },
+  "hi": {
+   "findIt": "भारी डंबल, खाली रास्ता",
+   "setUp": "दोनों उठाएँ, रास्ता चलें, मुड़कर लौटें"
+  },
+  "te": {
+   "findIt": "బరువైన డంబెల్స్, ఖాళీ నడక దారి",
+   "setUp": "రెండూ మోసుకుని, దారి నడిచి, తిరిగి రండి"
+  }
+ },
+ "Battle Rope Slams": {
+  "en": {
+   "findIt": "Thick ropes anchored to a post",
+   "setUp": "Rope ends in hands, squat a little, slam them down"
+  },
+  "hi": {
+   "findIt": "खंभे से बँधी मोटी रस्सियाँ",
+   "setUp": "रस्सी के सिरे हाथ में, थोड़ा बैठें, नीचे पटकें"
+  },
+  "te": {
+   "findIt": "స్తంభానికి కట్టిన లావు తాళ్లు",
+   "setUp": "తాడు చివరలు చేతుల్లో, కొంచెం కూర్చుని, కిందకు కొట్టండి"
+  }
+ },
+ "Dumbbell Snatch": {
+  "en": {
+   "findIt": "One dumbbell, open space",
+   "setUp": "Pull from floor to overhead in one move, arm straight"
+  },
+  "hi": {
+   "findIt": "एक डंबल, खुली जगह",
+   "setUp": "ज़मीन से सिर के ऊपर एक झटके में, हाथ सीधा"
+  },
+  "te": {
+   "findIt": "ఒక డంబెల్, ఖాళీ స్థలం",
+   "setUp": "నేల నుండి తలపైకి ఒకే కదలికలో, చేయి నిటారుగా"
+  }
+ },
+ "Walking Burpee": {
+  "en": {
+   "findIt": "A clear strip of floor",
+   "setUp": "Burpee, step forward, burpee again down the strip"
+  },
+  "hi": {
+   "findIt": "खाली फ़र्श की पट्टी",
+   "setUp": "बर्पी, आगे कदम, फिर बर्पी, पट्टी के साथ"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల స్ట్రిప్",
+   "setUp": "బర్పీ, ముందుకు అడుగు, మళ్లీ బర్పీ, స్ట్రిప్ వెంట"
+  }
+ },
+ "Jumping Jack": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Jump feet wide as arms go up, jump back"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "पैर चौड़े, हाथ ऊपर, फिर वापस उछलें"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "కాళ్లు వెడల్పు, చేతులు పైకి, తిరిగి దూకండి"
+  }
+ },
+ "High Knees": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Run on the spot, knees up to hip height"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "जगह पर दौड़ें, घुटने कूल्हे की ऊँचाई तक"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "అక్కడే పరుగు, మోకాళ్లు తుంటి ఎత్తు వరకు"
+  }
+ },
+ "Skater Jump": {
+  "en": {
+   "findIt": "Any open floor space",
+   "setUp": "Jump sideways onto one leg, land soft, jump back"
+  },
+  "hi": {
+   "findIt": "कोई भी खुली जगह",
+   "setUp": "बगल में एक पैर पर उछलें, हल्के उतरें, वापस"
+  },
+  "te": {
+   "findIt": "ఏదైనా ఖాళీ నేల",
+   "setUp": "పక్కకు ఒక కాలిపై దూకి, మెల్లగా దిగి, తిరిగి దూకండి"
+  }
+ },
+ "Devil Press": {
+  "en": {
+   "findIt": "Two dumbbells, open space",
+   "setUp": "Burpee on the dumbbells, swing them overhead"
+  },
+  "hi": {
+   "findIt": "दो डंबल, खुली जगह",
+   "setUp": "डंबल पर बर्पी, फिर उन्हें सिर के ऊपर झुलाएँ"
+  },
+  "te": {
+   "findIt": "రెండు డంబెల్స్, ఖాళీ స్థలం",
+   "setUp": "డంబెల్స్‌పై బర్పీ, వాటిని తలపైకి ఊపండి"
+  }
+ },
+ "Wall Ball": {
+  "en": {
+   "findIt": "Soft heavy ball, a high wall target",
+   "setUp": "Squat with ball at chest, stand and throw to the target"
+  },
+  "hi": {
+   "findIt": "नरम भारी गेंद, ऊँची दीवार का निशान",
+   "setUp": "गेंद छाती पर बैठें, खड़े होकर निशाने पर फेंकें"
+  },
+  "te": {
+   "findIt": "మెత్తని బరువైన బంతి, ఎత్తైన గోడ గురి",
+   "setUp": "బంతి ఛాతీ దగ్గర కూర్చుని, లేచి గురికి విసరండి"
+  }
+ },
+ "Sled Pull": {
+  "en": {
+   "findIt": "Weighted sled with a rope or strap, turf strip",
+   "setUp": "Face the sled, pull it toward you hand over hand"
+  },
+  "hi": {
+   "findIt": "रस्सी या पट्टी वाली स्लेज, टर्फ़ पट्टी",
+   "setUp": "स्लेज की ओर मुँह, हाथ पर हाथ रख खींचें"
+  },
+  "te": {
+   "findIt": "తాడు లేదా స్ట్రాప్ ఉన్న స్లెడ్, టర్ఫ్ స్ట్రిప్",
+   "setUp": "స్లెడ్ వైపు తిరిగి, చేతి మీద చేయితో లాగండి"
+  }
+ },
+ "Worlds Greatest Stretch": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Lunge, hand down, twist and reach the other arm up"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "लंज, हाथ ज़मीन पर, घूमकर दूसरा हाथ ऊपर"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "లంజ్, చేయి కింద, తిరిగి రెండో చేయి పైకి"
+  }
+ },
+ "Jump Rope": {
+  "en": {
+   "findIt": "Any open floor space, rope from the rack",
+   "setUp": "Handles at hips, small hops, land on toes"
+  },
+  "hi": {
+   "findIt": "खुली जगह, रैक से रस्सी",
+   "setUp": "हैंडल कूल्हों पर, छोटी उछाल, पंजों पर उतरें"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల, రాక్ నుండి తాడు",
+   "setUp": "హ్యాండిల్స్ తుంటి దగ్గర, చిన్న దూకులు, కాలివేళ్లపై దిగండి"
+  }
+ },
+ "March in Place": {
+  "en": {
+   "findIt": "Any spot",
+   "setUp": "Stand tall, lift knees one at a time, swing arms"
+  },
+  "hi": {
+   "findIt": "कहीं भी",
+   "setUp": "सीधे खड़े, घुटने बारी-बारी उठाएँ, हाथ हिलाएँ"
+  },
+  "te": {
+   "findIt": "ఎక్కడైనా",
+   "setUp": "నిటారుగా నిలబడి, మోకాళ్లు ఒకటొకటిగా ఎత్తి, చేతులు ఊపండి"
+  }
+ },
+ "Low Incline Dumbbell Press": {
+  "en": {
+   "findIt": "Adjustable bench near the dumbbell rack",
+   "setUp": "Bench at 15 degrees, dumbbells at chest, press up"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास झुकने वाली बेंच",
+   "setUp": "बेंच 15 डिग्री, डंबल छाती पर, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర వంచే బెంచ్",
+   "setUp": "బెంచ్ 15 డిగ్రీలు, డంబెల్స్ ఛాతీ దగ్గర, పైకి నెట్టండి"
+  }
+ },
+ "Cable Fly": {
+  "en": {
+   "findIt": "Two cable towers, pulleys at chest height",
+   "setUp": "One handle each hand, arms wide, bring hands together"
+  },
+  "hi": {
+   "findIt": "दो केबल टावर, पुली छाती की ऊँचाई पर",
+   "setUp": "हर हाथ में हैंडल, हाथ फैले, आगे मिलाएँ"
+  },
+  "te": {
+   "findIt": "రెండు కేబుల్ టవర్లు, పుల్లీలు ఛాతీ ఎత్తులో",
+   "setUp": "చేతికో హ్యాండిల్, చేతులు వెడల్పు, ముందు కలపండి"
+  }
+ },
+ "Incline Machine Press": {
+  "en": {
+   "findIt": "Seated machine with handles angled upward",
+   "setUp": "Seat so handles start at chest, push up and forward"
+  },
+  "hi": {
+   "findIt": "बैठने की मशीन, हैंडल ऊपर की ओर तिरछे",
+   "setUp": "सीट ऐसे कि हैंडल छाती पर हों, ऊपर-आगे धकेलें"
+  },
+  "te": {
+   "findIt": "పైకి వాలుగా హ్యాండిల్స్ ఉన్న కూర్చునే మెషీన్",
+   "setUp": "హ్యాండిల్స్ ఛాతీ దగ్గర ఉండేలా సీటు, పైకి ముందుకు నెట్టండి"
+  }
+ },
+ "Feet Elevated Push-up": {
+  "en": {
+   "findIt": "A flat bench and floor space in front",
+   "setUp": "Feet on the bench, hands on floor, body straight"
+  },
+  "hi": {
+   "findIt": "फ्लैट बेंच और उसके आगे जगह",
+   "setUp": "पैर बेंच पर, हाथ ज़मीन पर, शरीर सीधा"
+  },
+  "te": {
+   "findIt": "ఫ్లాట్ బెంచ్, ముందు ఖాళీ నేల",
+   "setUp": "కాళ్లు బెంచ్‌పై, చేతులు నేలపై, శరీరం నిటారుగా"
+  }
+ },
+ "Seal Row": {
+  "en": {
+   "findIt": "A high flat bench you lie face down on",
+   "setUp": "Lie on the bench, arms hanging, row dumbbells up"
+  },
+  "hi": {
+   "findIt": "ऊँची फ्लैट बेंच जिस पर पेट के बल लेटें",
+   "setUp": "बेंच पर लेटें, हाथ लटके, डंबल ऊपर खींचें"
+  },
+  "te": {
+   "findIt": "బోర్లా పడుకునే ఎత్తైన ఫ్లాట్ బెంచ్",
+   "setUp": "బెంచ్‌పై పడుకుని, చేతులు వేలాడి, డంబెల్స్ పైకి లాగండి"
+  }
+ },
+ "Pendlay Row": {
+  "en": {
+   "findIt": "Barbell on the floor, open space",
+   "setUp": "Back flat and level, pull bar from floor to chest"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर बारबेल, खुली जगह",
+   "setUp": "पीठ सीधी और समतल, बार ज़मीन से छाती तक खींचें"
+  },
+  "te": {
+   "findIt": "నేలపై బార్‌బెల్, ఖాళీ స్థలం",
+   "setUp": "వీపు నిటారుగా సమాంతరంగా, బార్ నేల నుండి ఛాతీ వరకు లాగండి"
+  }
+ },
+ "Neutral Grip Pulldown": {
+  "en": {
+   "findIt": "Lat pulldown seat with a two-handle attachment",
+   "setUp": "Palms facing each other, pull handles to chest"
+  },
+  "hi": {
+   "findIt": "लैट पुलडाउन सीट, दो हैंडल वाला अटैचमेंट",
+   "setUp": "हथेलियाँ आमने-सामने, हैंडल छाती तक खींचें"
+  },
+  "te": {
+   "findIt": "రెండు హ్యాండిల్స్ ఉన్న లాట్ పుల్‌డౌన్ సీటు",
+   "setUp": "అరచేతులు ఎదురెదురుగా, హ్యాండిల్స్ ఛాతీ వరకు లాగండి"
+  }
+ },
+ "Scapular Pull-up": {
+  "en": {
+   "findIt": "High bar you can hang from",
+   "setUp": "Hang, arms straight, pull shoulder blades down and back"
+  },
+  "hi": {
+   "findIt": "ऊँचा बार जिससे लटक सकें",
+   "setUp": "लटकें, हाथ सीधे, कंधे की हड्डियाँ नीचे-पीछे खींचें"
+  },
+  "te": {
+   "findIt": "వేలాడగలిగే ఎత్తైన బార్",
+   "setUp": "వేలాడి, చేతులు నిటారుగా, భుజ ఎముకలు కిందకు వెనక్కి లాగండి"
+  }
+ },
+ "Belt Squat": {
+  "en": {
+   "findIt": "Platform with a belt that loads from below",
+   "setUp": "Belt around hips, stand on the platform, squat"
+  },
+  "hi": {
+   "findIt": "प्लेटफ़ॉर्म, नीचे से वज़न वाली बेल्ट",
+   "setUp": "बेल्ट कूल्हों पर, प्लेटफ़ॉर्म पर खड़े हों, बैठें"
+  },
+  "te": {
+   "findIt": "కింద నుండి బరువు ఉండే బెల్ట్ ప్లాట్‌ఫారమ్",
+   "setUp": "బెల్ట్ తుంటి చుట్టూ, ప్లాట్‌ఫారమ్‌పై నిలబడి, కూర్చోండి"
+  }
+ },
+ "Good Morning": {
+  "en": {
+   "findIt": "Squat rack with the bar at shoulder height",
+   "setUp": "Bar on upper back, soft knees, bow forward and up"
+  },
+  "hi": {
+   "findIt": "स्क्वाट रैक, बार कंधे की ऊँचाई पर",
+   "setUp": "बार ऊपरी पीठ पर, घुटने हल्के, आगे झुकें और उठें"
+  },
+  "te": {
+   "findIt": "భుజాల ఎత్తులో బార్ ఉన్న స్క్వాట్ రాక్",
+   "setUp": "బార్ పై వీపుపై, మోకాళ్లు కొంచెం వంచి, ముందుకు వంగి లేవండి"
+  }
+ },
+ "Dumbbell Step-up to Knee Drive": {
+  "en": {
+   "findIt": "A box at knee height, dumbbells",
+   "setUp": "Step up, drive the other knee high, step down"
+  },
+  "hi": {
+   "findIt": "घुटने की ऊँचाई का बॉक्स, डंबल",
+   "setUp": "ऊपर चढ़ें, दूसरा घुटना ऊँचा उठाएँ, उतरें"
+  },
+  "te": {
+   "findIt": "మోకాలి ఎత్తు బాక్స్, డంబెల్స్",
+   "setUp": "పైకి ఎక్కి, రెండో మోకాలు పైకి ఎత్తి, దిగండి"
+  }
+ },
+ "Single Leg Glute Bridge": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "On your back, one foot down, lift hips with that leg"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "पीठ के बल, एक पैर ज़मीन पर, उसी टाँग से कूल्हे उठाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "వెల్లకిలా, ఒక పాదం కింద, ఆ కాలితో తుంటి ఎత్తండి"
+  }
+ },
+ "Z-Press": {
+  "en": {
+   "findIt": "Sit on the floor, dumbbells or a bar",
+   "setUp": "Legs straight in front, sit tall, press overhead"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर बैठकर, डंबल या बार",
+   "setUp": "टाँगें आगे सीधी, सीधे बैठें, ऊपर दबाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై కూర్చుని, డంబెల్స్ లేదా బార్",
+   "setUp": "కాళ్లు ముందు నిటారుగా, నిటారుగా కూర్చుని, తలపైకి నెట్టండి"
+  }
+ },
+ "Lean Away Lateral Raise": {
+  "en": {
+   "findIt": "Any post to hold, one dumbbell",
+   "setUp": "Hold the post, lean away, raise the far arm"
+  },
+  "hi": {
+   "findIt": "पकड़ने का खंभा, एक डंबल",
+   "setUp": "खंभा पकड़ें, दूर झुकें, दूर वाला हाथ उठाएँ"
+  },
+  "te": {
+   "findIt": "పట్టుకోవడానికి స్తంభం, ఒక డంబెల్",
+   "setUp": "స్తంభం పట్టి, దూరంగా వాలి, దూర చేయి ఎత్తండి"
+  }
+ },
+ "Y Raise": {
+  "en": {
+   "findIt": "Bench tilted up, light dumbbells",
+   "setUp": "Chest on the pad, raise arms up and out in a Y"
+  },
+  "hi": {
+   "findIt": "झुकी बेंच, हल्के डंबल",
+   "setUp": "छाती पैड पर, हाथ ऊपर-बाहर Y की तरह उठाएँ"
+  },
+  "te": {
+   "findIt": "పైకి వంచిన బెంచ్, తేలిక డంబెల్స్",
+   "setUp": "ఛాతీ ప్యాడ్‌పై, చేతులు పైకి బయటకు Y లా ఎత్తండి"
+  }
+ },
+ "Band Shoulder External Rotation": {
+  "en": {
+   "findIt": "A band tied to a post at elbow height",
+   "setUp": "Elbow at side, forearm across, rotate hand outward"
+  },
+  "hi": {
+   "findIt": "कोहनी की ऊँचाई पर खंभे से बँधा बैंड",
+   "setUp": "कोहनी बगल में, हाथ आगे, बाहर की ओर घुमाएँ"
+  },
+  "te": {
+   "findIt": "మోచేయి ఎత్తులో స్తంభానికి కట్టిన బ్యాండ్",
+   "setUp": "మోచేయి పక్కన, ముంజేయి అడ్డంగా, చేయి బయటకు తిప్పండి"
+  }
+ },
+ "Preacher Curl": {
+  "en": {
+   "findIt": "Seat with an angled pad in front for your arms",
+   "setUp": "Upper arms flat on the pad, curl the bar up"
+  },
+  "hi": {
+   "findIt": "सीट, आगे बाँहों के लिए तिरछा पैड",
+   "setUp": "ऊपरी बाँहें पैड पर, बार ऊपर मोड़ें"
+  },
+  "te": {
+   "findIt": "ముందు చేతుల కోసం వాలు ప్యాడ్ ఉన్న సీటు",
+   "setUp": "పై చేతులు ప్యాడ్‌పై, బార్ పైకి మడవండి"
+  }
+ },
+ "Cross Body Hammer Curl": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Curl each dumbbell across to the opposite shoulder"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "हर डंबल विपरीत कंधे की ओर मोड़ें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "ప్రతి డంబెల్ వ్యతిరేక భుజం వైపు మడవండి"
+  }
+ },
+ "Suitcase Carry": {
+  "en": {
+   "findIt": "One heavy dumbbell, a clear walkway",
+   "setUp": "Carry it in one hand, stay upright, walk, switch"
+  },
+  "hi": {
+   "findIt": "एक भारी डंबल, खाली रास्ता",
+   "setUp": "एक हाथ में उठाएँ, सीधे रहें, चलें, हाथ बदलें"
+  },
+  "te": {
+   "findIt": "ఒక బరువైన డంబెల్, ఖాళీ నడక దారి",
+   "setUp": "ఒక చేతిలో మోసుకుని, నిటారుగా, నడిచి, చేయి మార్చండి"
+  }
+ },
+ "Side Plank Reach": {
+  "en": {
+   "findIt": "A mat on the floor",
+   "setUp": "Side plank, reach the top arm up and over"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर मैट",
+   "setUp": "साइड प्लैंक, ऊपर वाला हाथ ऊपर और आगे बढ़ाएँ"
+  },
+  "te": {
+   "findIt": "నేలపై మ్యాట్",
+   "setUp": "సైడ్ ప్లాంక్, పై చేయి పైకి, ముందుకు చాపండి"
+  }
+ },
+ "Rowing Erg Sprint": {
+  "en": {
+   "findIt": "The rowing machine, usually near the bikes",
+   "setUp": "Feet strapped, push with legs, then pull to chest"
+  },
+  "hi": {
+   "findIt": "रोइंग मशीन, अक्सर साइकिलों के पास",
+   "setUp": "पैर बाँधें, टाँगों से धकेलें, फिर छाती तक खींचें"
+  },
+  "te": {
+   "findIt": "రోయింగ్ మెషీన్, సాధారణంగా సైకిళ్ల దగ్గర",
+   "setUp": "పాదాలు బిగించి, కాళ్లతో నెట్టి, ఛాతీ వరకు లాగండి"
+  }
+ },
+ "Walking Toe Touch": {
+  "en": {
+   "findIt": "A clear strip of floor",
+   "setUp": "Step, kick one leg up, touch it with the opposite hand"
+  },
+  "hi": {
+   "findIt": "खाली फ़र्श की पट्टी",
+   "setUp": "कदम, एक टाँग ऊपर, विपरीत हाथ से छुएँ"
+  },
+  "te": {
+   "findIt": "ఖాళీ నేల స్ట్రిప్",
+   "setUp": "అడుగు, ఒక కాలు పైకి, వ్యతిరేక చేతితో తాకండి"
+  }
+ },
+ "Couch Stretch": {
+  "en": {
+   "findIt": "A wall or bench and a mat",
+   "setUp": "Back knee at the wall, front foot forward, stay tall"
+  },
+  "hi": {
+   "findIt": "दीवार या बेंच और मैट",
+   "setUp": "पिछला घुटना दीवार पर, अगला पैर आगे, सीधे रहें"
+  },
+  "te": {
+   "findIt": "గోడ లేదా బెంచ్, మ్యాట్",
+   "setUp": "వెనుక మోకాలు గోడ దగ్గర, ముందు పాదం ముందు, నిటారుగా"
+  }
+ },
+ "Glute Activation Walk": {
+  "en": {
+   "findIt": "A band around your knees, a clear strip",
+   "setUp": "Small sideways steps, knees pushed out against band"
+  },
+  "hi": {
+   "findIt": "घुटनों पर बैंड, खाली पट्टी",
+   "setUp": "छोटे बगल के कदम, घुटने बैंड के खिलाफ़ बाहर"
+  },
+  "te": {
+   "findIt": "మోకాళ్ల చుట్టూ బ్యాండ్, ఖాళీ స్ట్రిప్",
+   "setUp": "చిన్న పక్క అడుగులు, మోకాళ్లు బ్యాండ్‌కు వ్యతిరేకంగా బయటకు"
+  }
+ },
+ "Cable Row": {
+  "en": {
+   "findIt": "Low cable with a seat and a foot plate",
+   "setUp": "Feet on plate, sit tall, pull handle to your stomach"
+  },
+  "hi": {
+   "findIt": "नीची केबल, सीट और पैर की प्लेट के साथ",
+   "setUp": "पैर प्लेट पर, सीधे बैठें, हैंडल पेट तक खींचें"
+  },
+  "te": {
+   "findIt": "సీటు, పాద ప్లేట్ ఉన్న తక్కువ కేబుల్",
+   "setUp": "పాదాలు ప్లేట్‌పై, నిటారుగా కూర్చుని, హ్యాండిల్ కడుపు వరకు లాగండి"
+  }
+ },
+ "Reverse Fly": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack, light dumbbells",
+   "setUp": "Bend forward, arms wide, lift dumbbells out to sides"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास, हल्के डंबल",
+   "setUp": "आगे झुकें, हाथ फैलाएँ, डंबल बगल में उठाएँ"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర, తేలిక డంబెల్స్",
+   "setUp": "ముందుకు వంగి, చేతులు వెడల్పు, డంబెల్స్ పక్కలకు ఎత్తండి"
+  }
+ },
+ "Zottman Curl": {
+  "en": {
+   "findIt": "Standing by the dumbbell rack",
+   "setUp": "Curl palms up, turn palms down at top, lower slowly"
+  },
+  "hi": {
+   "findIt": "डंबल रैक के पास खड़े होकर",
+   "setUp": "हथेली ऊपर मोड़ें, ऊपर हथेली नीचे घुमाएँ, धीरे उतारें"
+  },
+  "te": {
+   "findIt": "డంబెల్ రాక్ దగ్గర నిలబడి",
+   "setUp": "అరచేయి పైకి మడిచి, పైన అరచేయి కిందకు తిప్పి, మెల్లగా దించండి"
+  }
+ },
+ "Sumo Deadlift": {
+  "en": {
+   "findIt": "Barbell on the floor, open space",
+   "setUp": "Wide stance, toes out, hands inside knees, stand up"
+  },
+  "hi": {
+   "findIt": "ज़मीन पर बारबेल, खुली जगह",
+   "setUp": "पैर चौड़े, पंजे बाहर, हाथ घुटनों के अंदर, उठें"
+  },
+  "te": {
+   "findIt": "నేలపై బార్‌బెల్, ఖాళీ స్థలం",
+   "setUp": "పాదాలు వెడల్పు, కాలివేళ్లు బయటకు, చేతులు మోకాళ్ల లోపల, లేవండి"
+  }
+ }
+}

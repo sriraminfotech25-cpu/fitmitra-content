@@ -1,5 +1,9 @@
 {
  "files": {
+  "exercise_cues.json": {
+   "bytes": 113764,
+   "sha256": "5d5876ff4877fe632281b78f711273ef7459a447f145f7c14fb11eeacadcba5b"
+  },
   "foods.json": {
    "bytes": 95694,
    "sha256": "2af2e1c1b6fbb9fa155b77250be1976aba6cc39b7a6c737dec8728a4cfcec822"
@@ -31,6 +35,10 @@
   "images/back_extension.webp": {
    "bytes": 73560,
    "sha256": "6d428efde3fdbfe6af8818e7ff151c48d2626b10ddcdaa3f81206a3998b69a7f"
+  },
+  "images/band_chest_opener.webp": {
+   "bytes": 24212,
+   "sha256": "f624fff005b1526de236d11651099e4f9c008eb3ca76f5eb83bc497f903bbfa8"
   },
   "images/band_pull_apart.webp": {
    "bytes": 96388,
@@ -108,10 +116,6 @@
    "bytes": 102184,
    "sha256": "c408e389bab2b600c39d1b44dcccd33eecda330986fdc749f0a763e32ccb0a00"
   },
-  "images/cable_overhead_triceps_extension.webp": {
-   "bytes": 111838,
-   "sha256": "a90b44c1c4778c51c7be2bae241eeb2695bb949e7e1955160c9096280021e086"
-  },
   "images/cable_pullover.webp": {
    "bytes": 84442,
    "sha256": "a94273ffdb7ed769eea680e3b66cd9c280142e356f169c50cc95f3305effe0d1"
@@ -123,6 +127,10 @@
   "images/calf_raise.webp": {
    "bytes": 91198,
    "sha256": "130cda1a50ce2811fbdc5693348811076add9a1eb7323aa14c2965b7e82dd5ba"
+  },
+  "images/cat_cow.webp": {
+   "bytes": 33824,
+   "sha256": "1b5ffb42752fa4935a3a971e900f4eff28c0267e67b2a6792e284a7e7b312620"
   },
   "images/chest_fly.webp": {
    "bytes": 161730,
@@ -164,6 +172,10 @@
    "bytes": 71594,
    "sha256": "c404ad572910f03047dc01fa5ffdd7cc1b387d2fdde7bb7eb6cebda24620dc50"
   },
+  "images/crunch.webp": {
+   "bytes": 35344,
+   "sha256": "4439573c5ba15a20f1efbc83e9936fae823b1b033211b7fb9cba7477f7745532"
+  },
   "images/curtsy_lunge.webp": {
    "bytes": 81680,
    "sha256": "ec16a03dd1a72009004d286c6788734823639284a67b450382cc81ab5b19a6c4"
@@ -173,8 +185,8 @@
    "sha256": "6dc426b322ceb86c23d5b671c8914ca0de2b5a6232c7039b3f9df866c1ce5503"
   },
   "images/dead_bug.webp": {
-   "bytes": 96660,
-   "sha256": "8c9a2b9797ec5a8ffdb8a68312d8f6c7c827de4a17bdc0dd9aeaf6b8f2ce6837"
+   "bytes": 34692,
+   "sha256": "e16ce0bbfb54feeb5939c27bbe017ce712696ebd266d6099629fddede2052aab"
   },
   "images/deadlift.webp": {
    "bytes": 48924,
@@ -287,10 +299,6 @@
   "images/hanging_knee_raise.webp": {
    "bytes": 98178,
    "sha256": "0a599b303e0f9643218aa6bee2d33b47966f7e105833b12eeea515710e907336"
-  },
-  "images/hanging_leg_raise.webp": {
-   "bytes": 90012,
-   "sha256": "a11987cebbb0b689a545ae863887242919f5533117ff17573d2deeb43f9574dc"
   },
   "images/high_knees.webp": {
    "bytes": 55752,
@@ -3892,6 +3900,10 @@
    "bytes": 142604,
    "sha256": "79f5d9e73ffae62fa288f500c5419b4894e31fabbdcf1ac3db2dc44e9bfe6a74"
   },
+  "images/machine_shoulder_press.webp": {
+   "bytes": 55180,
+   "sha256": "f0a742df1902879e188ac569385ca3cd9ca2b1079a54a30791a73d1d88131a68"
+  },
   "images/man_maker.webp": {
    "bytes": 80938,
    "sha256": "d73c05727b37fe6434593ae45811d6d84a092a4f139007ebb165e614b8e40b7e"
@@ -3932,6 +3944,10 @@
    "bytes": 144744,
    "sha256": "a76a138bab9bbedcbccaa7f6a77de84ed4add6a7cd887d32379bdf5fa8aad886"
   },
+  "images/pelvic_tilt.webp": {
+   "bytes": 31336,
+   "sha256": "8739e40438d63a572dcaf3fc5341acc81bbb2ea23d58b9457db757c26b653220"
+  },
   "images/pendlay_row.webp": {
    "bytes": 85706,
    "sha256": "ef76c092cd1ce159a399573eb0c5f058704720dc2844d29118af5803d96eaaf2"
@@ -3971,10 +3987,6 @@
   "images/reverse_curl.webp": {
    "bytes": 115622,
    "sha256": "8eda2e969858dd3c9c5b75b0d44c26482dfccc861c3376be2904ffddaf73d813"
-  },
-  "images/reverse_fly.webp": {
-   "bytes": 48800,
-   "sha256": "d9a46e4c5a8eae4460f12ea4f66f5e4fb1e3b4ae6f92d6d55699cb199e5e531e"
   },
   "images/reverse_lunge.webp": {
    "bytes": 42374,
@@ -4152,6 +4164,10 @@
    "bytes": 69006,
    "sha256": "3b1762a35be54c73076a84c03a60884944f0b3cf294388e32452f7ea63053575"
   },
+  "images/walking_lunge.webp": {
+   "bytes": 27990,
+   "sha256": "03cb4d99a40b08daa342163bd9773df893dc9bbbc43e359f123907a5a7e07980"
+  },
   "images/walking_step_up.webp": {
    "bytes": 59986,
    "sha256": "0f939a4a51260672f19094b78c205caea7acc9eeb7f2233111f9e79bae0b23d6"
@@ -4189,9 +4205,9 @@
    "sha256": "ea9e74d9de54e9a1000b5428401d3ce5a49f996b5d9b71893943775ddfd81a00"
   },
   "prescriptions.json": {
-   "bytes": 2467,
-   "sha256": "b1a32fec1381897a9ff09fca8404ec410402dfe3410dec4d1c986aacd6a36369"
+   "bytes": 2471,
+   "sha256": "2b244639ab82b68a26c5bff32a63f22db7263851a42e449c44713056cb247605"
   }
  },
- "version": 6
+ "version": 7
 }
