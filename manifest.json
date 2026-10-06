@@ -4204,10 +4204,702 @@
    "bytes": 43790,
    "sha256": "ea9e74d9de54e9a1000b5428401d3ce5a49f996b5d9b71893943775ddfd81a00"
   },
+  "motion/90_90_breathing.webp": {
+   "bytes": 61772,
+   "sha256": "a4598d44fc0f4a46cf39a60d166b1f140bcdaea90f2614b912f404edb6c13d46"
+  },
+  "motion/ab_wheel_rollout.webp": {
+   "bytes": 57608,
+   "sha256": "18be477bec1645470937aad5c65aa91bbe257f9b602a174ce0d6364f6d5cd700"
+  },
+  "motion/ankle_rocker.webp": {
+   "bytes": 64640,
+   "sha256": "7f3959575b913711b03ee3c06cd2074d806ec54e17bde0a8ba8bc03d0dcd0c11"
+  },
+  "motion/arm_circle.webp": {
+   "bytes": 44502,
+   "sha256": "1236f573f109c6dbacca4afa69fee79d4b98dca827fea3c6f2460cafafa8aa11"
+  },
+  "motion/arnold_press.webp": {
+   "bytes": 48452,
+   "sha256": "9ca024b4e8ba83820fa7454e73fa9ba2d89dcc47eeee718282c6dbadb76e7bc9"
+  },
+  "motion/assisted_pull_up.webp": {
+   "bytes": 78568,
+   "sha256": "b60d7c112bf773112320a5a4274695c0957c042128cc86e83dce12f029893a77"
+  },
+  "motion/back_extension.webp": {
+   "bytes": 49132,
+   "sha256": "3597e4e852857e85c06b03a01a3b81bc4814b0225060f31926f63665a84c7828"
+  },
+  "motion/band_chest_opener.webp": {
+   "bytes": 43246,
+   "sha256": "1133c4ee14271b27f560216ce3990c7f52635fffd2e5eb569a648eee53efb3de"
+  },
+  "motion/band_pull_apart.webp": {
+   "bytes": 58816,
+   "sha256": "555d0cae38ab997bb4174d07bba9e9d67cb0a90f22dfa618bd7ad49df0d22cb8"
+  },
+  "motion/band_row.webp": {
+   "bytes": 61072,
+   "sha256": "5b8859652c8b1f3f458c6b12532606a8f9ece7f4fdc6f3b0b44487227b161307"
+  },
+  "motion/band_shoulder_external_rotation.webp": {
+   "bytes": 50080,
+   "sha256": "3506ede3627098971b67b8001f37d355758178071c8b173b616459ef82523e63"
+  },
+  "motion/battle_rope_slams.webp": {
+   "bytes": 52420,
+   "sha256": "184c412469ca30ee7e42f0cbbaa4da7625faf5f776ba8457074cccb6d3792d24"
+  },
+  "motion/bear_crawl.webp": {
+   "bytes": 99948,
+   "sha256": "8f79b50cd93e19aa1ad42164807b73eba910d93d5c3f30981d32b2f294d63984"
+  },
+  "motion/bench_dip.webp": {
+   "bytes": 68320,
+   "sha256": "df91ed753b132ab16999609801d73146b9ea8f20b0adc5331bf2e8b3eb3258d8"
+  },
+  "motion/bench_press.webp": {
+   "bytes": 59360,
+   "sha256": "d133c26d3d9d1c780b15fa288824d2b813fbe3053d88c3bae4d149040c1ee178"
+  },
+  "motion/bent_over_row.webp": {
+   "bytes": 75546,
+   "sha256": "f2333ee929fa7cc8ee63899a5f9fe77a13a7bdb109d232481db6c9b513cf8324"
+  },
+  "motion/biceps_curl.webp": {
+   "bytes": 32786,
+   "sha256": "eac5edf030eb6a4e68f6879b7216cda6eee3a509c044824948ef8d0e09c1eab9"
+  },
+  "motion/bicycle_crunch.webp": {
+   "bytes": 80690,
+   "sha256": "fa9e1182b4315afa3b3d8842682c25c0b153483dddcb6a33245eecae4ea88449"
+  },
+  "motion/bird_dog.webp": {
+   "bytes": 41104,
+   "sha256": "1a6c0542a6a491b84fd46d241051d97c1e251d8537c1d61cb5118cdba3332f20"
+  },
+  "motion/box_jump.webp": {
+   "bytes": 47542,
+   "sha256": "a701096b3275f344045285dc39617bae4b5495acecc5f8d4e5ec2f09582ac46b"
+  },
+  "motion/bulgarian_split_squat.webp": {
+   "bytes": 49396,
+   "sha256": "786da0368747ec26cd4133865b2c38beeb9ebb51300deba912f009b70a7a90aa"
+  },
+  "motion/burpee.webp": {
+   "bytes": 37760,
+   "sha256": "beb5f1730c29577e72ddc924767606376a1ebecdc72864c0f4a279d69e3d615b"
+  },
+  "motion/cable_crossover.webp": {
+   "bytes": 70998,
+   "sha256": "4126abeeb9acbb754d603160b7b63dd54c4fb4d0b9c70f2f1ac47372a0e1b596"
+  },
+  "motion/cable_curl.webp": {
+   "bytes": 90242,
+   "sha256": "375ec05750a7d08714b89de3f9b4b963abdd48d294066bd18f6dcf4fb5f9e42e"
+  },
+  "motion/cable_face_pull_external_rotation.webp": {
+   "bytes": 76336,
+   "sha256": "529dbf9ff6342b4e3838276e58cf28de7f0be8fc922da8428a1a437172acb61c"
+  },
+  "motion/cable_fly.webp": {
+   "bytes": 94880,
+   "sha256": "990e38eea342ff76cbd2526d8ceb5c77294ab9acd001704b25c37b9d64b9e64c"
+  },
+  "motion/cable_lateral_raise.webp": {
+   "bytes": 81942,
+   "sha256": "9a70bb9516ae4146d3e12edd969b6f29eb765a0261be4a7f180b824ab7f997c7"
+  },
+  "motion/cable_pullover.webp": {
+   "bytes": 72744,
+   "sha256": "873b82dec8edc1bc762fde54516cdb034cf610f7271e79b393400de60128a679"
+  },
+  "motion/cable_wood_chop.webp": {
+   "bytes": 78362,
+   "sha256": "b58bca6274549d1f39b62fa3a1184c0531e8c32d56425de599a4c601b2ce4cc6"
+  },
+  "motion/calf_raise.webp": {
+   "bytes": 55640,
+   "sha256": "03ba1deba3151ce0a23037d89871a803ab04d22e405ac8ab92a28a0c56fef004"
+  },
+  "motion/cat_cow.webp": {
+   "bytes": 49856,
+   "sha256": "7d54fdb9bdf617ec0f3aff614fa19c9f114cdac8c9c2e900a75ba0bd25fe6c55"
+  },
+  "motion/chest_fly.webp": {
+   "bytes": 127720,
+   "sha256": "03c9f21fa4c34d13baf1f142f939ae37db907f1b9244121a9d2e9f4e21a0fb4f"
+  },
+  "motion/chest_supported_row.webp": {
+   "bytes": 89338,
+   "sha256": "af658dc212a02c8a838b62779ea579a3179f7ee1f73a27de330acc60651a4f1a"
+  },
+  "motion/chin_up.webp": {
+   "bytes": 38902,
+   "sha256": "6ef1b9b5a42f19784567e12c4e19e1647018ecbd0d72bcc3afd1fedfcbc9a576"
+  },
+  "motion/clean_and_press.webp": {
+   "bytes": 41670,
+   "sha256": "ebb10bdf1e77fa21d57c2fe46736aabc8ae960fe15704ea77b8dfea5543ae20c"
+  },
+  "motion/close_grip_bench_press.webp": {
+   "bytes": 106984,
+   "sha256": "9b799ccb5462a4fb020438f523df794c384b04e17557c589ffe712af1b237436"
+  },
+  "motion/close_grip_push_up.webp": {
+   "bytes": 61744,
+   "sha256": "64ed59549d8a5e1e0de91d51bf5d52756387f03b5041c09ec612eb697c57bf96"
+  },
+  "motion/concentration_curl.webp": {
+   "bytes": 59918,
+   "sha256": "bebf01ec199cbd3432ffe140d2c141eb8115dec25e08e056c6671cc9c44f7682"
+  },
+  "motion/cossack_squat.webp": {
+   "bytes": 71554,
+   "sha256": "211453c38046e3a153ca6df76fabba0545e6132dfa9e48244d37e1c90843f705"
+  },
+  "motion/couch_stretch.webp": {
+   "bytes": 72468,
+   "sha256": "8709440bd3e84e56f66ffc2ef70e128ab498824621639d9c32293e646fef1b37"
+  },
+  "motion/cross_body_hammer_curl.webp": {
+   "bytes": 76990,
+   "sha256": "e203c4f03539b65cf74164a6bb688153635f4bb96609f675a9acb8b734b33f88"
+  },
+  "motion/crunch.webp": {
+   "bytes": 42692,
+   "sha256": "705009545f13bedbd54da4ffb69ab4662e306544032ad726322f1626ab9369f9"
+  },
+  "motion/curtsy_lunge.webp": {
+   "bytes": 74480,
+   "sha256": "a565ee4ff87d322bb4adfc908659320ba60b71933962436687b73e226d081c8f"
+  },
+  "motion/cycling.webp": {
+   "bytes": 71314,
+   "sha256": "52ade5d62f642b75274b851ef47e757a47cfa1c205afded80f493616c700c508"
+  },
+  "motion/dead_bug.webp": {
+   "bytes": 38232,
+   "sha256": "7f016fe019fc2e675a1414e369ef6f45e1cbfa425f867ff7c5997b83df2dd514"
+  },
+  "motion/deadlift.webp": {
+   "bytes": 37232,
+   "sha256": "02de48751ed24f4c0a08719cdb23de40b74e84a599450db23600f2fcc2618a4c"
+  },
+  "motion/decline_bench_press.webp": {
+   "bytes": 74976,
+   "sha256": "9ef66417df96788bee1e48cdbf1d8865e739615b0e44360c23ce822310abe72b"
+  },
+  "motion/decline_push_up.webp": {
+   "bytes": 75576,
+   "sha256": "1269aa3db972aecf5348ababca2ae882e1600bed03451305069e6d13f2614991"
+  },
+  "motion/deficit_push_up.webp": {
+   "bytes": 40464,
+   "sha256": "0afcbff2748d226b890e3c6452c076336d8ff85846aa476b631f204ca00944be"
+  },
+  "motion/devil_press.webp": {
+   "bytes": 38774,
+   "sha256": "c5f0a9b2a63a50254bbf1bc112e48288b8afd3d3f405c069effe36d9a778105e"
+  },
+  "motion/diamond_push_up.webp": {
+   "bytes": 84720,
+   "sha256": "808473d91032e3eec04ccb253d229e7852b2f9c8827b684621615e4f57ac982b"
+  },
+  "motion/dip.webp": {
+   "bytes": 59090,
+   "sha256": "ac9bc931e88c1a69f647437dbdd4b9f36d260c04dbf559feb88369f74c7cb7ef"
+  },
+  "motion/dumbbell_shoulder_press.webp": {
+   "bytes": 58836,
+   "sha256": "26bca16861ce48c139ade4a30ead023c2cf4437c0cf2ea625e4e707f51f28ea6"
+  },
+  "motion/dumbbell_snatch.webp": {
+   "bytes": 43226,
+   "sha256": "239a817055d83ab2c21d767c35e5f79804bb7daa07ca552fd5eb8797613c86ea"
+  },
+  "motion/dumbbell_step_up_to_knee_drive.webp": {
+   "bytes": 41534,
+   "sha256": "1d78af83062eae3af364000bb00ca2b2f36d680632a844f20338b77ef38f5fbd"
+  },
+  "motion/ez_bar_curl.webp": {
+   "bytes": 50678,
+   "sha256": "7185fc23d9ca2a74a6220018ddf54b3b1ef0fbc215c126b132bbfdcab0138e5b"
+  },
+  "motion/face_pull.webp": {
+   "bytes": 48596,
+   "sha256": "e9f8b2f049249b25d3ca33510f328d35f018b32b5efdec466ec45917f7c5fcc6"
+  },
+  "motion/farmer_carry.webp": {
+   "bytes": 41698,
+   "sha256": "c43271d1110ed642ff3968ebd7ce8717dd4c2e838f0e28a756316a6e1ff8a9d9"
+  },
+  "motion/feet_elevated_push_up.webp": {
+   "bytes": 92228,
+   "sha256": "1e5194fd093cb2bfe3994023a347e4fc0ded8e943cf533e377e09741c3840f39"
+  },
+  "motion/flutter_kick.webp": {
+   "bytes": 61828,
+   "sha256": "2c2a523450f0f3c8ef344baf15293aa2c86b5a5c6c56edc886a49ed09b2e2025"
+  },
+  "motion/forearm_stretch.webp": {
+   "bytes": 35172,
+   "sha256": "d258b9257f1099b85d2d39598835d3c1cf401cc414c1a7b9a3331dadca360ae8"
+  },
+  "motion/front_raise.webp": {
+   "bytes": 43216,
+   "sha256": "97a19b080aef4514836ff629135ad16bf3811468cbb71e4e4e0813cf85907197"
+  },
+  "motion/front_squat.webp": {
+   "bytes": 51568,
+   "sha256": "4736c1bd404ef8c8a56bed921dd671febab8d71081bf4e5e01861a8bc847ea2f"
+  },
+  "motion/glute_activation_walk.webp": {
+   "bytes": 67486,
+   "sha256": "10ea887e0cea75285fc635e81d02b8b853b8701b1b74ec8fdf258e81f163e2e7"
+  },
+  "motion/glute_bridge.webp": {
+   "bytes": 41834,
+   "sha256": "f3a4a6beba8d226696dd5ab73f0c42ba2ba0120434093af7eb608c578ce73c1f"
+  },
+  "motion/goblet_squat.webp": {
+   "bytes": 44138,
+   "sha256": "0a8f56826cb6838849c7096455ffc652b3695fe271b458f9e572a1e3354b3208"
+  },
+  "motion/good_morning.webp": {
+   "bytes": 56862,
+   "sha256": "68dcf5fc47f3aaec987a33200ff00fd25f2e46f76993c4cd77712767800383b0"
+  },
+  "motion/hack_squat.webp": {
+   "bytes": 96982,
+   "sha256": "6b6de4a353055d4dae4d9e18fe74ba697e1c2919d78e9f6751f83aa06ec16ad2"
+  },
+  "motion/hammer_curl.webp": {
+   "bytes": 47162,
+   "sha256": "bf86dfd93e67830c07cc6291b7e2705f49d39c9694559749dd4a6242f2b5ada0"
+  },
+  "motion/hamstring_curl.webp": {
+   "bytes": 72162,
+   "sha256": "da76355a092ea55e4d7c5c10d9060bb1d32a6daa2476a3dbc7dc4e0af6fa8005"
+  },
+  "motion/handstand_hold.webp": {
+   "bytes": 42266,
+   "sha256": "3bfe24d66b6278eb3065582bbcbd4b4fc72c79cd235cbb1a73a42dc19684d785"
+  },
+  "motion/handstand_push_up.webp": {
+   "bytes": 54932,
+   "sha256": "85bf7baa34b8e6f4456f7d563e1f3e5f0e4ac31def241ace5e0ac4cb7b5acc98"
+  },
+  "motion/hanging_knee_raise.webp": {
+   "bytes": 86762,
+   "sha256": "31b737efc9e394ebd154d09e9e2f313f160547c611a39ad7f6a73cdda86c8b91"
+  },
+  "motion/high_knees.webp": {
+   "bytes": 55934,
+   "sha256": "3d8f3ee5e77b283d21df93725fb7e6e919cfbf42d64a4f5611ce728804da45f6"
+  },
+  "motion/hip_flexor_stretch.webp": {
+   "bytes": 69198,
+   "sha256": "4958b8484ff3f73fa119312a71685a45dafe7ee13e720031db5655f3c2a6cdf0"
+  },
+  "motion/hip_thrust.webp": {
+   "bytes": 50262,
+   "sha256": "0e164e3614f71ca8990aa694dc12f03a12a9038a10cb12dde482845c01e286ed"
+  },
+  "motion/hollow_hold.webp": {
+   "bytes": 49726,
+   "sha256": "d8e45d7ae70c952c4764a1a975a6dc78e630af0e60c2fc02035ba768e1f06954"
+  },
+  "motion/incline_dumbbell_press.webp": {
+   "bytes": 73126,
+   "sha256": "3b1e960e82376529b6bd51aa1879b6f82af0fa34c809624d73815f08b29c5814"
+  },
+  "motion/incline_machine_press.webp": {
+   "bytes": 99822,
+   "sha256": "2c22fecd2133113b30f5effd1fc8a31a2fda21f8a99e27ea7a5ebfa7b5756791"
+  },
+  "motion/inverted_row.webp": {
+   "bytes": 43514,
+   "sha256": "8ab80e64f4eb49d2458fc6559b9bdf9a2bc76ee31c0b2e478ad8fb1639960d93"
+  },
+  "motion/jump_rope.webp": {
+   "bytes": 58048,
+   "sha256": "45ec85d9f56fb4bfd369bf888d85ae230a1fd25097e09e49fa4aca923ffbe976"
+  },
+  "motion/jump_squat.webp": {
+   "bytes": 45342,
+   "sha256": "94bec63f8ae5c8b7354fffa3cae4ded5e9086dc52866e78c758a67d5bc4af454"
+  },
+  "motion/jumping_jack.webp": {
+   "bytes": 40384,
+   "sha256": "f135c9c7d9c9f467ea7d90a4fecd7908c19bc9c55c6889a40017400b2e50affe"
+  },
+  "motion/kettlebell_swing.webp": {
+   "bytes": 66512,
+   "sha256": "99ea09a8660af4784e2ff7dff27d17cff7d1e2286540be89c4fced56af0d593d"
+  },
+  "motion/kickback.webp": {
+   "bytes": 86128,
+   "sha256": "7b39c40fe5c6c656202be0fdc48b4945582f38b95e21ab842256025405b7daa9"
+  },
+  "motion/landmine_press.webp": {
+   "bytes": 60628,
+   "sha256": "ac70e0296d693e21c819c30325571bfda3069beb4da2faff237f1c238bd9ba88"
+  },
+  "motion/lat_pulldown.webp": {
+   "bytes": 75216,
+   "sha256": "b8969932afdcaabe8dc9f6734dc231e3a5eedc275b9c04f857351749b4e50bd5"
+  },
+  "motion/lateral_raise.webp": {
+   "bytes": 50132,
+   "sha256": "d854fe4e6b0e9570e45c08aa8c2be640fbcf23fa3da43856426da19a53436c21"
+  },
+  "motion/lean_away_lateral_raise.webp": {
+   "bytes": 57584,
+   "sha256": "a9d7b3e18471b582c527f326f5df491bb4f8c2bebed8ea1334135aff178606f5"
+  },
+  "motion/leg_extension.webp": {
+   "bytes": 85350,
+   "sha256": "82cd7dc553793c36e1db56d93f746dc3c8d379b2c7449e9e5c7f91922ce016e6"
+  },
+  "motion/leg_press.webp": {
+   "bytes": 83456,
+   "sha256": "32e7acf6ef8c67e2556b693efc36652af71f4a13260e9cfd379b7efcda14a662"
+  },
+  "motion/leg_raise.webp": {
+   "bytes": 60092,
+   "sha256": "534b450cde0060a7935c6d9ce6be4eaf0aa6c65c62d8eedbc54a7fbcf6ca9df1"
+  },
+  "motion/leg_swing.webp": {
+   "bytes": 61256,
+   "sha256": "08989ac613a20b5f7a7cbf22a24ddfb182b92e379ea40f27ab4701de5a8c636d"
+  },
+  "motion/low_incline_dumbbell_press.webp": {
+   "bytes": 65798,
+   "sha256": "06acdd346809392aadb3834b5d3c0038fc765130e51eed34c0fb0f0332f622ba"
+  },
+  "motion/lunge.webp": {
+   "bytes": 43864,
+   "sha256": "7a9396b372a53d0c4296c9ea924c35aed27e9dbca4c058c5242b508dd6101445"
+  },
+  "motion/machine_chest_press.webp": {
+   "bytes": 114616,
+   "sha256": "96c90f5122233882092ad1592bdfad6865d5928cb6ed45938197c0120bb95887"
+  },
+  "motion/machine_row.webp": {
+   "bytes": 101998,
+   "sha256": "951598acc9d119d7401926d20607310d99f24897c8359e1e523e8d94a5f0fce3"
+  },
+  "motion/machine_shoulder_press.webp": {
+   "bytes": 97250,
+   "sha256": "aa3717e8276732b45ff9dd84a56ed53b840590a10fd9f8c7df46bd89bc082b1b"
+  },
+  "motion/man_maker.webp": {
+   "bytes": 63062,
+   "sha256": "8e9bedaf5e477f5024f49ac94b1675581c27c41856022c9b8cdd19f4c32c28a3"
+  },
+  "motion/march_in_place.webp": {
+   "bytes": 54064,
+   "sha256": "ef49820a838fa2efd3b71295ba819fd9ac3cb6aa6c08268870c120a923624ee6"
+  },
+  "motion/meadows_row.webp": {
+   "bytes": 70672,
+   "sha256": "f789c7435bb50ff0014751772514927198523074fcacbe4090b8111a8b43f794"
+  },
+  "motion/mountain_climber.webp": {
+   "bytes": 46986,
+   "sha256": "f41f809138165804856b05451949cbaa9fe39c36bcaf9f04836000e58dbca32c"
+  },
+  "motion/neutral_grip_pulldown.webp": {
+   "bytes": 87818,
+   "sha256": "c74ccd13c715a768c17db7ac0e844aaf9d3a5c254f82bbfd6f69bed67cf347fb"
+  },
+  "motion/nordic_curl.webp": {
+   "bytes": 53390,
+   "sha256": "a96f4cdb4a0c2b6bf360b3876af26e114267afd4d25367226b51d13b8be6a738"
+  },
+  "motion/overhead_press.webp": {
+   "bytes": 46568,
+   "sha256": "8321bc0af3d65067843762630ecbbd4868359bb821191eef0b3265a2d851d1b8"
+  },
+  "motion/overhead_triceps_extension.webp": {
+   "bytes": 35362,
+   "sha256": "4ee1ddf2e537ac7b3bd5b55947a12d87a5bfd3404de446e8c4b97b15199f0d3b"
+  },
+  "motion/pallof_press.webp": {
+   "bytes": 78692,
+   "sha256": "2bff7e4ee7b656c412cee5d7f91726bf678306118f2a523e4f4a0e3ddfed34f9"
+  },
+  "motion/pec_deck_fly.webp": {
+   "bytes": 107970,
+   "sha256": "56ff39508ccb2b885d4a682d46c3a6c5468bc8dc1f42f530c324bfdc89be6704"
+  },
+  "motion/pelvic_tilt.webp": {
+   "bytes": 39334,
+   "sha256": "082567950c6a1424ac0ac8cf189e0471ac2a44c08fa17499a46f513e4efbc5ce"
+  },
+  "motion/pendlay_row.webp": {
+   "bytes": 67378,
+   "sha256": "af25b97b652b518dbbeb7c8d2947edab518878b9780b45e608f7f538638d11b9"
+  },
+  "motion/pike_push_up.webp": {
+   "bytes": 64236,
+   "sha256": "64cf1a2374d6cbd8102dd048bd62ac605c9781fa56febf14069cd876b429f837"
+  },
+  "motion/plank.webp": {
+   "bytes": 31402,
+   "sha256": "fa1090986ea9b538ed6e8eaccc875a64ea1f9f6e00ccdb67c7b2bf8e96e6918c"
+  },
+  "motion/pull_up.webp": {
+   "bytes": 41292,
+   "sha256": "ea3c2151bfefef75807f6e88eebdce319d61f494962bc182dd2003fc28641845"
+  },
+  "motion/push_up.webp": {
+   "bytes": 29978,
+   "sha256": "a724a0d01b01faa2395b4c634cc9bb1fb6751b80ed0aac4fa038f242939fc086"
+  },
+  "motion/push_up_plus.webp": {
+   "bytes": 38898,
+   "sha256": "cd9d8d77b0ecfd32bf6a325e8021f4e80a74d4802a2fc3335d65faa9a2e80ca6"
+  },
+  "motion/rear_delt_fly.webp": {
+   "bytes": 76782,
+   "sha256": "1f9128d85812f9bd4908f75aeafca9df95874591c0e5f885615a85983f319a0f"
+  },
+  "motion/renegade_row.webp": {
+   "bytes": 53340,
+   "sha256": "d0e003ed3d80dc994789a974ef770d6418f771eaf5fc572bcf9baee03a6682c4"
+  },
+  "motion/reverse_crunch.webp": {
+   "bytes": 57114,
+   "sha256": "f8692cb4e15131af3d164106443418c44362ee9b80c40ce4a8d1e865d7caedea"
+  },
+  "motion/reverse_curl.webp": {
+   "bytes": 70772,
+   "sha256": "3b1fa1217dd357d39afa408e27c69839ac5391d7e0f8292f95f2e8020bb5fa06"
+  },
+  "motion/reverse_lunge.webp": {
+   "bytes": 38402,
+   "sha256": "3fb461f5562d27b495403bd01f3472ad7ef17a6a775f84d80637d613b0737d0d"
+  },
+  "motion/ring_push_up.webp": {
+   "bytes": 47666,
+   "sha256": "cb104e5dd5c1e08c8e3f505d52890c9c811e9ea7402e071ccca10b4ece32b5a4"
+  },
+  "motion/romanian_deadlift.webp": {
+   "bytes": 48882,
+   "sha256": "dd18e9ed27f24cf39c46920eea3d428a0d0b8ad7e314050ef1da7c33423bc218"
+  },
+  "motion/rope_hammer_curl.webp": {
+   "bytes": 80634,
+   "sha256": "4283f1aeb28724578e6c1e620e4f363ae3b8d220277ced6ce4b6d3d9c08bc1aa"
+  },
+  "motion/rowing_erg_sprint.webp": {
+   "bytes": 92508,
+   "sha256": "7ebe748dad9d142796df02aac08e93f549244cfac40410fe6d6f698c52e383a1"
+  },
+  "motion/running.webp": {
+   "bytes": 51802,
+   "sha256": "aa1fdbdacd4877dcd358716269dc369a2267dc80f8b3d6b6fd602d3bcf141ce6"
+  },
+  "motion/russian_twist.webp": {
+   "bytes": 95438,
+   "sha256": "5e56fdf662e395bf2f4eaf7fb24b9594a997bc0072d40f40fe83e76af4533d1a"
+  },
+  "motion/scaption_raise.webp": {
+   "bytes": 45218,
+   "sha256": "d6fcb4f62261019c7344123b13afdffc063c34ae84244f0798f206d3f41f7e8a"
+  },
+  "motion/scapular_pull_up.webp": {
+   "bytes": 62600,
+   "sha256": "c10bbbe4cb640b6185edc1585c41ab601f47ed464b305f5bcb70e5a8627992fe"
+  },
+  "motion/seal_row.webp": {
+   "bytes": 53084,
+   "sha256": "7b3997f263df6226917e8c56b38d0da3cf21a80ad5058828bbb962987b3465ba"
+  },
+  "motion/seated_cable_row.webp": {
+   "bytes": 83172,
+   "sha256": "e0ee02862a69b9c9042258d9278937bab7fad5d0c21e44b7438a783477a6906d"
+  },
+  "motion/seated_calf_raise.webp": {
+   "bytes": 80730,
+   "sha256": "e14fd9c6733b9bde8d04c769d8ce23800ff8bc7bd76924e557de03724fc528b8"
+  },
+  "motion/side_plank.webp": {
+   "bytes": 83602,
+   "sha256": "c73349555d801c192e7da169205c9e0dc1bdff874743601142c1864000115dc6"
+  },
+  "motion/side_plank_reach.webp": {
+   "bytes": 50396,
+   "sha256": "62c992bf008b48ad985f381242abdb5c53ba9ff94804932db59cc265a43714e4"
+  },
+  "motion/side_plank_reach_through.webp": {
+   "bytes": 49962,
+   "sha256": "2daaaec711d8dd4948cc016ee33823dd8dee5dde915fde1e166974a86098d8d8"
+  },
+  "motion/single_arm_chest_press.webp": {
+   "bytes": 67880,
+   "sha256": "ff15e5c6579e271e308fd90dc6fe9784c64646b6ee3856ccf4f254ff93efc4ba"
+  },
+  "motion/single_arm_dumbbell_row.webp": {
+   "bytes": 68826,
+   "sha256": "cfb07e58ed56da4de202d8cd1dfd51da697a73a8b616a12aeb3747b5ce3c1e02"
+  },
+  "motion/single_leg_glute_bridge.webp": {
+   "bytes": 34240,
+   "sha256": "40b787b21277598d115bcbf69bd73a0042da5006fcf9942e071173426acad496"
+  },
+  "motion/single_leg_romanian_deadlift.webp": {
+   "bytes": 39130,
+   "sha256": "cc313fd5c52b78008151f67d245b69bc32fde8af047106ad7bfd75ef3b919003"
+  },
+  "motion/skater_jump.webp": {
+   "bytes": 67634,
+   "sha256": "89bf19ccfcc26664cc77f19d28e44db9a033cb13bc1efa4cb2395e0232142d9d"
+  },
+  "motion/skipping.webp": {
+   "bytes": 38508,
+   "sha256": "a98004d80659459de12759f644864c31335be690f5fbdb6b0ab72a7ff94fa3a8"
+  },
+  "motion/skull_crusher.webp": {
+   "bytes": 98054,
+   "sha256": "d1bbfd14b52620574dd88f644a2f7ddec4f64cb13f2424b6422896280806c61d"
+  },
+  "motion/sled_pull.webp": {
+   "bytes": 45314,
+   "sha256": "67b46b3964064dfd85d23a584131d24590fbfe764d4d67672fc3a2d0853638e1"
+  },
+  "motion/sled_push.webp": {
+   "bytes": 82196,
+   "sha256": "f3c4c0ec8b498459057e06c2de7d9c3a2ba90dc862b257bc7e70624cf2a370a0"
+  },
+  "motion/smith_machine_squat.webp": {
+   "bytes": 100430,
+   "sha256": "f63d5c53b15c558ecf3fd16582c8f01fda5b78f79b392c4a21c3ffbba42d34d9"
+  },
+  "motion/spider_curl.webp": {
+   "bytes": 104938,
+   "sha256": "523bcb9b38d2c652c6b5c7d480a95081e1335af3319677d8c1bf73ffa80f78ee"
+  },
+  "motion/squat.webp": {
+   "bytes": 35500,
+   "sha256": "7d2795d073a5ba64551e2043fafed1bf33d30810444902f0c46ca3d0a0124eb1"
+  },
+  "motion/step_up.webp": {
+   "bytes": 35908,
+   "sha256": "016844dababef44880ae25d79be64d864100d1fc4f1c596d0c8300fe2f705dc3"
+  },
+  "motion/straight_arm_pulldown.webp": {
+   "bytes": 68062,
+   "sha256": "5925c7ef4ed9bf0c5004d5b35a7bc08e2eed6d60a97c1ae7ab377ef2e74ad16a"
+  },
+  "motion/suitcase_carry.webp": {
+   "bytes": 43754,
+   "sha256": "345961f4c82d647065e30f8795b0bc7f9ce8924b3a85e5185f4e10b7f5cdb77e"
+  },
+  "motion/superman_hold.webp": {
+   "bytes": 88752,
+   "sha256": "c303a2f8f595fa4bc55edab657a9f78ff364b36045c1e755518cd9795668fc0b"
+  },
+  "motion/svend_press.webp": {
+   "bytes": 74226,
+   "sha256": "b40549794010cfe4e683c313b76cdc87df12de762055ba784ecdbd32f7f2a1e9"
+  },
+  "motion/t_bar_row.webp": {
+   "bytes": 89948,
+   "sha256": "b5fa1e01e19b3141bbad2f4beae440f1a4bd279ac14641a9a8f9db2744148722"
+  },
+  "motion/thoracic_rotation.webp": {
+   "bytes": 49618,
+   "sha256": "1a932ed8f675e6fec9c18688152108d3561c9f39528cf3025e2adad3c4760669"
+  },
+  "motion/thruster.webp": {
+   "bytes": 48998,
+   "sha256": "24f305ff8d0e33dbe034a81f68254c092cdf5d1d8fa81cfc317be1ed2460b596"
+  },
+  "motion/toe_touch_crunch.webp": {
+   "bytes": 94088,
+   "sha256": "95a3209543b219e382d3011f5b340fa2238eb1ee8257a5326d6a7dd0b0d26e27"
+  },
+  "motion/trap_bar_deadlift.webp": {
+   "bytes": 55268,
+   "sha256": "ff8192b662c44e51ab5f6b16300b22f738d434c2c859998e73b7e64023a6b4c6"
+  },
+  "motion/triceps_dip.webp": {
+   "bytes": 68344,
+   "sha256": "c4f2bc0e5b110eb3f05ca4be0a13995a37735ddec9827bd6cf5b80724864b17f"
+  },
+  "motion/triceps_pushdown.webp": {
+   "bytes": 56504,
+   "sha256": "0834f718946f58cae2af4a44016e216d73a122b46c0c56df53e1caf1a5b89f98"
+  },
+  "motion/upright_row.webp": {
+   "bytes": 60596,
+   "sha256": "d9fb163d6019d7bae939e43167ba35ab3826b3db56684a90649eebe3fc61978e"
+  },
+  "motion/v_up.webp": {
+   "bytes": 50396,
+   "sha256": "9084ca32cfe7e5ef037f3a3e27b915ab0a60558b4f1031bf6d435059ff641e21"
+  },
+  "motion/walking.webp": {
+   "bytes": 80856,
+   "sha256": "fe61c6f29e7f5c3391aadf361fdfb8849ced353a4952445754cf9fe6f5b74415"
+  },
+  "motion/walking_burpee.webp": {
+   "bytes": 58510,
+   "sha256": "19451de3f791d08454dcee70b7f444928bf39a40aaa2287de00b47cad4b81162"
+  },
+  "motion/walking_farmer_carry.webp": {
+   "bytes": 49888,
+   "sha256": "2519eb97cda670cafb7ed476913a4708e236cb15852069788f82e2c6feb416dc"
+  },
+  "motion/walking_lunge.webp": {
+   "bytes": 43762,
+   "sha256": "eaf7bf58cb67ef7a6a56b7f82020fe39a47f7759bf0b4c2553fb8a85a394d75d"
+  },
+  "motion/walking_step_up.webp": {
+   "bytes": 47632,
+   "sha256": "4208a62d0aed87fb88d9331e0c458ff33d66f4ed1f226a55cccf7b32917d34d8"
+  },
+  "motion/walking_toe_touch.webp": {
+   "bytes": 51914,
+   "sha256": "90f06e875294e7891cb929af039814fff5b12cc64de1ba0ade2058b4ef513937"
+  },
+  "motion/wall_ball.webp": {
+   "bytes": 48848,
+   "sha256": "7fba79d836de4b5cf1dcd1f2703df602dddf97d90c827a11fa25c0d8d16a6e4e"
+  },
+  "motion/wall_sit.webp": {
+   "bytes": 55622,
+   "sha256": "38bc7265f274c5a5d60f2d7ce1cee05be51e4dfd8bdea7b8fb06afe0c672b91c"
+  },
+  "motion/wall_slide.webp": {
+   "bytes": 55420,
+   "sha256": "620b2a91fc52b6d8346d4c8443a9cdecc780c47f9cf187dc773ad4073fabe7ed"
+  },
+  "motion/worlds_greatest_stretch.webp": {
+   "bytes": 51860,
+   "sha256": "146d9c01513eb99f7c90510b1b5598dd3573161bbfa108950da8b2fc5193ed6a"
+  },
+  "motion/wrist_circle.webp": {
+   "bytes": 35722,
+   "sha256": "a9489c8f2901e1f0ff6601be015629427b77760f18bb8e6c1be6a9b941432f71"
+  },
+  "motion/y_raise.webp": {
+   "bytes": 113978,
+   "sha256": "a71538e32599efcda723899aadbaba1526713ba76a3d68eb6b06049cc52db279"
+  },
+  "motion/z_press.webp": {
+   "bytes": 59776,
+   "sha256": "71962d3aa01b2ffcffa10d321678434106072b7eb05f68f84f65d45cdf6b5d39"
+  },
   "prescriptions.json": {
    "bytes": 2471,
    "sha256": "2b244639ab82b68a26c5bff32a63f22db7263851a42e449c44713056cb247605"
   }
  },
- "version": 7
+ "version": 8
 }
