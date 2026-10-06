@@ -1,36 +1,39 @@
 {
- "version": 2,
+ "version": 4,
  "sources": [
-  "ACSM Position Stand on Resistance Training (2026): strength ~80% 1RM 2-3 sets; hypertrophy any load taken to 2-3 reps in reserve, ~10 sets/muscle/week; endurance <50% 1RM 15-25 reps",
-  "Strength Level beginner standards (195M lifts): bench 0.5, squat 0.75, deadlift 1.0 x bodyweight; women ~0.8 lower body / ~0.65 upper body",
-  "Compendium of Physical Activities 2024: resistance training moderate 5.0 MET"
+  "ACSM 2026 healthy-adult resistance training overview: individualize effort and volume; training to failure is not required. https://acsm.org/resistance-training-guidelines-update-2026/",
+  "FitMitra first-session defaults, not medical prescriptions. Bodyweight ratios, sex factors and intensity are legacy load-estimation heuristics, not measured 1RM or validated individual strength tests. Adjust to comfortable technique and available equipment.",
+  "The installed app uses repsMax, not a selectable rep range; rest and hold targets apply per goal, not per exercise. Two or three sets are conservative app defaults, not a complete weekly programme.",
+  "Automatic history-based load and cardio increases are disabled: one set does not establish technique, effort or symptom tolerance. Increase manually only after repeated comfortable sessions; ask a qualified trainer when unsure.",
+  "Resistance calories use one fixed 5-MET estimate including rest. This cannot distinguish light work, heavy work, holds or individual effort; do not treat calories as measured or use them to determine food compensation.",
+  "NHS general exercise guidance: stop and seek medical advice for chest pain or dizziness. https://www.cheshireandmerseyside.nhs.uk/your-health/surgery-school/getting-active/"
  ],
  "goals": {
   "fat_loss": {
-   "sets": 3,
-   "repsMin": 12,
-   "repsMax": 15,
-   "restSec": 60,
+   "sets": 2,
+   "repsMin": 8,
+   "repsMax": 12,
+   "restSec": 90,
    "intensity": 0.65,
-   "holdSec": 30,
-   "cardioMin": 30
+   "holdSec": 20,
+   "cardioMin": 15
   },
   "maintain": {
    "sets": 3,
    "repsMin": 8,
    "repsMax": 12,
    "restSec": 90,
-   "intensity": 0.75,
-   "holdSec": 45,
+   "intensity": 0.7,
+   "holdSec": 30,
    "cardioMin": 20
   },
   "muscle_gain": {
-   "sets": 4,
+   "sets": 3,
    "repsMin": 6,
-   "repsMax": 10,
+   "repsMax": 12,
    "restSec": 120,
-   "intensity": 0.8,
-   "holdSec": 45,
+   "intensity": 0.7,
+   "holdSec": 30,
    "cardioMin": 15
   }
  },
@@ -100,6 +103,78 @@
   "lat pulldown": {
    "ratio": 0.5,
    "region": "upper"
+  },
+  "machine chest press": {
+   "ratio": 0.5,
+   "region": "upper"
+  },
+  "chest press": {
+   "ratio": 0.5,
+   "region": "upper"
+  },
+  "machine row": {
+   "ratio": 0.5,
+   "region": "upper"
+  },
+  "seated cable row": {
+   "ratio": 0.5,
+   "region": "upper"
+  },
+  "cable row": {
+   "ratio": 0.5,
+   "region": "upper"
+  },
+  "machine shoulder press": {
+   "ratio": 0.35,
+   "region": "upper"
+  },
+  "leg extension": {
+   "ratio": 0.5,
+   "region": "lower"
+  },
+  "leg curl": {
+   "ratio": 0.4,
+   "region": "lower"
+  },
+  "hamstring curl": {
+   "ratio": 0.4,
+   "region": "lower"
+  },
+  "hack squat": {
+   "ratio": 0.75,
+   "region": "lower"
+  },
+  "goblet squat": {
+   "ratio": 0.25,
+   "region": "lower"
+  },
+  "pec deck": {
+   "ratio": 0.4,
+   "region": "upper"
+  },
+  "chest fly": {
+   "ratio": 0.4,
+   "region": "upper"
+  },
+  "triceps pushdown": {
+   "ratio": 0.25,
+   "region": "upper"
+  },
+  "bicep curl": {
+   "ratio": 0.2,
+   "region": "upper"
+  },
+  "cable curl": {
+   "ratio": 0.2,
+   "region": "upper"
+  },
+  "calf raise": {
+   "ratio": 0.6,
+   "region": "lower"
+  },
+  "biceps curl": {
+   "ratio": 0.2,
+   "region": "upper"
   }
  },
  "categoryRatios": {
@@ -134,8 +209,8 @@
  "secondsPerRep": 3,
  "metResistance": 5.0,
  "progression": {
-  "weightKg": 2.5,
-  "cardioMin": 5
+  "weightKg": 0,
+  "cardioMin": 0
  },
  "machineRoundKg": 5
 }

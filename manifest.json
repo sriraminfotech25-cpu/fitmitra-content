@@ -1,8 +1,8 @@
 {
  "files": {
   "exercise_cues.json": {
-   "bytes": 113764,
-   "sha256": "5d5876ff4877fe632281b78f711273ef7459a447f145f7c14fb11eeacadcba5b"
+   "bytes": 164738,
+   "sha256": "abff5301868f72c8437514e0890ebcfa14fd55f53cf9e621c8461cb2718a6e90"
   },
   "foods.json": {
    "bytes": 723779,
@@ -4897,9 +4897,9 @@
    "sha256": "71962d3aa01b2ffcffa10d321678434106072b7eb05f68f84f65d45cdf6b5d39"
   },
   "prescriptions.json": {
-   "bytes": 2471,
-   "sha256": "2b244639ab82b68a26c5bff32a63f22db7263851a42e449c44713056cb247605"
+   "bytes": 4487,
+   "sha256": "9a090419b2b00c0e53c44659aa7858c2fa5905b24d053a6cc053eb94c862861a"
   }
  },
- "version": 9
+ "version": 10
 }
