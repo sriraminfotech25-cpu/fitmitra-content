@@ -5,8 +5,8 @@
    "sha256": "5d5876ff4877fe632281b78f711273ef7459a447f145f7c14fb11eeacadcba5b"
   },
   "foods.json": {
-   "bytes": 95694,
-   "sha256": "2af2e1c1b6fbb9fa155b77250be1976aba6cc39b7a6c737dec8728a4cfcec822"
+   "bytes": 723779,
+   "sha256": "55aea104bbe72143bc234f28daec862bc606a82aea12596fd141251969a3f128"
   },
   "images/90_90_breathing.webp": {
    "bytes": 71808,
@@ -4901,5 +4901,5 @@
    "sha256": "2b244639ab82b68a26c5bff32a63f22db7263851a42e449c44713056cb247605"
   }
  },
- "version": 8
+ "version": 9
 }
