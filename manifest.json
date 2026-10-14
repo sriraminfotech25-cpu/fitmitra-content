@@ -1,12 +1,12 @@
 {
  "files": {
   "exercise_cues.json": {
-   "bytes": 164738,
-   "sha256": "abff5301868f72c8437514e0890ebcfa14fd55f53cf9e621c8461cb2718a6e90"
+   "bytes": 165023,
+   "sha256": "b1640a3681bc2427f5ba585aff00e27937af9ce62436338245c7a0e8e29a0568"
   },
   "foods.json": {
-   "bytes": 723779,
-   "sha256": "55aea104bbe72143bc234f28daec862bc606a82aea12596fd141251969a3f128"
+   "bytes": 102066,
+   "sha256": "66ff250d4f07dff495e351f6c6ede67af020e60c79b9e626bf6e2632b5218c74"
   },
   "images/90_90_breathing.webp": {
    "bytes": 71808,
@@ -4899,7 +4899,11 @@
   "prescriptions.json": {
    "bytes": 4487,
    "sha256": "9a090419b2b00c0e53c44659aa7858c2fa5905b24d053a6cc053eb94c862861a"
+  },
+  "targets.json": {
+   "bytes": 2492,
+   "sha256": "79a495dacac7e1d89851ede8d336bc0acd8fa864cbf214c16e7458bd8d5efe57"
   }
  },
- "version": 8
+ "version": 11
 }

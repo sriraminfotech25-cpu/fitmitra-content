@@ -1,0 +1,38 @@
+{
+ "version": 1,
+ "sources": [
+  "ICMR-NIN 2020 Nutrient Requirements for Indians: TEE = BMR x PAL; BMR from the FAO/WHO/UNU 2004 weight equations reduced 10% because they overestimate Indian adults by 10-12%; PAL 1.40 sedentary (was 1.53), 1.80 moderate, 2.30 heavy; reference man 65 kg 2110/2710/3470 kcal, woman 55 kg 1660/2130/2720",
+  "FAO/WHO/UNU 2004 Human energy requirements, table 5.2: BMR kcal/day by sex and age band from body weight",
+  "Mifflin-St Jeor 1990 (kept as an alternative equation; ADA 2005 review: most accurate in Western adults, overestimates Asians ~10%)",
+  "AHA/ACC/TOS 2013 obesity guideline: 500-750 kcal/day deficit or 1200-1500 (women) / 1500-1800 (men); Helms 2014: <=20% deficit keeps lean mass in trained people",
+  "Slater 2019 / Iraki 2019: 10-20% surplus (~250-500 kcal) for muscle gain; beginners need the low end",
+  "Morton 2018 (plateau 1.6 g/kg) and the 2025 energy-restriction update (up to 2.2 g/kg preserves lean mass); ICMR 2020 RDA 0.83 g/kg as the floor",
+  "Adjusted body weight for protein when BMI is high: weight at the BMI cap plus 25% of the excess (dietetic convention), cap 25 = Asian-Indian obesity threshold (2025 revised definition)",
+  "ICMR-NIN 2024 Dietary Guidelines: fibre ~40 g per 2000 kcal, added sugar <= 25 g/day, fat 20-30% of energy"
+ ],
+ "bmr": {
+  "equation": "fao2004",
+  "indianFactor": 0.90,
+  "fao2004": {
+   "man": [[18, 30, 15.057, 692.2], [30, 60, 11.472, 873.1], [60, 120, 11.711, 587.7]],
+   "woman": [[18, 30, 14.818, 486.6], [30, 60, 8.126, 845.6], [60, 120, 9.082, 658.5]]
+  },
+  "mifflin": {"weight": 10, "height": 6.25, "age": 5, "man": 5, "woman": -161}
+ },
+ "pal": {"low": 1.40, "medium": 1.60, "high": 1.85},
+ "goals": {
+  "fat_loss": {"deltaFraction": -0.20, "deltaMaxKcal": 500, "proteinPerKg": 1.8, "fatFraction": 0.28},
+  "maintain": {"deltaFraction": 0.0, "deltaMaxKcal": 0, "proteinPerKg": 1.6, "fatFraction": 0.25},
+  "muscle_gain": {"deltaFraction": 0.10, "deltaMaxKcal": 350, "proteinPerKg": 2.0, "fatFraction": 0.25}
+ },
+ "floorKcal": {"woman": 1200, "man": 1500, "unknown": 1200},
+ "protein": {"refBmiCap": 25, "excessShare": 0.25, "minPerKg": 0.83, "maxKcalShare": 0.35},
+ "fiber": {"per1000Kcal": 20, "minG": 25, "maxG": 40},
+ "sugarMaxG": 25,
+ "roundKcal": 10,
+ "unknown": {"age": 30, "heightCm": {"man": 165, "woman": 152, "unknown": 158}},
+ "noWeight": {
+  "kcal": {"low": 1900, "medium": 2200, "high": 2500},
+  "protein": {"fat_loss": 120, "maintain": 100, "muscle_gain": 130}
+ }
+}
